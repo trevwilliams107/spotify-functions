@@ -17,13 +17,32 @@ from google.auth.transport.requests import Request
 from pprint import pprint
 from googleapiclient import discovery
 
+
+# ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+# IF YOU ARE NOT TREVOR W, REPLACE THE SPREADSHEET_ID BELOW WITH YOUR OWN GOOGLE SHEET # ID
+# YOU MUST MAKE YOUR OWN GOOGLE SHEET DOCUMENT AND FIND THE ID IN THE URL LIKE BELOW
+
+# https://docs.google.com/spreadsheets/d/1NbsNJd2C2bJMwI8mRA0UPQVq5PNhnh-qxDtJbfYFu3E/edit#gid=2132848365
+#                                        ^                                          ^
+# YOUR SHEET ID STARTS                  HERE              AND ENDS                 HERE
+#                                      (at 1)                                     (at E)
+
+SPREADSHEET_ID = '1NbsNJd2C2bJMwI8mRA0UPQVq5PNhnh-qxDtJbfYFu3E'
+
+
+# THE VARIABLE ABOVE IS THE ONLY THING YOU NEED TO CHANGE
+# ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+
 google_cid = '709831756208-hc395jqnaeq4gmrhgdp27243v38pbe2f.apps.googleusercontent.com'
 google_csec = '-W_7SzJWXQbGE1zzKhA5wsdm'
 
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
-SPREADSHEET_ID = '1NbsNJd2C2bJMwI8mRA0UPQVq5PNhnh-qxDtJbfYFu3E'
 ALPHABET = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O','P', 'Q', 'R', 'S', 'T','U', 'V', 'W']
-
 
 
 def createSheet(sheet_title):
@@ -159,11 +178,11 @@ def appendSong(lst, playlist_name):
 
 
 
-util.prompt_for_user_token('trevwilliams107',
-                           scope='playlist-modify-private,playlist-modify-public',
-                           client_id='20624df21d7c41288ee2b990bcd14050',
-                           client_secret='c3e9c3e71deb4d09ba2ef2441c305cc8',
-                           redirect_uri='https://localhost:8000')
+# util.prompt_for_user_token('trevwilliams107',
+#                            scope='playlist-modify-private,playlist-modify-public',
+#                            client_id='20624df21d7c41288ee2b990bcd14050',
+#                            client_secret='c3e9c3e71deb4d09ba2ef2441c305cc8',
+#                            redirect_uri='https://localhost:8000')
 
 song_artist_lst = []
 playlist_dic = {}
@@ -236,7 +255,6 @@ if __name__ == '__main__':
 
 
                 createSheet(pn)
-                # print ('  total tracks', playlist['tracks']['total'])
                 results = sp.playlist(playlist['id'], fields="tracks,next")
                 tracks = results['tracks']
                 show_tracks(tracks, playlist_name)
@@ -265,19 +283,3 @@ if __name__ == '__main__':
 
     else:
         print("Can't get token for", username)
-
-
-
-
-
-
-
-
-
-# albums = results['items']
-# while results['next']:
-#     results = spotify.next(results)
-#     albums.extend(results['items'])
-#
-# for album in albums:
-#     print(album['name'])
