@@ -74,7 +74,6 @@ if token:
             continue
         dic = {'uri' : uri, 'positions' : song_dic[uri][1]}
         remove.append(dic)
-    print(remove)
     sp.user_playlist_remove_specific_occurrences_of_tracks(username, playlist_id, remove, snapshot_id=None)
 
 

@@ -175,15 +175,6 @@ def appendSong(lst, playlist_name):
     response = request.execute()
 
 
-
-
-
-# util.prompt_for_user_token('trevwilliams107',
-#                            scope='playlist-modify-private,playlist-modify-public',
-#                            client_id='20624df21d7c41288ee2b990bcd14050',
-#                            client_secret='c3e9c3e71deb4d09ba2ef2441c305cc8',
-#                            redirect_uri='https://localhost:8000')
-
 song_artist_lst = []
 playlist_dic = {}
 artist_dic = {}
