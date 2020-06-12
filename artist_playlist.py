@@ -1,6 +1,9 @@
 from __future__ import print_function
 import random
 
+#client id/secrets
+from config import client
+
 #spotipy imports
 import sys
 import spotipy
@@ -25,8 +28,8 @@ if __name__ == '__main__':
 scopes = 'playlist-modify-private,playlist-modify-public,playlist-read-private,playlist-read-collaborative,user-read-private,user-library-modify,user-library-read'
 token = util.prompt_for_user_token(username,
                            scope=scopes,
-                           client_id='20624df21d7c41288ee2b990bcd14050',
-                           client_secret='c3e9c3e71deb4d09ba2ef2441c305cc8',
+                           client_id=client['spotipy']['client_id'],
+                           client_secret=client['spotipy']['client_secret'],
                            redirect_uri='https://localhost:8000')
 
 if token:

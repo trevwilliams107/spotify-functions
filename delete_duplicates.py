@@ -1,24 +1,16 @@
 from __future__ import print_function
 import random
 
+#client id/secrets
+from config import client
+
 #spotipy imports
 import sys
 import spotipy
 import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials
 
-count = 1
-def add_tracks(tracks, count):
-    for i, item in enumerate(tracks['items']):
-        track = item['track']
-        uri = track['uri']
-        if uri in song_dic:
-            song_dic[uri][0] += 1
-            song_dic[uri][1].append(count)
-        else:
-            song_dic[uri] = [1, []]
 
-        count += 1
 
 
 if __name__ == '__main__':
@@ -39,11 +31,25 @@ if __name__ == '__main__':
 scopes = 'playlist-modify-private,playlist-modify-public,playlist-read-private,playlist-read-collaborative,user-read-private,user-library-modify,user-library-read'
 token = util.prompt_for_user_token(username,
                            scope=scopes,
-                           client_id='20624df21d7c41288ee2b990bcd14050',
-                           client_secret='c3e9c3e71deb4d09ba2ef2441c305cc8',
+                           client_id=client['spotipy']['client_id'],
+                           client_secret=client['spotipy']['client_secret'],
                            redirect_uri='https://localhost:8000')
 
 song_dic = {}
+count = 1
+
+def add_tracks(tracks, count):
+    for i, item in enumerate(tracks['items']):
+        track = item['track']
+        uri = track['uri']
+        if uri in song_dic:
+            song_dic[uri][0] += 1
+            song_dic[uri][1].append(count)
+        else:
+            song_dic[uri] = [1, []]
+
+        count += 1
+    return count
 
 if token:
     sp = spotipy.Spotify(auth=token)
@@ -74,12 +80,3 @@ if token:
         dic = {'uri' : uri, 'positions' : song_dic[uri][1]}
         remove.append(dic)
     sp.user_playlist_remove_specific_occurrences_of_tracks(username, playlist_id, remove, snapshot_id=None)
-
-
-
-
-
-
-
-
-    print()

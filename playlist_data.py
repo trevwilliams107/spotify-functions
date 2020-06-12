@@ -1,6 +1,9 @@
 from __future__ import print_function
 import random
 
+#client id/secrets
+from config import client
+
 #spotify imports
 import sys
 import spotipy
@@ -27,7 +30,7 @@ from googleapiclient import discovery
 # YOUR SHEET ID STARTS                  HERE              AND ENDS                 HERE
 #                                      (at 1)                                     (at E)
 
-SPREADSHEET_ID = '1NbsNJd2C2bJMwI8mRA0UPQVq5PNhnh-qxDtJbfYFu3E'
+SPREADSHEET_ID = '15ZjUt1QnhYuW03Nn0WbBF_G0ro8YOTp7ckgzkWsFnfs'
 
 
 # THE VARIABLE ABOVE IS THE ONLY THING YOU NEED TO CHANGE
@@ -38,8 +41,6 @@ SPREADSHEET_ID = '1NbsNJd2C2bJMwI8mRA0UPQVq5PNhnh-qxDtJbfYFu3E'
 
 
 
-google_cid = '709831756208-hc395jqnaeq4gmrhgdp27243v38pbe2f.apps.googleusercontent.com'
-google_csec = '-W_7SzJWXQbGE1zzKhA5wsdm'
 
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 ALPHABET = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O','P', 'Q', 'R', 'S', 'T','U', 'V', 'W']
@@ -223,8 +224,8 @@ if __name__ == '__main__':
 
     token = util.prompt_for_user_token(username,
                                scope='playlist-modify-private,playlist-modify-public,playlist-read-private',
-                               client_id='20624df21d7c41288ee2b990bcd14050',
-                               client_secret='c3e9c3e71deb4d09ba2ef2441c305cc8',
+                               client_id=client['spotipy']['client_id'],
+                               client_secret=client['spotipy']['client_secret'],
                                redirect_uri='https://localhost:8000')
 
     if token:
