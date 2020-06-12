@@ -12,11 +12,15 @@ This feature will write every song in every playlist you have to a google sheet.
 
 First, you must make a google sheet document to put the data. In the code, change the spreadsheet id to your own spreadsheet. There are comments to direct you to where it should go.
 
-Then, in terminal cd into where playlist_data.py is. Then run the command:
+Then, share that google spreadsheet with the email:
+    playlist-data-creds@spotify-data-279723.iam.gserviceaccount.com
+And make sure to have edit access on.
+
+Then in terminal, cd into where playlist_data.py is. Then run the command:
 
 playlist_data.py username
 
-where username is your spotify username.
+username = your spotify username.
 The application should direct you to confirm that you will allow the application to make changes to your spotify and google accounts. The google application is not verified, so it will give you a warning when trying to navigate to the confirmation page. The spotify confirmation process requires you to copy and paste 2 URLs, which will be opened through localhost.
 
 Warning: If run more than once, an error will occur. You must either delete the sheets on the google sheet you were using or make a new google sheet and put it in the code.
