@@ -35,7 +35,7 @@ This feature creates a new playlist for an artist of your choosing that contains
 
 First, in terminal, cd into where artist_playlist.py is located. Then, run the command:
 
-`aritst_playlist.py username artist_name1
+`aritst_playlist.py username artist_name`
 
 username = your spotify username 
 artist_name = the name of the artist you want to make a playlist for
