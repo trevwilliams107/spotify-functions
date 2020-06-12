@@ -26,14 +26,14 @@ if __name__ == '__main__':
         username = sys.argv[1]
     else:
         print("Whoops, need your username!")
-        print("usage (copy this and replace 'your_username' with your spotify username and 'playlist_uri' with the URI of the playlist you want to clean): python3 delete_duplicates.py your_username playlist_uri")
+        print("usage (copy this and replace 'your_username' with your spotify username and 'playlist_name' with the exact name of the playlist you want to clean): python3 delete_duplicates.py your_username playlist_name")
         sys.exit()
 
     if len(sys.argv) > 1:
         playlist_name = sys.argv[2]
     else:
-        print("please enter the uri of the playlist you want duplicate songs deleted from")
-        print("usage (copy this and replace 'playlist_uri' with the uri of the playlist you want to clean): python3 user_playlists.py username playlist_uri")
+        print("please enter the name of the playlist you want duplicate songs deleted from")
+        print("usage (copy this and replace 'playlist_name' with the name of the playlist you want to clean): python3 user_playlists.py username playlist_name")
         sys.exit()
 
 scopes = 'playlist-modify-private,playlist-modify-public,playlist-read-private,playlist-read-collaborative,user-read-private,user-library-modify,user-library-read'
@@ -48,7 +48,6 @@ song_dic = {}
 if token:
     sp = spotipy.Spotify(auth=token)
     user = sp.current_user()
-    print()
     playlists = sp.current_user_playlists()
     playlist_dic = {}
     for playlist in playlists['items']:
