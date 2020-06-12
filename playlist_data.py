@@ -1,5 +1,7 @@
 from __future__ import print_function
 import random
+import os
+import httplib2
 
 #client id/secrets
 from config import client
@@ -18,7 +20,8 @@ from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from pprint import pprint
-from googleapiclient import discovery
+from apiclient import discovery
+from google.oauth2 import service_account
 
 
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -30,7 +33,7 @@ from googleapiclient import discovery
 # YOUR SHEET ID STARTS                  HERE              AND ENDS                 HERE
 #                                      (at 1)                                     (at E)
 
-SPREADSHEET_ID = '15ZjUt1QnhYuW03Nn0WbBF_G0ro8YOTp7ckgzkWsFnfs'
+SPREADSHEET_ID = '1CFkgFqsS1IEvKJCSCTZEqOTPeqyw-jZFzKcKRl5xmtI'
 
 
 # THE VARIABLE ABOVE IS THE ONLY THING YOU NEED TO CHANGE
@@ -42,8 +45,17 @@ SPREADSHEET_ID = '15ZjUt1QnhYuW03Nn0WbBF_G0ro8YOTp7ckgzkWsFnfs'
 
 
 
-SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
+SCOPES = ["https://www.googleapis.com/auth/drive", "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/spreadsheets"]
 ALPHABET = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O','P', 'Q', 'R', 'S', 'T','U', 'V', 'W']
+
+
+
+
+def authenticate():
+    secret_file = os.path.join(os.getcwd(), 'client_secret.json')
+    credentials = service_account.Credentials.from_service_account_file(secret_file, scopes=SCOPES)
+    service = discovery.build('sheets', 'v4', credentials=credentials)
+    return service
 
 
 def createSheet(sheet_title):
@@ -70,28 +82,28 @@ def createSheet(sheet_title):
     #     'https://www.googleapis.com/auth/drive.file'
     #     'https://www.googleapis.com/auth/spreadsheets'
 
-    creds = None
-        # The file token.pickle stores the user's access and refresh tokens, and is
-        # created automatically when the authorization flow completes for the first
-        # time.
-
-    if os.path.exists('token.pickle'):
-        with open('token.pickle', 'rb') as token:
-            creds = pickle.load(token)
-    # If there are no (valid) credentials available, let the user log in.
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials.json', SCOPES)
-            creds = flow.run_local_server(port=0)
-        # Save the credentials for the next run
-        with open('token.pickle', 'wb') as token:
-            pickle.dump(creds, token)
-
-    service = discovery.build('sheets', 'v4', credentials=creds)
-
+    # creds = None
+    #     # The file token.pickle stores the user's access and refresh tokens, and is
+    #     # created automatically when the authorization flow completes for the first
+    #     # time.
+    #
+    # if os.path.exists('token.pickle'):
+    #     with open('token.pickle', 'rb') as token:
+    #         creds = pickle.load(token)
+    # # If there are no (valid) credentials available, let the user log in.
+    # if not creds or not creds.valid:
+    #     if creds and creds.expired and creds.refresh_token:
+    #         creds.refresh(Request())
+    #     else:
+    #         flow = InstalledAppFlow.from_client_secrets_file(
+    #             'credentials.json', SCOPES)
+    #         creds = flow.run_local_server(port=0)
+    #     # Save the credentials for the next run
+    #     with open('token.pickle', 'wb') as token:
+    #         pickle.dump(creds, token)
+    #
+    # service = discovery.build('sheets', 'v4', credentials=creds)
+    service = authenticate()
 
 
     # The spreadsheet to apply the updates to.
@@ -129,36 +141,37 @@ def createSheet(sheet_title):
 
 def appendSong(lst, playlist_name):
 
-    creds = None
-        # The file token.pickle stores the user's access and refresh tokens, and is
-        # created automatically when the authorization flow completes for the first
-        # time.
+    # creds = None
+    #     # The file token.pickle stores the user's access and refresh tokens, and is
+    #     # created automatically when the authorization flow completes for the first
+    #     # time.
+    #
+    # if os.path.exists('token.pickle'):
+    #     with open('token.pickle', 'rb') as token:
+    #         creds = pickle.load(token)
+    # # If there are no (valid) credentials available, let the user log in.
+    # if not creds or not creds.valid:
+    #     if creds and creds.expired and creds.refresh_token:
+    #         creds.refresh(Request())
+    #     else:
+    #         flow = InstalledAppFlow.from_client_secrets_file(
+    #             'credentials.json', SCOPES)
+    #         creds = flow.run_local_server(port=0)
+    #     # Save the credentials for the next run
+    #     with open('token.pickle', 'wb') as token:
+    #         pickle.dump(creds, token)
+    #
+    # service = discovery.build('sheets', 'v4', credentials=creds)
 
-    if os.path.exists('token.pickle'):
-        with open('token.pickle', 'rb') as token:
-            creds = pickle.load(token)
-    # If there are no (valid) credentials available, let the user log in.
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials.json', SCOPES)
-            creds = flow.run_local_server(port=0)
-        # Save the credentials for the next run
-        with open('token.pickle', 'wb') as token:
-            pickle.dump(creds, token)
-
-    service = discovery.build('sheets', 'v4', credentials=creds)
+    service = authenticate()
 
     spreadsheet_id = SPREADSHEET_ID  # TODO: Update placeholder value.
 
     # The A1 notation of a range to search for a logical table of data.
     # Values will be appended after the last row of the table.
-    print(lst)
-    print()
+
     secondLetter = ALPHABET[len(lst[0]) - 1]
-    print(secondLetter)
+
     range_ = playlist_name + '!A1:' + secondLetter + '1'  # TODO: Update placeholder value.
 
     # How the input data should be interpreted.
@@ -183,7 +196,6 @@ artist_dic = {}
 def show_tracks(tracks, playlist_name):
     for i, item in enumerate(tracks['items']):
         track = item['track']
-        print(track['name'])
 
         if (track['artists'][0]['name'], track['name']) in playlist_dic:
             playlist_dic[(track['artists'][0]['name'], track['name'])] += 1
@@ -233,7 +245,7 @@ if __name__ == '__main__':
         playlists = sp.current_user_playlists()
         for playlist in playlists['items']:
             if playlist['owner']['id'] == username:
-                print(playlist['name'])
+                print('Now exporting: ' + playlist['name'])
                 song_artist_lst = []
                 playlist_name = playlist['name']
                 pn = ''
