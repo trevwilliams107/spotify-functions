@@ -35,7 +35,7 @@ This feature creates a new playlist for an artist of your choosing that contains
 
 First, in terminal, cd into where artist_playlist.py is located. Then, run the command:
 
-aritst_playlist.py username artist_name
+`aritst_playlist.py username artist_name1
 
 username = your spotify username 
 artist_name = the name of the artist you want to make a playlist for
@@ -50,7 +50,7 @@ This feature deletes all duplicate songs in a playlist (ie if a playlist has 2 i
 
 First, in terminal, cd into where delete_duplicates.py is located. Then, run the command:
 
-delete_duplicates.py username playlist_name
+`delete_duplicates.py username playlist_name`
 
 username = your spotify username
 playlist_name = name of playlist you want to clean.
