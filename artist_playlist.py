@@ -36,18 +36,19 @@ if token:
     sp = spotipy.Spotify(auth=token)
     user = sp.current_user()
     artist_id = sp.search(q='artist:' + artist, type='artist', limit=1)['artists']['items'][0]['id']
-    results = sp.artist_albums(artist_id, limit=20)
+    results = sp.artist_albums(artist_id, limit=50)
     artist_name = sp.artist(artist_id)['name']
     name = 'All ' + artist_name + ' Songs'
     albums = results['items']
-    sp.user_playlist_create(user['id'], name, public=True, description='')
 
     while results['next']:
         results = sp.next(results)
         albums.extend(results['items'])
+        
     count = 1
     big_list = []
     song_list = []
+    name_list = []
     for album in albums:
         album_id = album['id']
         songs = sp.album_tracks(album_id, limit=40)['items']
@@ -57,13 +58,15 @@ if token:
             for artist in artists:
                 all_artists_ids.add(artist['id'])
             if artist_id in all_artists_ids:
+                name_list.append(song['name'])
                 song_list.append(song['uri'])
                 count += 1
                 if count >= 100:
                     big_list.append(song_list)
                     song_list = []
                     count = 1
-
+    big_list.append(song_list)
+    sp.user_playlist_create(user['id'], name, public=True, description='')
     playlist_id = sp.current_user_playlists(limit=1, offset=0)['items'][0]['id']
     for lst in big_list:
         sp.user_playlist_add_tracks(username, playlist_id, lst, position=None)
