@@ -2,7 +2,7 @@ from __future__ import print_function
 import random
 
 #client id/secrets
-from config import client
+# from config import client
 
 #spotipy imports
 import sys
