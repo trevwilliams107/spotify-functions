@@ -1,0 +1,4879 @@
+{
+  "tracks": [
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "MANiCURE",
+      "uri": "spotify:track:4yOaj5AUW7WPNSwQPFqDoG"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Sweet Love",
+      "uri": "spotify:track:2CbvW8kgNDByBIQbFY0h3i"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "ScheiBe",
+      "uri": "spotify:track:1RFXENx9ILC6PECmNhEstC"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "전화기를 꺼놔 Turn Off Your Phone (feat. Elo) [Remix]",
+      "uri": "spotify:track:1Fq8mqybXejfOjwi7V607o"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Welcome To New York",
+      "uri": "spotify:track:33Kq0AT5rvwyE4azisG08x"
+    },
+    {
+      "artist": "I.O.I",
+      "album": "miss me?",
+      "track": "PING PONG",
+      "uri": "spotify:track:2bj9v9Ca7k34Mx0DVREk3o"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "You’ll Never Know",
+      "uri": "spotify:track:4PqIj0WOfPAq4QAvisjgpd"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Buzzcut Season",
+      "uri": "spotify:track:3ShTaJBCOclymogQNzPde7"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "Delicate",
+      "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "track": "공허해 empty",
+      "uri": "spotify:track:7zgabC90KSPZZwNjfZeTqo"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red - The 1st Album",
+      "track": "Red Dress",
+      "uri": "spotify:track:6J6cNVT6eosCLF2MZiy8X9"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The 1st Mini Album ‘Ice Cream Cake’",
+      "track": "Take It Slow",
+      "uri": "spotify:track:1sa96RYgum6F5CdgIfPgwJ"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "I'm in Love (feat. James Vincent McMorrow)",
+      "uri": "spotify:track:12q7yTtyZfJjObmss6FQi3"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "track": "Gravity",
+      "uri": "spotify:track:7qMOVzOAvF3VCdKoLaXhpm"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 承 'Her'",
+      "track": "Intro: Serendipity",
+      "uri": "spotify:track:7iV733e1KacKrFRaBNxVEf"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Bloody Mary",
+      "uri": "spotify:track:11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Moonlight",
+      "uri": "spotify:track:4TZdeM7zelZGz6JPrXSEZ1"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "I Don’t Disappoint",
+      "uri": "spotify:track:6x8NBTkm68p3oXuzqiDzed"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Kids in Love",
+      "track": "Kids in Love (feat. The Night Game)",
+      "uri": "spotify:track:1Bxzw8ag71snOU9IbhXVD6"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Hands To Myself",
+      "uri": "spotify:track:1LoriJC05IrHIDwj3q0KC1"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Greedy",
+      "uri": "spotify:track:2tpIAmAq9orm1Owh5pja1w"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Stay (feat. Maty Noyes)",
+      "uri": "spotify:track:2FiSTH0GYpIioUgjfzMIja"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Sidewalks",
+      "uri": "spotify:track:4h90qkbnW1Qq6pBhoPvwko"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Fragile",
+      "uri": "spotify:track:6PyxrogMU9imKqVtKx6840"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Flowers On The Floor",
+      "uri": "spotify:track:74Em6CujsH63r78S380JsB"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "Right There",
+      "uri": "spotify:track:3yiopxxeHuwcpAg4e57Zjt"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Six Feet Under",
+      "uri": "spotify:track:4mU5iXHeLgbR94siF7p1sY"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Starlight",
+      "uri": "spotify:track:0vqI4ZIMuifeKeItGiWbPj"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "track": "고백하는 거야 Confession",
+      "uri": "spotify:track:0AgR6mzyjICL214AXYY8sD"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "NCT#127 LIMITLESS - The 2nd Mini Album",
+      "track": "無限的我 무한적아; LIMITLESS",
+      "uri": "spotify:track:3vxgKOmAOVl11Csw4ehkmJ"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "I Like It Rough",
+      "uri": "spotify:track:0hOnSCYgG3NgAWkTE7Hmux"
+    },
+    {
+      "artist": "Paul Simon",
+      "album": "Graceland (25th Anniversary Deluxe Edition)",
+      "track": "You Can Call Me Al",
+      "uri": "spotify:track:0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Dope",
+      "uri": "spotify:track:37yshWNelgzYqQunLz4hEL"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Lonely Night",
+      "uri": "spotify:track:5Uj6v222teNJ5KbD2yuw5u"
+    },
+    {
+      "artist": "Ramon Ayala",
+      "album": "30 Grandes Éxitos de Ramón Ayala y Los Bravos del Norte",
+      "track": "Corrido de Gregorio Cortez",
+      "uri": "spotify:track:3Now8HkhwtOFCMm7xp06xM"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Begin Again",
+      "uri": "spotify:track:48A0aShHlovDfTMucMrE66"
+    },
+    {
+      "artist": "DEAN",
+      "album": "Limbo",
+      "track": "넘어와 (Feat. 백예린)",
+      "uri": "spotify:track:7LN1f9jAIu7yxBzsLMN7RB"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Firestone",
+      "uri": "spotify:track:1I8tHoNBFTuoJAlh4hfVVE"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "bloodline",
+      "uri": "spotify:track:2hloaUoRonYssMuqLCBLTX"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "True Colors",
+      "uri": "spotify:track:1oGdVdYjeQvojGKDddxLQQ"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Cloud 9",
+      "uri": "spotify:track:5A1rlH8MNGfL7sPp8rpA5Z"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Feature (feat. Cha Cha Malone)",
+      "uri": "spotify:track:49WTaM8HKq2QFyxSwrzw4J"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Secrets",
+      "uri": "spotify:track:00NAQYOP4AmWR549nnYJZu"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Girl At Home",
+      "uri": "spotify:track:6cf6rLb8qcklvJv90W6HCW"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Do What U Want",
+      "uri": "spotify:track:44JqKUXiWTaRrDQUx7CwsT"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Highway Unicorn (Road To Love)",
+      "uri": "spotify:track:63EubPPucSZlK4mXAZOP6G"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "track": "Rude Love",
+      "uri": "spotify:track:4r5zOeLS7c1qtx1ra83WGL"
+    },
+    {
+      "artist": "Ludwig van Beethoven",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Piano Sonata No. 14 in C-Sharp Minor, \"Moonlight\": I. Adagio sostenuto",
+      "uri": "spotify:track:4CqPmyQnDruHlT6AGrAFna"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Born This Way - The Country Road Version",
+      "uri": "spotify:track:5R4KVTSMC28Dp46gb3CdqK"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red Summer - Summer Mini Album",
+      "track": "You Better Know",
+      "uri": "spotify:track:59fJbRecO16BIw9L1neEug"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "I Don't Care",
+      "uri": "spotify:track:6j4w8O8gEseBUZTOo8vYMK"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "LoveGame",
+      "uri": "spotify:track:5c0Wgs68kjgViFCVDGLB2I"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Why - The 2nd Mini Album",
+      "track": "Hands on Me",
+      "uri": "spotify:track:6jk5Xz3QCcV1O4y5gRYymg"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Fine",
+      "uri": "spotify:track:6CdUgvL597jWmW4w8P5kHs"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Biting Down",
+      "uri": "spotify:track:45UvXCltvMpEPNLGzG0NYk"
+    },
+    {
+      "artist": "Wanna One",
+      "album": "1X1=1(TO BE ONE)",
+      "track": "Energetic",
+      "uri": "spotify:track:3CEs5Jnov3YkmYn0Vezrcr"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "I Got This",
+      "uri": "spotify:track:5AesnSkSFSljRMqYEYad3T"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "ILYSB",
+      "uri": "spotify:track:2btKtacOXuMtC9WjcNRvAA"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Monster - Chinese Version",
+      "uri": "spotify:track:3f9PDL4uem9X3BQpBCoWoG"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Heaven - Chinese Version",
+      "uri": "spotify:track:59RuL6LS0BUFcilD6CPZWm"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "TRANSFORMER",
+      "uri": "spotify:track:70O7nKs2tXPxjSvGjYImyf"
+    },
+    {
+      "artist": "Gabriel Fauré",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Sicilienne, Op. 78 (arr. for orchestra)",
+      "uri": "spotify:track:3pDST36MAGDsFjx9w2jSvP"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "fake smile",
+      "uri": "spotify:track:3wFLWP0FcIqHK1wb1CPthQ"
+    },
+    {
+      "artist": "I.O.I",
+      "album": "miss me?",
+      "track": "Hold On",
+      "uri": "spotify:track:3TcIfpyuxysFuI7K0H5Y8m"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "Bad Boy",
+      "uri": "spotify:track:5GKwq4sO5ZHKuWaDmdwMQc"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Nobody",
+      "uri": "spotify:track:1JvGjHoDwbekZ9lNVzH0GH"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "track": "Crime Scene",
+      "uri": "spotify:track:3rdv68B48Cc7h1tZxsuh70"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Starstruck",
+      "uri": "spotify:track:270TVH45y3aFzNSZQt1wsC"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "NCT#127 LIMITLESS - The 2nd Mini Album",
+      "track": "Angel",
+      "uri": "spotify:track:3xIy7x4ywJuC6CpDxrzN9Z"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Monster",
+      "uri": "spotify:track:28U7S5DvjFqnMQCAlKtmfH"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Green Light",
+      "uri": "spotify:track:3I4QOvltiKcMu3xmnQjEct"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Summer Magic - Summer Mini Album",
+      "track": "Blue Lemonade",
+      "uri": "spotify:track:5XTQXTzEVpYq8wL6DZYgSz"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "Call It What You Want",
+      "uri": "spotify:track:1GwMQaZz6Au3QLDbjbMdme"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Brown Eyes",
+      "uri": "spotify:track:5vbDCQk4TsoMQ0zG82K8mR"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Queendom - The 6th Mini Album",
+      "track": "Queendom",
+      "uri": "spotify:track:6SpPr7K4YQ2wp8jU6uOTmQ"
+    },
+    {
+      "artist": "CLC",
+      "album": "FREE’SM",
+      "track": "I Like It",
+      "uri": "spotify:track:3jSCCtQNaZXAkn6O09LDyN"
+    },
+    {
+      "artist": "Sam Cooke",
+      "album": "Ain't That Good News",
+      "track": "A Change Is Gonna Come",
+      "uri": "spotify:track:0KOE1hat4SIer491XKk4Pa"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The 1st Mini Album ‘Ice Cream Cake’",
+      "track": "Ice Cream Cake",
+      "uri": "spotify:track:2oLLOxkJWJj9BbrsTc4Xql"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Treacherous - Original Demo Recording",
+      "uri": "spotify:track:7BT9K9BDqq6HI2oWH5UMZQ"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Starboy",
+      "uri": "spotify:track:7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "artist": "Wolfgang Amadeus Mozart",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Symphony No. 40 in G Minor, K. 550: II. Andante",
+      "uri": "spotify:track:15eDNE4SiDK19CwcFyCaay"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "MY ANSWER",
+      "uri": "spotify:track:3Q5Zs0EH4d7b00xMw3vwSJ"
+    },
+    {
+      "artist": "Pyotr Ilyich Tchaikovsky",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Souvenir d'un lieu cher, Op. 42: III. Melodie (arr. A.K. Glazunov for violin and orchestra)",
+      "uri": "spotify:track:0CHCtizswLUERbMLS9vJtJ"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "A Lonely Night",
+      "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Bon appétit",
+      "uri": "spotify:track:7bEpta1ypII0jz5zW993VA"
+    },
+    {
+      "artist": "Jessica Simpson",
+      "album": "Disneymania 3",
+      "track": "A Whole New World - Pop Version",
+      "uri": "spotify:track:0CF5aLKvrH492rHA4bRGbQ"
+    },
+    {
+      "artist": "NewJeans",
+      "album": "NewJeans 1st EP 'New Jeans'",
+      "track": "Attention",
+      "uri": "spotify:track:2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Rookie - The 4th Mini Album",
+      "track": "Talk To Me",
+      "uri": "spotify:track:0X6SLg4pM3jdT9y18XYGN4"
+    },
+    {
+      "artist": "TWICE",
+      "album": "FANCY YOU",
+      "track": "FANCY",
+      "uri": "spotify:track:60zxdAqWtdDu0vYsbXViA7"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red - The 1st Album",
+      "track": "Huff n Puff",
+      "uri": "spotify:track:0XLguSTmlB2UJ3qztURBpU"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The 1st Mini Album ‘Ice Cream Cake’",
+      "track": "Somethin Kinda Crazy",
+      "uri": "spotify:track:10ATkuVoD72aCpLfwC5wiC"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Tampa",
+      "uri": "spotify:track:0qsXeAHVa7y8OX27gqAxRx"
+    },
+    {
+      "artist": "Wolfgang Amadeus Mozart",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": II. Romance",
+      "uri": "spotify:track:4xqD7YuqlKINsXnZYZnDaL"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Into You",
+      "uri": "spotify:track:2meEiZKWkiN28gITzFwQo5"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "This Love",
+      "uri": "spotify:track:1kTPQnabROVkW9bUXdCGrB"
+    },
+    {
+      "artist": "CLC",
+      "album": "CRYSTYLE",
+      "track": "Depression",
+      "uri": "spotify:track:2vgESpw21M78ii54se82in"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red Summer - Summer Mini Album",
+      "track": "Zoo",
+      "uri": "spotify:track:7sEwz6PjhQ1bbSSWb6IBid"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "NCT#127 LIMITLESS - The 2nd Mini Album",
+      "track": "롤러코스터 Heartbreaker",
+      "uri": "spotify:track:4aibCCgS7QrbCSXZKlwvPu"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Lucky One - Chinese Version",
+      "uri": "spotify:track:4HDFK3ONvYolY0sGMD7wVS"
+    },
+    {
+      "artist": "EXO",
+      "album": "THE WAR - The 4th Album",
+      "track": "Touch It",
+      "uri": "spotify:track:1SKltjAmqarrBgHW5HrcKW"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Brown Eyes",
+      "uri": "spotify:track:3RNoCT6EgTKGLXJWP3SLQR"
+    },
+    {
+      "artist": "Rick Astley",
+      "album": "Whenever You Need Somebody",
+      "track": "Never Gonna Give You Up",
+      "uri": "spotify:track:7GhIk7Il098yCjg4BQjzvb"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Good Girls",
+      "uri": "spotify:track:2kMKmb60xVUIWW2Out8ypz"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Dance In The Dark",
+      "uri": "spotify:track:3z9cglgMM3AaSjomoncjAx"
+    },
+    {
+      "artist": "DEAN",
+      "album": "Limbo",
+      "track": "불청객",
+      "uri": "spotify:track:28WctYFXTOeQm4FTYgENyp"
+    },
+    {
+      "artist": "Calvin Harris",
+      "album": "This Is What You Came For",
+      "track": "This Is What You Came For",
+      "uri": "spotify:track:0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "artist": "Big Mama Thornton",
+      "album": "Hound Dog / The Peacock Recordings",
+      "track": "Hound Dog - Single Version",
+      "uri": "spotify:track:4GgmAsaolWaBPn4DofdCck"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "Look",
+      "uri": "spotify:track:2qonYeTBH7wjIqpfDbNd8N"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "track": "The fifth season (SSFWL)",
+      "uri": "spotify:track:5zypKmEPNSSfH4JTn9s68n"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "For What It's Worth (feat. Angus & Julia Stone)",
+      "uri": "spotify:track:6HsbMH5Bgkp4QgAp7MVZ8z"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "The Moment I Knew",
+      "uri": "spotify:track:5AsmAjBSSQjRPWgAYIp8tm"
+    },
+    {
+      "artist": "YG",
+      "album": "Still Brazy",
+      "track": "Why You Always Hatin?",
+      "uri": "spotify:track:39hnH8WdPmNT3Q3yzwC9Rg"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Summer Magic - Summer Mini Album",
+      "track": "Hit That Drum",
+      "uri": "spotify:track:7dafpAJczCDB1Pzz7bRSCh"
+    },
+    {
+      "artist": "DEAN",
+      "album": "love",
+      "track": "love",
+      "uri": "spotify:track:6wcRv0UBvEH9NCIA3IVyQs"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Teeth",
+      "uri": "spotify:track:4mr1rbB0HuhPjTOmizIxdK"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Fiction (feat. Tom Odell)",
+      "uri": "spotify:track:3vRvuatWmKcHhxbv6choLR"
+    },
+    {
+      "artist": "Clay Aiken",
+      "album": "Disneymania 3",
+      "track": "Proud of Your Boy - Pop Version",
+      "uri": "spotify:track:5N7oWXRMjXjr3MvoScYu7x"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Shake It Off",
+      "uri": "spotify:track:3fthfkkvy9av3q3uAGVf7U"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "track": "Glitter",
+      "uri": "spotify:track:6pndCQIcqaCS6dn7ICbuqK"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "Tattooed Heart",
+      "uri": "spotify:track:5yxghrFKJbU7pcaUFEv1Sg"
+    },
+    {
+      "artist": "Dalshabet",
+      "album": "FRI. SAT. SUN",
+      "track": "Some What",
+      "uri": "spotify:track:0bV1cVzMVDThzpgEreLmPR"
+    },
+    {
+      "artist": "DEAN",
+      "album": "130 Mood : TRBL",
+      "track": "What 2 Do",
+      "uri": "spotify:track:6GS3lnAVy5w6AHWEKYzYeS"
+    },
+    {
+      "artist": "Buffy Sainte-Marie",
+      "album": "Medicine Songs",
+      "track": "You Got To Run (Spirit of the Wind)",
+      "uri": "spotify:track:5Y1TbeARZ1Xv3jXlAN3ST3"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Swish Swish",
+      "uri": "spotify:track:2y6vf5vYJFow4oABKSW1m3"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "track": "끼부리지마 Don't flirt",
+      "uri": "spotify:track:1o1XVvsz8Q10CsA1J2VHmC"
+    },
+    {
+      "artist": "IMFACT",
+      "album": "MUSES DIARY",
+      "track": "Lip 2 Lip",
+      "uri": "spotify:track:12VEtNuKVQLjWrbEH1ovQJ"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Liability (Reprise)",
+      "uri": "spotify:track:7kEN6uPEaCTATwQKagVcVE"
+    },
+    {
+      "artist": "Guillermo Velázquez",
+      "album": "Serrano de Corazón",
+      "track": "El huapango resplandece (Huapango Is Resplendent)",
+      "uri": "spotify:track:1K5MQKUDHwJfNjNxxLKrMy"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Gypsy",
+      "uri": "spotify:track:3XLKFxQUnWWZxpxTWhVFiV"
+    },
+    {
+      "artist": "NewJeans",
+      "album": "NewJeans 1st EP 'New Jeans'",
+      "track": "Hype Boy",
+      "uri": "spotify:track:0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Lucky One - Chinese Version Instrumental",
+      "uri": "spotify:track:48pvUxBfXQ96geGQxvpya8"
+    },
+    {
+      "artist": "Dalshabet",
+      "album": "FRI. SAT. SUN",
+      "track": "Ya Heart",
+      "uri": "spotify:track:2mdBenWvabMkxQICJ7304L"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "EL DORADO",
+      "uri": "spotify:track:0JuvOy5GBqotHz6b3rKIZE"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "Fool",
+      "uri": "spotify:track:21C7B7PWYDW00czamOjleO"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Judas",
+      "uri": "spotify:track:7rr5DQM980mOF1UtIC4q6v"
+    },
+    {
+      "artist": "SEVENTEEN",
+      "album": "SEVENTEEN 4th Mini Album ‘Al1’",
+      "track": "Don't Wanna Cry",
+      "uri": "spotify:track:6Upu6yjkdi0DVI8E3IBZEU"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "FOREVER 1 - The 7th Album",
+      "track": "You Better Run",
+      "uri": "spotify:track:7AKKUOFQjjhFyjzvhtawsM"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Sexxx Dreams",
+      "uri": "spotify:track:30GfXr00GVLyurZy5G6phk"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "End Game",
+      "uri": "spotify:track:2x0WlnmfG39ZuDmstl9xfX"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "ghostin",
+      "uri": "spotify:track:2vdBo4ALPYbHRUPKgtE5iC"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "The Edge Of Glory",
+      "uri": "spotify:track:6uxYfENm7zw050dNUi031W"
+    },
+    {
+      "artist": "Dalshabet",
+      "album": "FRI. SAT. SUN",
+      "track": "FRI. SAT. SUN",
+      "uri": "spotify:track:24EZdr3QD9P2jbTtYJn2ux"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "imagine",
+      "uri": "spotify:track:39LmTF9RgyakzSYX8txrow"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red Summer - Summer Mini Album",
+      "track": "Mojito",
+      "uri": "spotify:track:7qCfSyTqh4xGeua7hQXT0Z"
+    },
+    {
+      "artist": "Lil Nas X",
+      "album": "7 EP",
+      "track": "Old Town Road",
+      "uri": "spotify:track:0F7FA14euOIX8KcbEturGH"
+    },
+    {
+      "artist": "LOONA",
+      "album": "Kim Lip",
+      "track": "Eclipse (Prod. By Daniel Obi Klein)",
+      "uri": "spotify:track:6k3sl3Hs6bNN497d672gpR"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Sad Beautiful Tragic",
+      "uri": "spotify:track:5QKhg4r4Ibt0LVTmWEXTEg"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Happy Birthday (feat. John Legend)",
+      "uri": "spotify:track:5SAckbSHhNJ41b3bn5XwPL"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Cloud 9 - Chinese Version",
+      "uri": "spotify:track:3HAMXqpQqkTZ6avQOyaAQP"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "My Second Date",
+      "uri": "spotify:track:797RIYqtaFG0Slncakq49w"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Feel So Fine",
+      "uri": "spotify:track:0HpVxENhdCmFyTtf08th8s"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Aquaman",
+      "uri": "spotify:track:7srhFioV4KLX66Y73Ab4pJ"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Holy Ground",
+      "uri": "spotify:track:5d2Kn9oAAh9S2EbyCo1i52"
+    },
+    {
+      "artist": "MOMOLAND",
+      "album": "GREAT!",
+      "track": "Fly",
+      "uri": "spotify:track:5lg0NSqInqMk1SdZFaM8F4"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Hey Hey Hey",
+      "uri": "spotify:track:1cDufRobeTRBJ7lYmEVFTi"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "track": "Déjà Vu",
+      "uri": "spotify:track:4P9jXmbWQXq5tzyQDtLuW8"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "ScheiBe - DJ White Shadow Mugler",
+      "uri": "spotify:track:6YMkvvz4RwpKK8WZN5Hfmv"
+    },
+    {
+      "artist": "Childish Gambino",
+      "album": "This Is America",
+      "track": "This Is America",
+      "uri": "spotify:track:0b9oOr2ZgvyQu88wzixux9"
+    },
+    {
+      "artist": "MOMOLAND",
+      "album": "GREAT!",
+      "track": "Wonderful love (EDM Ver.) inst",
+      "uri": "spotify:track:1Yr14vj8y4h6qo6HrI6WGv"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "7 rings",
+      "uri": "spotify:track:6ocbgoVGwYJhOv1GgI9NsF"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "Sunny Afternoon",
+      "uri": "spotify:track:5j5GL0vsQnDBdiuLEyfnrv"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "Please Be Naked",
+      "uri": "spotify:track:0UyfKV5iafZCCtQxRBbe85"
+    },
+    {
+      "artist": "O.T. Genasis",
+      "album": "Push It",
+      "track": "Push It",
+      "uri": "spotify:track:448hNuS6TH90bjpIHIJqH3"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Best Mistake",
+      "uri": "spotify:track:70yhaHLp9STtzI2Kzba6Tr"
+    },
+    {
+      "artist": "Blake Shelton",
+      "album": "Based on a True Story...",
+      "track": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "uri": "spotify:track:39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Rookie - The 4th Mini Album",
+      "track": "Little Little",
+      "uri": "spotify:track:38HpS7Kf5Fgc9VomkvahML"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "track": "Traveler (feat. (ZICO))",
+      "uri": "spotify:track:3aVFEmlJVSdJs3ggPiHDQg"
+    },
+    {
+      "artist": "BLACKPINK",
+      "album": "SQUARE UP",
+      "track": "Forever Young",
+      "uri": "spotify:track:2naEVOadudtXHwtZNfjMDM"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "사실은 The Truth Is",
+      "uri": "spotify:track:4ufyEgyy1K0DlCxvEWo629"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Artificial Love - Chinese Version",
+      "uri": "spotify:track:3Sb51CZVzjVKwtYs7sl22u"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "Piano",
+      "uri": "spotify:track:1xCqIXCApBgcjwRLostpKl"
+    },
+    {
+      "artist": "BLACKPINK",
+      "album": "SQUARE UP",
+      "track": "DDU-DU DDU-DU",
+      "uri": "spotify:track:7b8YOVV5quZcSKEijDgyWB"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "It Was Love",
+      "uri": "spotify:track:3Qqsr0Xu0Ts6AaC1XqMFC8"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "I'm OK",
+      "uri": "spotify:track:0rHnkLIGf54WbwMW6cyVoP"
+    },
+    {
+      "artist": "myB 마이비",
+      "album": "MY OH MY 심장어택",
+      "track": "MY OH MY 심장어택",
+      "uri": "spotify:track:0llr3iRogMROesmdTXm8lf"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "Kingdom Come",
+      "uri": "spotify:track:7frQ2zMByCc4UFOGzAIr3x"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "CALL ME BABY",
+      "uri": "spotify:track:2esWlgliGBobFM510ApWPr"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Summer Magic - Summer Mini Album",
+      "track": "Bad Boy - English Version, Bonus Track",
+      "uri": "spotify:track:78HD9IN4cKE1MMHWeVJPWh"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "I Did Something Bad",
+      "uri": "spotify:track:4svZDCRz4cJoneBpjpx8DJ"
+    },
+    {
+      "artist": "Johann Sebastian Bach",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Brandenburg Concerto No. 1 in F Major, BWV 1046: II. Adagio",
+      "uri": "spotify:track:6u0RiqoQb4Udx2SY8aa8M9"
+    },
+    {
+      "artist": "Dalshabet",
+      "album": "FRI. SAT. SUN",
+      "track": "FLY BOY",
+      "uri": "spotify:track:5g5YwYUQD5kXrw2yxhd9Kr"
+    },
+    {
+      "artist": "Merle Haggard",
+      "album": "Greatest Hits - Finest Performances",
+      "track": "Okie From Muskogee",
+      "uri": "spotify:track:1uuqRaSJAiQ6VB8BWblXWJ"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Tsunami",
+      "uri": "spotify:track:18A7i4nQ7xCr6WFqwy0rx2"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "13",
+      "uri": "spotify:track:0WOvSEVpUGkNufX0w0M06F"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Let Me Love You",
+      "uri": "spotify:track:5AKlnLpP3WLwZseNbjquND"
+    },
+    {
+      "artist": "CLC",
+      "album": "FREE’SM",
+      "track": "Summer Kiss",
+      "uri": "spotify:track:1tWFNCrpx3qqCvf8X8hCYm"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Nothing Without You",
+      "uri": "spotify:track:57qiTKh8bVX0VtfUNTQqhw"
+    },
+    {
+      "artist": "Triple H",
+      "album": "199X",
+      "track": "365 FRESH",
+      "uri": "spotify:track:5G8YqJQ6oyPkxBSjpkCVRy"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Monster",
+      "uri": "spotify:track:6lM6yIDZ7kxFsgQCCfaLE2"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "Some Love",
+      "uri": "spotify:track:5czplK1gYj0kyZeX3URzdM"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Nothing Left (feat. Will Heard)",
+      "uri": "spotify:track:2fZW7ByWe46rGih0FtP2XK"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "So Happy I Could Die",
+      "uri": "spotify:track:4vP2EWIXz5vlSLkgjm1Up4"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "2nd Thots",
+      "uri": "spotify:track:53Csq5yCGdxaJ611GDrZBr"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Beautiful, Dirty, Rich",
+      "uri": "spotify:track:2ePpdCzR3sDkjlEX0UiCzJ"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Black Jesus + Amen Fashion",
+      "uri": "spotify:track:3u8L4te13sTuqyHNR7j2rB"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Solo (feat. Hoody)",
+      "uri": "spotify:track:5ToEgWcDR2ZmkpmEfMqoky"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "The 1975",
+      "uri": "spotify:track:4ZEvWpjUBtL9gjVIzB2Wbr"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "When I Was Young",
+      "uri": "spotify:track:2wewTyDV3cJ2sEToe2DAG7"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Alejandro",
+      "uri": "spotify:track:2UM6b78kBrge7Esaoz93kk"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "백색소음 White Noise",
+      "uri": "spotify:track:64BBEVjGysUU6GTz7Pskvc"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Born This Way",
+      "uri": "spotify:track:6r2BECwMgEoRb5yLfp0Hca"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "Look What You Made Me Do",
+      "uri": "spotify:track:1P17dC1amhFzptugyAO7Il"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "She's American",
+      "uri": "spotify:track:51cd3bzVmLAjlnsSZn4ecW"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "I Got Love",
+      "uri": "spotify:track:1IgRQvTqj7BKjNWRzjFEE0"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "King Of My Heart",
+      "uri": "spotify:track:7HuBDWi18s4aJM8UFnNheH"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Money Honey",
+      "uri": "spotify:track:6SV6STKCAhNpLxA4cvgBYw"
+    },
+    {
+      "artist": "DEAN",
+      "album": "130 Mood : TRBL",
+      "track": "I Love It",
+      "uri": "spotify:track:6CBA5xTE7Z4cyA9rzlhFdA"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "NASA",
+      "uri": "spotify:track:4uTvPEr01pjTbZgl7jcKBD"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "The Sound",
+      "uri": "spotify:track:316r1KLN0bcmpr7TZcMCXT"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "NCT#127 LIMITLESS - The 2nd Mini Album",
+      "track": "Baby Don’t Like It 나쁜 짓",
+      "uri": "spotify:track:2GvmmH17SYWeefk47bhMyl"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "My Dear Melancholy,",
+      "track": "Wasted Times",
+      "uri": "spotify:track:72TyiiduRmczEbDIEtKQdR"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "My Dear",
+      "uri": "spotify:track:6rGpzSx22fJKX9qDciUih8"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Time Lapse",
+      "uri": "spotify:track:2Okv1MY4rnI3hHyDXqOdvs"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Side To Side",
+      "uri": "spotify:track:1pKeFVVUOPjFsOABub0OaV"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Monster - Instrumental",
+      "uri": "spotify:track:0PY678BHpYYJBKcyM0Qflz"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Me Like Yuh (feat. Hoody) [Korean Version]",
+      "uri": "spotify:track:3Y3C6KFlvYejQTEpqkFB93"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Leave Me Lonely",
+      "uri": "spotify:track:0zXXqCxifU2u8jfW2r4POb"
+    },
+    {
+      "artist": "MOMOLAND",
+      "album": "GREAT!",
+      "track": "Curious",
+      "uri": "spotify:track:2dzKsmPB4nL5KlUrPN34kL"
+    },
+    {
+      "artist": "MOMOLAND",
+      "album": "GREAT!",
+      "track": "BBoom BBoom inst",
+      "uri": "spotify:track:232eTDktEb9i21PXUTuqwu"
+    },
+    {
+      "artist": "Flume",
+      "album": "Say It",
+      "track": "Say It (feat. Tove Lo)",
+      "uri": "spotify:track:217xrcrbBtgJhvlHicxTSH"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Break Free",
+      "uri": "spotify:track:12KUFSHFgT0XCoiSlvdQi4"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "How You Get The Girl",
+      "uri": "spotify:track:6wfugRLamFsTRbPcCpNnP7"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Mind Maze",
+      "uri": "spotify:track:3pibKdWIRbffobuE0EYvFW"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Kids in Love",
+      "track": "Never Let You Go (feat. John Newman)",
+      "uri": "spotify:track:3nTIvcfFkFEUL4cdMaEt5H"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red - The 1st Album",
+      "track": "Dumb Dumb",
+      "uri": "spotify:track:0RhbQOahoOBgBE7Qx4AoSy"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "Lovin' It",
+      "uri": "spotify:track:7EpKfPAURnG9OCVer0S30N"
+    },
+    {
+      "artist": "Bob Dylan",
+      "album": "The Freewheelin' Bob Dylan",
+      "track": "Blowin' in the Wind",
+      "uri": "spotify:track:18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Wildest Dreams",
+      "uri": "spotify:track:106R7Z57WYzBAfrXImV30y"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Just Dance",
+      "uri": "spotify:track:0iQ9xnevGrPQZnPhEx7gPb"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Why - The 2nd Mini Album",
+      "track": "Starlight",
+      "uri": "spotify:track:4kcX1pwQBQFpXhDc64MTPq"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Style",
+      "uri": "spotify:track:1fo2ctLqj3zBhRQKOXprol"
+    },
+    {
+      "artist": "I.O.I",
+      "album": "miss me?",
+      "track": "More More",
+      "uri": "spotify:track:2sRodFR6YXPNkGrDuLkSvq"
+    },
+    {
+      "artist": "MOMOLAND",
+      "album": "GREAT!",
+      "track": "Same Same",
+      "uri": "spotify:track:1WbEK3tM3TO10HoHtaZjls"
+    },
+    {
+      "artist": "EXO",
+      "album": "THE WAR - The 4th Album",
+      "track": "The Eve",
+      "uri": "spotify:track:2ujA6F1cpk3m8lsPE5aKua"
+    },
+    {
+      "artist": "Jessie J",
+      "album": "My Everything",
+      "track": "Bang Bang",
+      "uri": "spotify:track:466s1BacUmiRdR3ISvNjyx"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Bigger Than Me",
+      "uri": "spotify:track:20dtZX5i4rEdZ35eFjAWLr"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Intro",
+      "uri": "spotify:track:0qMNPhpRzbghJy6G3SgRag"
+    },
+    {
+      "artist": "Mark Keali'i Ho'omalu",
+      "album": "Lilo & Stitch",
+      "track": "He Mele No Lilo",
+      "uri": "spotify:track:3G9ZnSjGYyHx7e221v0qse"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "She Lays Down",
+      "uri": "spotify:track:7Esd9ROfkgPgBtWN72U5P5"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Alone Tonight (feat. Sik-K)",
+      "uri": "spotify:track:68a93gsm4r0i1ADBORZ0GU"
+    },
+    {
+      "artist": "NewJeans",
+      "album": "NewJeans 1st EP 'New Jeans'",
+      "track": "Cookie",
+      "uri": "spotify:track:2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "artist": "EXO",
+      "album": "DON'T FIGHT THE FEELING - Special Album",
+      "track": "Don't fight the feeling",
+      "uri": "spotify:track:42fR3oINF3KfXCDtheoNiY"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Perfect Places",
+      "uri": "spotify:track:1qXjolYMICsnISl8xZAbA2"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Die For You",
+      "uri": "spotify:track:2Ch7LmS7r2Gy2kc64wv3Bz"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "I'm OK",
+      "uri": "spotify:track:6vmjoQhYxyHzyNsWLRp7dq"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "If I Believe You",
+      "uri": "spotify:track:2J3ajGI1sVj9wnqThJHwPS"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 承 'Her'",
+      "track": "Go Go",
+      "uri": "spotify:track:5nq1uTNIR1cBR72T87viS0"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "When I Was Young",
+      "uri": "spotify:track:0Hj6Eud9jma2qPeu7LkOiq"
+    },
+    {
+      "artist": "John Debney",
+      "album": "The Haunted Mansion",
+      "track": "Phantom Manor Suite",
+      "uri": "spotify:track:7nwhZlzj7hLIUfBklL3lIV"
+    },
+    {
+      "artist": "EXO",
+      "album": "THE WAR - The 4th Album",
+      "track": "Chill",
+      "uri": "spotify:track:0NYI7lXYvyEhpjP0yWAjRg"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "A World Alone",
+      "uri": "spotify:track:2HLnzsXJ3mD9UWAa3RY89n"
+    },
+    {
+      "artist": "Jonas Brothers",
+      "album": "Disneymania 4",
+      "track": "Yo Ho (A Pirate's Life for Me)",
+      "uri": "spotify:track:4qT00w1Ok7hGJIRyiUNfWh"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "Daydreamin'",
+      "uri": "spotify:track:7c86ULTZD9eNdAbJDQLRaC"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Eraser",
+      "uri": "spotify:track:4rU4ZX1ss3TAWwksKs9dHI"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "track": "Case No.L5VE",
+      "uri": "spotify:track:2KfYrkjnuoo016zQIGEpLF"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "All You Had To Do Was Stay",
+      "uri": "spotify:track:0lmMtDQ2ElasKU2qDAE6NN"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Stronger",
+      "uri": "spotify:track:5s2fOlIDY4DAhZM6Yw6pdy"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Disco Heaven",
+      "uri": "spotify:track:5SNbgtKKFCB96ALTyFjnUy"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "PLAYBOY",
+      "uri": "spotify:track:45tWbqJgfMwb8aD00KIujR"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The 1st Mini Album ‘Ice Cream Cake’",
+      "track": "Stupid Cupid",
+      "uri": "spotify:track:6OnKEdFzwJhLXGP3z3IiRs"
+    },
+    {
+      "artist": "Bruno Mars",
+      "album": "24K Magic",
+      "track": "Finesse",
+      "uri": "spotify:track:5XMkENs3GfeRza8MfVAhjK"
+    },
+    {
+      "artist": "Florida Georgia Line",
+      "album": "Florida Georgia Line",
+      "track": "Simple",
+      "uri": "spotify:track:4P92FrvmYQSAfOpp4cpFEi"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Only 1",
+      "uri": "spotify:track:6LQzYkmd8ADbKOOEVDnlG4"
+    },
+    {
+      "artist": "Gil Scott-Heron",
+      "album": "The Revolution Begins: The Flying Dutchman Masters",
+      "track": "Whitey on the Moon",
+      "uri": "spotify:track:2355UaWJqfhsnstzsLT49h"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "My Dear Melancholy,",
+      "track": "Hurt You",
+      "uri": "spotify:track:13wNEvWmBsWaWVtiLPRIW5"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Purple Teeth",
+      "uri": "spotify:track:1gDAWXx0SviMywx5BliYWP"
+    },
+    {
+      "artist": "Mark Keali'i Ho'omalu",
+      "album": "Lilo & Stitch",
+      "track": "Hawaiian Roller Coaster Ride",
+      "uri": "spotify:track:7GmiJVBAzWNikX5VkNQg85"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Marry The Night - Zedd Remix",
+      "uri": "spotify:track:3acHQsIoaXtCPX96CDgivm"
+    },
+    {
+      "artist": "Johann Pachelbel",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Canon and Gigue in D Major: Canon in D Major",
+      "uri": "spotify:track:7KcKysOyOL66BMHbz0e5Fl"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Telephone",
+      "uri": "spotify:track:0vYTTsZRE6FoT129pM5Kvs"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "Love Me",
+      "uri": "spotify:track:5hRzAbY2AAO258hL6oqsqO"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Super Far",
+      "uri": "spotify:track:15ahYSiHAIMxAnujlXVtta"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "My Everything",
+      "uri": "spotify:track:4eumFsTnduH3zRfaASoAPs"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Feel So Fine",
+      "uri": "spotify:track:5GOXozqZHMtpUXNciSOWS1"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Red - Original Demo Recording",
+      "uri": "spotify:track:4mqgn90sCeVSYqcoftTQTd"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Me Like Yuh",
+      "uri": "spotify:track:3UmkjkCfNvsnEWZC2H8WkZ"
+    },
+    {
+      "artist": "BLACKPINK",
+      "album": "SQUARE ONE",
+      "track": "BOOMBAYAH",
+      "uri": "spotify:track:0NeNAcCVtGqLAAmf4FhWWT"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Lonely Night",
+      "uri": "spotify:track:7sFSjaKXqgcACn3GuIzGDU"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "My Dear Melancholy,",
+      "track": "Try Me",
+      "uri": "spotify:track:4rv1ww0dUwFZcDVPqhcOcX"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red - The 1st Album",
+      "track": "Campfire",
+      "uri": "spotify:track:6CIRWPRc6xKXOGrvBp0LHK"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Forever (with DJ Ale Mora) [feat. Cha Cha Malone]",
+      "uri": "spotify:track:57iXDLAONlBowKwqlQWns1"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "LoveGame",
+      "uri": "spotify:track:1WgBCuQ4vwI9RFVOUiWGrp"
+    },
+    {
+      "artist": "Michael Giacchino",
+      "album": "Up",
+      "track": "Married Life",
+      "uri": "spotify:track:7iocNjLrxPHLl8njgRlv5U"
+    },
+    {
+      "artist": "APRIL",
+      "album": "APRIL 4th Mini Album 'eternity'",
+      "track": "Take My Hand",
+      "uri": "spotify:track:1vOJXlmycZKOdgosnJWlf1"
+    },
+    {
+      "artist": "Jack Ü",
+      "album": "Skrillex and Diplo present Jack Ü",
+      "track": "Where Are Ü Now (with Justin Bieber)",
+      "uri": "spotify:track:66hayvUbTotekKU3H4ta1f"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "Bad Dracula",
+      "uri": "spotify:track:4z5aqQOYYsvjXuXjjhKVJ2"
+    },
+    {
+      "artist": "CLC",
+      "album": "FREE’SM",
+      "track": "BAE",
+      "uri": "spotify:track:6Agcxmv4TravU49pUv3kIj"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Come Back...Be Here",
+      "uri": "spotify:track:4qyalTRMRH5YuEntvvMvq0"
+    },
+    {
+      "artist": "CLC",
+      "album": "To the sky",
+      "track": "To the sky",
+      "uri": "spotify:track:5vMw4PxrWKxkCszIVq4Jwq"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "track": "Different",
+      "uri": "spotify:track:6ASB1Us0D4FY0niR12QJOW"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "The Lucky One",
+      "uri": "spotify:track:2wtHlpYSgC7xEdD3DrSHNL"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "Paris",
+      "uri": "spotify:track:59RNdFA4oFNIvTIvaBxqgQ"
+    },
+    {
+      "artist": "APRIL",
+      "album": "APRIL 2nd Single Album 'MAYDAY'",
+      "track": "MAYDAY",
+      "uri": "spotify:track:0fYa0F1mvMWneHfn2zpn5f"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Thinking Bout You",
+      "uri": "spotify:track:6iOhd5wNnvvwGDEuNILvM5"
+    },
+    {
+      "artist": "CLC",
+      "album": "FREE’SM",
+      "track": "Hold Your Hand",
+      "uri": "spotify:track:3KEMR6mGj98u43dQ9F8x43"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The 1st Mini Album ‘Ice Cream Cake’",
+      "track": "Automatic",
+      "uri": "spotify:track:1tjC7aF6ixOCqZxJtIO8dz"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "Lucky Girl",
+      "uri": "spotify:track:33WQq0E3ya1lEaag30ohq4"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "...Ready For It?",
+      "uri": "spotify:track:2yLa0QULdQr0qAIvVwN6B5"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "Baby I",
+      "uri": "spotify:track:6EIsMa5lbvljYxqCkjZVDi"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "I Knew You Were Trouble.",
+      "uri": "spotify:track:0ciHz919LVKoH4zgxyMPZ9"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "Dress",
+      "uri": "spotify:track:6oVxXO5oQ4pTpO8RSnkzvv"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "in my head",
+      "uri": "spotify:track:4T652DlATVHe0jdLKaN3Bw"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Judas - DJ White Shadow Remix",
+      "uri": "spotify:track:1HSPCKF3GA0gUb84oR4zaX"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Homemade Dynamite",
+      "uri": "spotify:track:0zL76omZWytdTtyXKVfuDw"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "Fool",
+      "uri": "spotify:track:7kedMPEnyRksvUqGeFhY9D"
+    },
+    {
+      "artist": "CLC",
+      "album": "FREE’SM",
+      "track": "Where Are You?",
+      "uri": "spotify:track:5zgsqAVaBehgQWJ7LUXXI5"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Glory And Gore",
+      "uri": "spotify:track:0SK9wxN40P6jlcMfTSAe0V"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 承 'Her'",
+      "track": "Outro: Her",
+      "uri": "spotify:track:3l8yQMdniG6Os8gUBNXV57"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Lucky One - Instrumental",
+      "uri": "spotify:track:7Fo9FM537Kx37V4u2Kez7J"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Stole the Show",
+      "uri": "spotify:track:5masKPHeAOVNgxdLebIcK7"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "러시안 룰렛 Russian Roulette",
+      "uri": "spotify:track:5HiSc2ZCGn8L3cH3qSwzBT"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Why - The 2nd Mini Album",
+      "track": "Good Thing",
+      "uri": "spotify:track:3wiqYEIruKDnNlCU48lFNz"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Love Me Harder",
+      "uri": "spotify:track:5J4ZkQpzMUFojo1CtAZYpn"
+    },
+    {
+      "artist": "Los Perros del Pueblo Nuevo",
+      "album": "Rolas de Aztlán: Songs of the Chicano Movement",
+      "track": "Corrido de César Chávez",
+      "uri": "spotify:track:2xMPEfEMO6bmc5Oe60pwdl"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Love in Color",
+      "uri": "spotify:track:5kde3lf0Dm5Epkb1R8hEhI"
+    },
+    {
+      "artist": "lvusm",
+      "album": "Meow",
+      "track": "Meow",
+      "uri": "spotify:track:7cOmsSyGKpGLdsDdsgALCY"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "Girls' Generation",
+      "track": "Girls' Generation",
+      "uri": "spotify:track:7GxaIFqvSXvAg18ai8i0gT"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "My Dear",
+      "uri": "spotify:track:6s25gIYsBc8oF0VQFK7wzt"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "uri": "spotify:track:3OF76yx8CGiDwzSCT3BeDv"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "Perfect 10",
+      "uri": "spotify:track:0l3t6syjbv81bKPy0gw45Z"
+    },
+    {
+      "artist": "Gretchen Wilson",
+      "album": "Greatest Hits",
+      "track": "Redneck Woman",
+      "uri": "spotify:track:5pQtfVIaQvINzl0XIGKNrC"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "BEAUTIFUL",
+      "uri": "spotify:track:00fyQFJjm5WmEpH8i1GEdC"
+    },
+    {
+      "artist": "Frank Waln",
+      "album": "The Bridge",
+      "track": "What Made the Red Man Red",
+      "uri": "spotify:track:4FIto7CTuYi4MzAmq5x79Y"
+    },
+    {
+      "artist": "Ne-Yo",
+      "album": "In My Own Words",
+      "track": "Sexy Love",
+      "uri": "spotify:track:10aWGOqSDBqvNzJ9NeKDbK"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "track": "컬러링 Color Ring",
+      "uri": "spotify:track:45Trte32AfhgjL8yBnV1Nq"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "FOREVER 1 - The 7th Album",
+      "track": "Mood Lamp",
+      "uri": "spotify:track:3oPnpmmhtm608mSEXl1Aea"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Drive (feat. Gray)",
+      "uri": "spotify:track:5PITBB6zMUfwWKKa0XWtEz"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Pancakes",
+      "uri": "spotify:track:2Br251pz4tr0L5FOuf6Fyx"
+    },
+    {
+      "artist": "DEAN",
+      "album": "130 Mood : TRBL",
+      "track": "21",
+      "uri": "spotify:track:2jiI8bNSDu7UxTtDCOqh3L"
+    },
+    {
+      "artist": "CLC",
+      "album": "BLACK DRESS",
+      "track": "Distance",
+      "uri": "spotify:track:5TgIcrZ29G7trFEoyxwE5t"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "UGH!",
+      "uri": "spotify:track:5vgdeMt4uKUN2BeltZjoDh"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "False Alarm",
+      "uri": "spotify:track:4oeaIftdpT3JuZLcCkKmVE"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Knew Better / Forever Boy",
+      "uri": "spotify:track:2SUQGI9ztmp0PQd1J8SVHx"
+    },
+    {
+      "artist": "Los Alvarados",
+      "album": "Rolas de Aztlán: Songs of the Chicano Movement",
+      "track": "Yo soy Chicano",
+      "uri": "spotify:track:3S77Zn1VmD5Qsxw0bjOOzt"
+    },
+    {
+      "artist": "CLC",
+      "album": "CRYSTYLE",
+      "track": "Hobgoblin",
+      "uri": "spotify:track:2JTjDYA0vfx8sp5XMTbeqU"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Liability",
+      "uri": "spotify:track:4iSN72L6xCM7vQZR2I9Suz"
+    },
+    {
+      "artist": "Alan Silvestri",
+      "album": "Lilo & Stitch",
+      "track": "I'm Lost",
+      "uri": "spotify:track:4NxkKbiXAUa7e3CFGohZqh"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Reminder",
+      "uri": "spotify:track:37F0uwRSrdzkBiuj0D5UHI"
+    },
+    {
+      "artist": "LOOΠΔ / ODD EYE CIRCLE",
+      "album": "Mix & Match",
+      "track": "Girl Front",
+      "uri": "spotify:track:6hDCBYBnbr4lfRj5H7bkC4"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "Gorgeous",
+      "uri": "spotify:track:1ZY1PqizIl78geGM4xWlEA"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red - The 1st Album",
+      "track": "Lady's Room",
+      "uri": "spotify:track:3CCFQtYkvN2cxj7HWuCqnJ"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 承 'Her'",
+      "track": "Pied Piper",
+      "uri": "spotify:track:0ffweDHrg4bZqdG4IfGYuo"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Venus",
+      "uri": "spotify:track:6mWIBbMx3BCgeqo7RvLuDP"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "I Like It Rough",
+      "uri": "spotify:track:4uuJ5qGMbMkvqPK2kbYVXL"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "track": "Tic Toc",
+      "uri": "spotify:track:4pgIQj0q9xkduvXAtAQRwz"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Starstruck",
+      "uri": "spotify:track:4P7SmZyuqBWDLr05kyMfDB"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "track": "이 밤 Tonight",
+      "uri": "spotify:track:4yePoUYIBgTmL5DwOtwhCY"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Summer Magic - Summer Mini Album",
+      "track": "Mosquito",
+      "uri": "spotify:track:43y2u5KxBknQ9lQ2ILT1Eo"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Heavy Metal Lover",
+      "uri": "spotify:track:5yhw9YeXOh3kYCn2NII9bW"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Writer In The Dark",
+      "uri": "spotify:track:5bMWY1u9ghi4X6fIAsQRaC"
+    },
+    {
+      "artist": "Dosbomb.",
+      "album": "Meow.",
+      "track": "Meow.",
+      "uri": "spotify:track:1SytIyPIt773CVruivZIgG"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Treacherous",
+      "uri": "spotify:track:0XfOV7qY3834QpFVwOb6CC"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "So, Soo Pretty",
+      "uri": "spotify:track:667BMtYteOnldcQWsQYehG"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "This Is Why We Can't Have Nice Things",
+      "uri": "spotify:track:07NxDD1iKCHbAldceD7QLP"
+    },
+    {
+      "artist": "Paul Frees",
+      "album": "The Haunted Mansion",
+      "track": "The Haunted Mansion",
+      "uri": "spotify:track:28ExmWuBZoXnLvYaX0cgiR"
+    },
+    {
+      "artist": "LOOΠΔ / ODD EYE CIRCLE",
+      "album": "Mix & Match",
+      "track": "Starlight",
+      "uri": "spotify:track:0DRvlkPs5FKt6Rh9q4B6Nh"
+    },
+    {
+      "artist": "EXO",
+      "album": "THE WAR - The 4th Album",
+      "track": "What U do?",
+      "uri": "spotify:track:5NB0u5gWcwH1D6y3euVSKI"
+    },
+    {
+      "artist": "Public Enemy",
+      "album": "POWER TO THE PEOPLE AND THE BEATS - Public Enemy's Greatest Hits",
+      "track": "Bring The Noise",
+      "uri": "spotify:track:33GQrEjWRb4Hi9LkGLMHKm"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Why - The 2nd Mini Album",
+      "track": "Night",
+      "uri": "spotify:track:4dMkVt2rnc8Di47Rcq28vp"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Ordinary Life",
+      "uri": "spotify:track:15k2nBQJ0teDmPZHrOXL2N"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "Time To Love",
+      "uri": "spotify:track:6AdhHZfTC4ep1b2v7L0Hfl"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "玻璃鱼缸 One and Only - Chinese Version",
+      "uri": "spotify:track:0NfGfh9qQEiKGSRMCCPrsP"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Velvet - The 2nd Mini Album",
+      "track": "장미꽃 향기는 바람에 날리고 Rose Scent Breeze",
+      "uri": "spotify:track:13Z7udTasTTheZCkQdhCmE"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "The Love Club",
+      "uri": "spotify:track:2yrJ1jWo3HLksJFUqUsZE4"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "One Last Time",
+      "uri": "spotify:track:7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "11:11",
+      "uri": "spotify:track:67QGnT1Vdfuuy4HkLTUVjj"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Me & My Girls",
+      "uri": "spotify:track:4ulNKUFHijHiPD2rtrSNOC"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Sometimes",
+      "uri": "spotify:track:1FlYPPzFJUNh3KRE36pYbe"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Swine",
+      "uri": "spotify:track:4H4aA1Cg69dB46GWkK74mx"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Why - The 2nd Mini Album",
+      "track": "Fashion",
+      "uri": "spotify:track:2OMAJjaieTJBe9t0Wu98bb"
+    },
+    {
+      "artist": "EXO",
+      "album": "THE WAR - The 4th Album",
+      "track": "Diamond",
+      "uri": "spotify:track:23WPXHPulg0iDXSO4aFFh1"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "Moonlight Melody",
+      "uri": "spotify:track:4uS7VPnhc6rddYXTsvWqzV"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "EXODUS",
+      "uri": "spotify:track:0OoSpgJY54OlINn1PR7lYZ"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Velvet - The 2nd Mini Album",
+      "track": "Cool Hot Sweet Love",
+      "uri": "spotify:track:0IWII7t81mRFEo5NeuUhEJ"
+    },
+    {
+      "artist": "Giuseppe Torelli",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Sonata a 5 in D: I. Andante",
+      "uri": "spotify:track:4tplsmyl3zrdOJEfpIFgmI"
+    },
+    {
+      "artist": "El Teatro Campesino",
+      "album": "Rolas de Aztlán: Songs of the Chicano Movement",
+      "track": "El picket sign",
+      "uri": "spotify:track:0qey0OlncwyoBhyKdEV4bN"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Break Your Heart Right Back",
+      "uri": "spotify:track:0HGcQDbRen8luCnwH53sNl"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Survivors",
+      "uri": "spotify:track:6mEFvpqnzElavdz3gfP2XT"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "I Know Places - Voice Memo",
+      "uri": "spotify:track:4JQm7ebhsrt10wmrP6AfXL"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Fashion!",
+      "uri": "spotify:track:5jrgk5wJbrSgdgDrU3Lu9l"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Electric Chapel",
+      "uri": "spotify:track:5ovLCLFRWKBThz15ntjE8d"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Chained To The Rhythm",
+      "uri": "spotify:track:5tP2TrJDgXXxAHZwcOknOI"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "...Ready For It?",
+      "track": "...Ready For It? - BloodPop® Remix",
+      "uri": "spotify:track:1Ygm9KdH3wbzDekO8JgxcW"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "They Never Know - Chinese Version",
+      "uri": "spotify:track:2uF9tferVVWITfvk0Lfeh3"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "유성우流星雨 Lady Luck",
+      "uri": "spotify:track:4mkIGIDiiEf2S5Ib48J4rG"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Jewels N' Drugs",
+      "uri": "spotify:track:5bltTpT0HIaEQzlGvxabWy"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Time Lapse",
+      "uri": "spotify:track:5xHSzEHkbQSc5n4ATBv1du"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "Somebody Else",
+      "uri": "spotify:track:5hc71nKsUgtwQ3z52KEKQk"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Dumb Stuff",
+      "uri": "spotify:track:4Q3d0fDDg6l9sqlAMVumgJ"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "NCT#127 LIMITLESS - The 2nd Mini Album",
+      "track": "Back 2 U (AM 01:27)",
+      "uri": "spotify:track:1HQMAMniSuhvBOpx5utxad"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Velvet - The 2nd Mini Album",
+      "track": "7월 7일 One Of These Nights",
+      "uri": "spotify:track:6uu8lid35aTGzbLXlNjOVO"
+    },
+    {
+      "artist": "CLC",
+      "album": "CRYSTYLE",
+      "track": "Liar",
+      "uri": "spotify:track:67D8AmrRyahBZNKzPBBsJG"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Kids in Love",
+      "track": "Riding Shotgun (feat. Bonnie McKee)",
+      "uri": "spotify:track:41W4YKwP7DPxoplPA2U0PW"
+    },
+    {
+      "artist": "LOOΠΔ / ODD EYE CIRCLE",
+      "album": "Mix & Match",
+      "track": "ODD",
+      "uri": "spotify:track:3GRwM20EPVWjKoVsNsHjrj"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Everything Has Changed",
+      "uri": "spotify:track:7gdwoOmi258QJq0hmQ4hto"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "Lostmyhead",
+      "uri": "spotify:track:37PSljWwMyg3JhqWma3Wai"
+    },
+    {
+      "artist": "EXO",
+      "album": "THE WAR - The 4th Album",
+      "track": "Walk On Memories",
+      "uri": "spotify:track:6lRGSp6vkzCvrHSwqO9Tx6"
+    },
+    {
+      "artist": "Gryffin",
+      "album": "Feel Good (feat. Daya) [The Remixes]",
+      "track": "Feel Good (feat. Daya) - Crankdat Remix",
+      "uri": "spotify:track:0pjeNQwXZ1uzrsyIC2SPCu"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Applause",
+      "uri": "spotify:track:2Zj4FUsMtu9PMuJsHbGbdv"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "LOVE ME RIGHT",
+      "uri": "spotify:track:3F76FuWseLvGkcgatzTD9q"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Rookie - The 4th Mini Album",
+      "track": "Happily Ever After",
+      "uri": "spotify:track:7fMlxVFAUsUilPFQnlX6kR"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Déjà Vu",
+      "uri": "spotify:track:48XURLE5A5eo5xdI2jrbuF"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "I Got Love",
+      "uri": "spotify:track:3ym1uqIEdPorxt9jM7txYb"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "So It Goes...",
+      "uri": "spotify:track:5PxFv9yJEg9dxvbZggykro"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Bad Blood",
+      "uri": "spotify:track:0yN4fNzmVnmgC0dsOoi9Wh"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "Better Left Unsaid",
+      "uri": "spotify:track:5Pnny78GESkBSLnxFmhRYZ"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Carry Me (feat. Julia Michaels)",
+      "uri": "spotify:track:3FZEv9JddkjHNFiMVxJYpS"
+    },
+    {
+      "artist": "DEAN",
+      "album": "130 Mood : TRBL",
+      "track": "어때",
+      "uri": "spotify:track:4NqiiK63rKwYTwHpPhmC61"
+    },
+    {
+      "artist": "DEAN",
+      "album": "130 Mood : TRBL",
+      "track": "풀어",
+      "uri": "spotify:track:2p980qlVXYLh3HdHusbhfa"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Sober II (Melodrama)",
+      "uri": "spotify:track:0dtMnnWhm2AXVxjJy5hUPe"
+    },
+    {
+      "artist": "Gil Scott-Heron",
+      "album": "Pieces Of A Man",
+      "track": "The Revolution Will Not Be Televised",
+      "uri": "spotify:track:6fNqBgMxJBGhlk5GmUGly6"
+    },
+    {
+      "artist": "BLACKPINK",
+      "album": "SQUARE UP",
+      "track": "See U Later",
+      "uri": "spotify:track:3AyLh4R4D3fQfyqCsTdFf3"
+    },
+    {
+      "artist": "CLC",
+      "album": "BLACK DRESS",
+      "track": "To the sky",
+      "uri": "spotify:track:4u6wGsibRp8r6uMba39fpX"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Bad Romance",
+      "uri": "spotify:track:4KpIWPcahCjU0bkaaS4os9"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Kids in Love",
+      "track": "Sunrise (feat. Jason Walker)",
+      "uri": "spotify:track:1uXl3Nuhgkwx28NIaCMUzy"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "thank u, next",
+      "uri": "spotify:track:3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Ribs",
+      "uri": "spotify:track:0TEekvXTomKt3hdXDZxxeW"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "track": "Checkmate",
+      "uri": "spotify:track:2v48U4qJmWebDyR7XYuRza"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "FOREVER 1 - The 7th Album",
+      "track": "Summer Night",
+      "uri": "spotify:track:7aGQ5amwc1HVB7AxGBDHBu"
+    },
+    {
+      "artist": "MOMOLAND",
+      "album": "GREAT!",
+      "track": "BBoom BBoom",
+      "uri": "spotify:track:3BPoSr2pO34Aan6alFfVto"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Hard Feelings/Loveless",
+      "uri": "spotify:track:3VDX4CCJWbRXBKuW5IY5R9"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Fire",
+      "uri": "spotify:track:2KiIPv0kEZGdAsUoFuJ8GT"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Velvet - The 2nd Mini Album",
+      "track": "7월 7일 One Of These Nights - De-Capo Version",
+      "uri": "spotify:track:3QJosfWzqekRkUGGs2gj0a"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "Don’t Blame Me",
+      "uri": "spotify:track:1R0a2iXumgCiFb7HEZ7gUE"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "track": "4 Walls",
+      "uri": "spotify:track:2klCjJcucgGQysgH170npL"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "2 Baddies - The 4th Album",
+      "track": "Crash Landing",
+      "uri": "spotify:track:66eZq38bO1ofzmpNa02XiL"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "You Don't Know Me",
+      "uri": "spotify:track:3hgl7EQwTutSm6PESsB7gZ"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Into Me You See",
+      "uri": "spotify:track:0FLtMT9wwAyLW2knX4FUnE"
+    },
+    {
+      "artist": "Lovelyz",
+      "album": "Fall in Lovelyz",
+      "track": "Twinkle",
+      "uri": "spotify:track:4k5kdHHIt1D5ZEaBvrPXB9"
+    },
+    {
+      "artist": "MIKA",
+      "album": "Yours Truly",
+      "track": "Popular Song",
+      "uri": "spotify:track:3iugMJEdfE58OpI7WGM38w"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "러시안 룰렛 Russian Roulette",
+      "uri": "spotify:track:7AvXrOVEVRcfXxme2wo6Im"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "New Romantics",
+      "uri": "spotify:track:6rZVy6FIG7lSJQMFXHo12z"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "My Dear Melancholy,",
+      "track": "Call Out My Name",
+      "uri": "spotify:track:4MPTj8lMMvxLwT3EwuXFop"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Velvet - The 2nd Mini Album",
+      "track": "처음인가요 First Time",
+      "uri": "spotify:track:0LOPFlsWqlqPpr0ICwMVcK"
+    },
+    {
+      "artist": "A*Teens",
+      "album": "Lilo & Stitch",
+      "track": "Can't Help Falling In Love",
+      "uri": "spotify:track:6zLXWVAskybBaM2L5rCxiG"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Me & The Rhythm",
+      "uri": "spotify:track:7fBUnDgtSvYpYWuX4iAfns"
+    },
+    {
+      "artist": "Elvis Presley",
+      "album": "Lilo & Stitch",
+      "track": "(You're The) Devil in Disguise",
+      "uri": "spotify:track:1twTKld7jtVdbwk4ltBxj6"
+    },
+    {
+      "artist": "CLC",
+      "album": "CRYSTYLE",
+      "track": "Mistake",
+      "uri": "spotify:track:3hX2QZFSq2hAzg5VrbYdVh"
+    },
+    {
+      "artist": "CLC",
+      "album": "BLACK DRESS",
+      "track": "Like that",
+      "uri": "spotify:track:2AgCSrxhAFJTE3t7qOtxm2"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "22",
+      "uri": "spotify:track:3bIxTsfeNMO7Nt2J3EUKrA"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "TENDER LOVE",
+      "uri": "spotify:track:6ojPvFivgEPitgh71Zjv2T"
+    },
+    {
+      "artist": "Joseph Haydn",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "String Quartet in D Minor, Op. 76, No. 2, Hob.III:76, \"Fifths\": II. Andante",
+      "uri": "spotify:track:1HhBG49mcTvcebXbhObMRn"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Bravado",
+      "uri": "spotify:track:02ZorlDGq0uTnMobHNh4EL"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "2 Baddies - The 4th Album",
+      "track": "Gold Dust",
+      "uri": "spotify:track:0Hj4YtlD0Q5O0srdZxJUtl"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "All Right",
+      "uri": "spotify:track:2SahFuW1EZN9MXNVTkxv6F"
+    },
+    {
+      "artist": "DEAN",
+      "album": "130 Mood : TRBL",
+      "track": "D (Half Moon)",
+      "uri": "spotify:track:3uA8SjMyDtwtt0jLPMQbVD"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The 1st Mini Album ‘Ice Cream Cake’",
+      "track": "사탕 (Candy)",
+      "uri": "spotify:track:1KXNWNBTmdKB97kdo6vI4i"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "Almost Is Never Enough",
+      "uri": "spotify:track:63bo7NDoWdMFXufhsYOxwG"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "白色噪音 White Noise - Chinese Version",
+      "uri": "spotify:track:0ud9EGLlnU5J2dyq9WIDqo"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "All I Know",
+      "uri": "spotify:track:0NWqNXBJTpXbkI5rPWNy3p"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "Dancing With Our Hands Tied",
+      "uri": "spotify:track:7I7JbDv63ZJJsSi24DyJrz"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 承 'Her'",
+      "track": "DNA",
+      "uri": "spotify:track:5SE57ljOIUJ1ybL9U6CuBH"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Camouflage",
+      "uri": "spotify:track:7jO0qPIBVGOmqxpCthE8H3"
+    },
+    {
+      "artist": "I.O.I",
+      "album": "Whatta Man",
+      "track": "Whatta Man (Good man)",
+      "uri": "spotify:track:2MhEeappm9nGPv1p7a1YMS"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Stronger - Chinese Version",
+      "uri": "spotify:track:2wRjyw4SZLkKs9GUmAwbgh"
+    },
+    {
+      "artist": "WJSN",
+      "album": "Sequence",
+      "track": "Last Sequence",
+      "uri": "spotify:track:0lNPjT58llQGlycRA2mea4"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Homemade Dynamite - REMIX",
+      "uri": "spotify:track:5u64RlrnvvbtNh6R0EMh6o"
+    },
+    {
+      "artist": "Benjamin Godard",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Jocelyn, Op. 100: Berceuse",
+      "uri": "spotify:track:4nstyhbMckrz3TuQVe5j0G"
+    },
+    {
+      "artist": "Elvis Presley",
+      "album": "Elvis",
+      "track": "Love Me",
+      "uri": "spotify:track:2DQ5r0crvortwaNRYcninK"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "All I Wanna Do (feat. Hoody & 로꼬 Loco) [Korean Version]",
+      "uri": "spotify:track:149wehc4FMDdj685CAAFRK"
+    },
+    {
+      "artist": "Justin Timberlake",
+      "album": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "track": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "uri": "spotify:track:6JV2JOEocMgcZxYSZelKcc"
+    },
+    {
+      "artist": "THE BOYZ",
+      "album": "THE BOYZ DEBUT ALBUM [THE FIRST]",
+      "track": "Boy",
+      "uri": "spotify:track:5BYmiFRjwPgyrtLLqWAGHx"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Money Honey",
+      "uri": "spotify:track:6GUQ1crYjtWlgkbZPTACEa"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "약속 EXO 2014",
+      "uri": "spotify:track:60e7UzYJuelsmETRtdsKtX"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red - The 1st Album",
+      "track": "Don't U Wait No More",
+      "uri": "spotify:track:0YZACD94IvyUwWUGgU99dU"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Wonderland",
+      "uri": "spotify:track:6iWMI5oOhWrDbLbjmwTWFq"
+    },
+    {
+      "artist": "Edvard Grieg",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Lyric Pieces, Op. 43: No. 6: An den Fruhling (To Spring)",
+      "uri": "spotify:track:6Mw3x7anlUsI5XDZah7rNe"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "FOREVER 1 - The 7th Album",
+      "track": "Closer",
+      "uri": "spotify:track:7JWXQE9QBQ8BAPFKAwnUWP"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Hair",
+      "uri": "spotify:track:2uk0YH2ahN0UE5jaCMa5jn"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Be My Baby",
+      "uri": "spotify:track:0fonaf88IEDQM309zmU80L"
+    },
+    {
+      "artist": "DEAN",
+      "album": "130 Mood : TRBL",
+      "track": "Bonnie & Clyde",
+      "uri": "spotify:track:6IFpwncCkKrXHyP0RuG9r6"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 承 'Her'",
+      "track": "MIC Drop",
+      "uri": "spotify:track:2SYa5Lx1uoCvyDIW4oee9b"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Rookie - The 4th Mini Album",
+      "track": "Rookie",
+      "uri": "spotify:track:5ubfQzhabDSLYyohz2ozaN"
+    },
+    {
+      "artist": "Chromeo",
+      "album": "Jealous (I Ain't With It)",
+      "track": "Jealous (I Ain't With It) - Dillon Francis Remix",
+      "uri": "spotify:track:1diE9aoLwmhs4fLIRTNsYA"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Sweet Love",
+      "uri": "spotify:track:1vCo4BownrOY4nRZbpmrJO"
+    },
+    {
+      "artist": "Claude Debussy",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Suite bergamasque: III. Clair de lune",
+      "uri": "spotify:track:1ngaZRORd1jvBGA32U897z"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "White Teeth Teens",
+      "uri": "spotify:track:15LzvCtoJWwsrTWJMWUTOv"
+    },
+    {
+      "artist": "Red Velvet - IRENE & SEULGI",
+      "album": "Monster - The 1st Mini Album",
+      "track": "Diamond",
+      "uri": "spotify:track:41vPeGMYDN84rC9FSv4BTl"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Oasis (feat. Foxes)",
+      "uri": "spotify:track:59JreAiZzOF6pB8nIqEi20"
+    },
+    {
+      "artist": "Elvis Presley",
+      "album": "Elvis' Golden Records",
+      "track": "Hound Dog",
+      "uri": "spotify:track:64Ny7djQ6rNJspquof2KoX"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "Loving Someone",
+      "uri": "spotify:track:4p1pxmqtPtPHqWbOd2RgXu"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "track": "Diamond",
+      "uri": "spotify:track:3jN5QeiB91IWj1BV8KAZWy"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "All Too Well",
+      "uri": "spotify:track:1q3RiD1tIWUpGsNFADMlvl"
+    },
+    {
+      "artist": "CLC",
+      "album": "CRYSTYLE",
+      "track": "I mean that",
+      "uri": "spotify:track:4RQsIy6YmOVyRabnjCuxiV"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "Bad Dracula",
+      "uri": "spotify:track:3z7WmSgmSDTFH1WwL18yyS"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "2 Baddies - The 4th Album",
+      "track": "Designer",
+      "uri": "spotify:track:4axTxw4EXSVSGm6f6vxTdZ"
+    },
+    {
+      "artist": "Bowling For Soup",
+      "album": "Disneymania 3",
+      "track": "The Bare Necessities - Pop Version",
+      "uri": "spotify:track:12n9eNC7VlZXkdBM64PXZU"
+    },
+    {
+      "artist": "Teddy Geiger",
+      "album": "Disneymania 4",
+      "track": "You'll Be in My Heart",
+      "uri": "spotify:track:2vwrrtJTbkBIazT5KyOVLD"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Blank Space - Voice Memo",
+      "uri": "spotify:track:0yisH8r0f3Mkq34kjzUlCV"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Fashion Of His Love",
+      "uri": "spotify:track:6OpnHKF0mmhZmqsR7yY2pK"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Just A Little Bit Of Your Heart",
+      "uri": "spotify:track:5lvnGiTAH9BVlJLHc0DXZz"
+    },
+    {
+      "artist": "Elvis Presley",
+      "album": "Lilo & Stitch",
+      "track": "Heartbreak Hotel",
+      "uri": "spotify:track:7C6ir299MoDWqtuECZWh7Q"
+    },
+    {
+      "artist": "STAYC",
+      "album": "YOUNG-LUV.COM",
+      "track": "RUN2U",
+      "uri": "spotify:track:3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Stay Stay Stay",
+      "uri": "spotify:track:1x0J8LFX23d5h1zzuzZorc"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Parents",
+      "uri": "spotify:track:0sJbNCbEH20YUyD7ICdgJY"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Love To Lay",
+      "uri": "spotify:track:27BgDmciSjoxTG0almHTpZ"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Good For You",
+      "uri": "spotify:track:578Eooad7oUyn4stovZiPg"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Sober",
+      "uri": "spotify:track:0PXCdhnm9fRgrIgoMcteZa"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Velvet - The 2nd Mini Album",
+      "track": "Light Me Up",
+      "uri": "spotify:track:708d6W6YrXgl60vUyp1Bb7"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Monster - Chinese Version Instrumental",
+      "uri": "spotify:track:2zfhiKFpJ7uPulesZq3kIZ"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "track": "Underwater Love",
+      "uri": "spotify:track:3e9SKaA4dNqVat05KLAo5s"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Blank Space",
+      "uri": "spotify:track:2sC2P3BN0IXujNaaSyDmtP"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "We Are Never Ever Getting Back Together",
+      "uri": "spotify:track:1OYARuagDrpgNNQ4loO1Cs"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 承 'Her'",
+      "track": "Skit: Billboard Music Awards Speech",
+      "uri": "spotify:track:7KXEhfjwdxHVra8VcT2QHH"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "track": "When I’m Alone",
+      "uri": "spotify:track:5KKi182V7rEim3egV4ZNOc"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Limousine (feat. KRNFX)",
+      "uri": "spotify:track:1FiHBbP0lO5fDA90jwPQc9"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Swingin Party",
+      "uri": "spotify:track:7otV7kSzDMo11qLlw8pAtr"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Save As Draft",
+      "uri": "spotify:track:7pacSLlOScmIzL45CY6a17"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "ARTPOP",
+      "uri": "spotify:track:3fUIVuNeQ8YGrA5xv5QVSu"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "You And I",
+      "uri": "spotify:track:6szOfaZn6H3rZXnUqgJ4R7"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Be Alright",
+      "uri": "spotify:track:6f5TuB9WtbA1g49A4DcMQ4"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "track": "Shower",
+      "uri": "spotify:track:0UbEFjU0LCKg3MXI28om7s"
+    },
+    {
+      "artist": "LOOΠΔ / ODD EYE CIRCLE",
+      "album": "Mix & Match",
+      "track": "LOONATIC",
+      "uri": "spotify:track:7h9wP4yMYuFdiciHMsdxWU"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Love in Color",
+      "uri": "spotify:track:2tjjk39zsXQkc2DaeeZiS1"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Kill Em With Kindness",
+      "uri": "spotify:track:1QNoKVgA758HFLu3TW2q7R"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Kids in Love",
+      "track": "Permanent",
+      "uri": "spotify:track:1wdcCXAOwIu8JotxdVRV82"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Government Hooker",
+      "uri": "spotify:track:4KZAsdL0PeGvmPbSr0hyG4"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Artificial Love",
+      "uri": "spotify:track:2aeDN3PkBPJB8cCi59aQS5"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Power",
+      "uri": "spotify:track:0kvh7GfVLobKfk9Hy8TJC5"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "The Ballad Of Me And My Brain",
+      "uri": "spotify:track:54XGKvGZwA7xB3Uu5vef0C"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Velvet - The 2nd Mini Album",
+      "track": "7월 7일 One Of These Nights - Piano Version",
+      "uri": "spotify:track:13OmHgZeOKvAWGjVI8CfxY"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "This Must Be My Dream",
+      "uri": "spotify:track:6OPOa3qlKoDUzGpS8MrcLi"
+    },
+    {
+      "artist": "2NE1",
+      "album": "I LOVE YOU",
+      "track": "I LOVE YOU",
+      "uri": "spotify:track:7zXpc5H2t0CKuCpIrToU9R"
+    },
+    {
+      "artist": "Dalshabet",
+      "album": "FRI. SAT. SUN",
+      "track": "HARD 2 LOVE",
+      "uri": "spotify:track:4J0N0Jtx1pTlvtPRR8xN94"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "I Know Places",
+      "uri": "spotify:track:2zfgVd034GlUvk7LqBHl6u"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "Purpose",
+      "track": "Sorry",
+      "uri": "spotify:track:09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "break up with your girlfriend, i'm bored",
+      "uri": "spotify:track:4kV4N9D1iKVxx1KLvtTpjS"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "I Wish You Would - Voice Memo",
+      "uri": "spotify:track:4TtyvyI42C0KFnbDZvNC8Y"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Summerboy",
+      "uri": "spotify:track:5C9KYYFySdQE71a7DQi4dX"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Summerboy",
+      "uri": "spotify:track:2nfyNFV7XNfJmozjj6d3tJ"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "I Wish You Would",
+      "uri": "spotify:track:1B5VzXPqMlvRw0U4HJY3dJ"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Witness",
+      "uri": "spotify:track:0rrO3Kk5LQCrfzCXcoPxNJ"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Paper Gangsta",
+      "uri": "spotify:track:3aOjKFzDCsNoDJmmXjPEEC"
+    },
+    {
+      "artist": "Cheat Codes",
+      "album": "Sex",
+      "track": "Sex",
+      "uri": "spotify:track:4tRLfSHpbjlIjV97RPWr9Y"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Donatella",
+      "uri": "spotify:track:5nc3zP5ZOYstTpQ2laknci"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Boys Boys Boys",
+      "uri": "spotify:track:04YxjfzEpfIz04Ol4zJ5hB"
+    },
+    {
+      "artist": "BLACKPINK",
+      "album": "SQUARE ONE",
+      "track": "WHISTLE",
+      "uri": "spotify:track:3hfN1wQSiLPa6b1RX5Kfbj"
+    },
+    {
+      "artist": "CLC",
+      "album": "CRYSTYLE",
+      "track": "Meow Meow",
+      "uri": "spotify:track:5N3rXELAY2c1UBgWlARBYY"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Bad Decisions",
+      "uri": "spotify:track:1j0Rb762xxT0eccglHKsRv"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Fine",
+      "uri": "spotify:track:4eDYMnqwlK0j7yc1jMRUVS"
+    },
+    {
+      "artist": "Alan Silvestri",
+      "album": "Lilo & Stitch",
+      "track": "Stitch to the Rescue",
+      "uri": "spotify:track:1616uIpy5KwVqnKtIuyhcu"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Hericane",
+      "uri": "spotify:track:4bU5xCQQiURmotfz9ohUNo"
+    },
+    {
+      "artist": "San Francisco Taiko Dojo",
+      "album": "Live At Cherry Blossom",
+      "track": "Tsunami",
+      "uri": "spotify:track:36XrFVcgyGF3bsmwlP1jDm"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "The Fame",
+      "uri": "spotify:track:4AoChMThcB3WhzbSmdYyuN"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Problem",
+      "uri": "spotify:track:7vS3Y0IKjde7Xg85LWIEdP"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Why - The 2nd Mini Album",
+      "track": "Why",
+      "uri": "spotify:track:6c1cQOxDKZhnfu19rclv6G"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Kids in Love",
+      "track": "I See You (feat. Billy Raffoul)",
+      "uri": "spotify:track:47qfITM2NpOAi56emqHdJE"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "2 Baddies - The 4th Album",
+      "track": "Time Lapse",
+      "uri": "spotify:track:3FxGTxebY5j4Etl1KbIIZl"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Royals",
+      "uri": "spotify:track:7BFI9QZPQKgYuR2HhDgwbG"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Paper Gangsta",
+      "uri": "spotify:track:2mycbyJ4xTqySpNZz0t1ux"
+    },
+    {
+      "artist": "CLC",
+      "album": "BLACK DRESS",
+      "track": "BLACK DRESS",
+      "uri": "spotify:track:4g73tmQQc6pSfe4NMXKrZD"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Why - The 2nd Mini Album",
+      "track": "Up & Down",
+      "uri": "spotify:track:4VkurkGMPFJaROPTfqU9Ma"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "track": "사랑하지마 But",
+      "uri": "spotify:track:355XPlV2CtclmeC3izfauJ"
+    },
+    {
+      "artist": "Queen Latifah",
+      "album": "All Hail the Queen",
+      "track": "Ladies First",
+      "uri": "spotify:track:3MN82VctKXwosPol8bzyDM"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "시선 둘, 시선 하나 What If..",
+      "uri": "spotify:track:1emmaXbP2gfpdAwdoek4a8"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "Supercut",
+      "uri": "spotify:track:6IIcLzR05sN1gk4ngzz7Kk"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Raging (feat. Kodaline)",
+      "uri": "spotify:track:2Vhd5uZB4brKHmM0MNxkZo"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "track": "Smile Again",
+      "uri": "spotify:track:15ACIGQ5IiM8V3rAJZ02l1"
+    },
+    {
+      "artist": "BLACKPINK",
+      "album": "SQUARE UP",
+      "track": "Really",
+      "uri": "spotify:track:2r5oD7twaQTsv5KoRS6v16"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Why Try",
+      "uri": "spotify:track:40fHWRL8bKcl5J4t4OKUiW"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Dangerous Woman",
+      "uri": "spotify:track:7l94dyN2hX9c6wWcZQuOGJ"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "State Of Grace - Acoustic",
+      "uri": "spotify:track:5G9AVKld9q7DCrmoY42raf"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "Attaboy",
+      "uri": "spotify:track:42VsUQkljZvZh8KdQYrBH7"
+    },
+    {
+      "artist": "Bill Monroe & His Blue Grass Boys",
+      "album": "The Essential Bill Monroe (1945-1949)",
+      "track": "Blue Moon of Kentucky",
+      "uri": "spotify:track:3x95FfMhVfB3ZNIufQ1IF3"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "They Never Know",
+      "uri": "spotify:track:5XtS2i7s8ipasc5LLTYKAW"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "The Breakup",
+      "uri": "spotify:track:42MrgSLArhLVJMJXVJbZjZ"
+    },
+    {
+      "artist": "EXO",
+      "album": "THE WAR - The 4th Album",
+      "track": "Ko Ko Bop",
+      "uri": "spotify:track:5EzitieoPnjyKHAq0gfRMa"
+    },
+    {
+      "artist": "Elvis Presley",
+      "album": "Sun Records' Greatest Hits",
+      "track": "Blue Moon of Kentucky",
+      "uri": "spotify:track:0Db6eoo7a0P3jSlhqbe9TP"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "track": "Hands On Me",
+      "uri": "spotify:track:1rNop31kdDmSj3Ds6xhIeS"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "About Love",
+      "uri": "spotify:track:7y0LMECX85fEK3eldqAOU2"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Million Dollar Bills",
+      "uri": "spotify:track:3Lw7lWTJlcqlx8E9HFmByr"
+    },
+    {
+      "artist": "Florida Georgia Line",
+      "album": "Florida Georgia Line",
+      "track": "Colorado",
+      "uri": "spotify:track:3tPBJEpMATWJnltCnJD7JC"
+    },
+    {
+      "artist": "Loretta Lynn",
+      "album": "Coal Miner's Daughter",
+      "track": "Coal Miner's Daughter - Single Version",
+      "uri": "spotify:track:3mM14WXoPaLRjjkmxHe99L"
+    },
+    {
+      "artist": "I.O.I",
+      "album": "miss me?",
+      "track": "Very Very Very",
+      "uri": "spotify:track:6VJhf9l4ALDquID0bN51QQ"
+    },
+    {
+      "artist": "CLC",
+      "album": "BLACK DRESS",
+      "track": "7th",
+      "uri": "spotify:track:0mAZnSN6ysDG4sbewkIvlo"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "track": "Papi",
+      "uri": "spotify:track:7rXhnFjG74YKMgq0R89Bpz"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Focus",
+      "track": "Focus",
+      "uri": "spotify:track:1cdzfFjEbUbgTm5nv3FgXR"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Poker Face",
+      "uri": "spotify:track:0WfKDYeUAoLA3vdvLKKWMW"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Beautiful, Dirty, Rich",
+      "uri": "spotify:track:3ZaH8OnusThguX3rbjcYTN"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Eraser",
+      "uri": "spotify:track:3XIsWkK1ikLjfPp4cpLXiv"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "Getaway Car",
+      "uri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "The Last Time",
+      "uri": "spotify:track:7vvIpJZye5cRR6De1LKM0m"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Fire",
+      "uri": "spotify:track:7j2FhVH4n7X7D669o8T87z"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Pendulum",
+      "uri": "spotify:track:0GZ1UGdSWeYCMDb8Og1PIX"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Party Monster",
+      "uri": "spotify:track:4F7A0DXBrmUAkp32uenhZt"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Eh, Eh (Nothing Else I Can Say)",
+      "uri": "spotify:track:17giNwNHGot6N9e8KN01jq"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Speechless",
+      "uri": "spotify:track:5YeCXQuQ2kygQMmvSIG6AZ"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "track": "The Louvre",
+      "uri": "spotify:track:4YBDSEzVNQbvCvVIWNtruF"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Perfect",
+      "uri": "spotify:track:0z8u1VqXUYPBMIoF91JIWE"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "Nana",
+      "uri": "spotify:track:1JmLA5HZ7Wp7L8DNctLpUW"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Everyday",
+      "uri": "spotify:track:6yL2kTsdVwYnGwPkKGtMd5"
+    },
+    {
+      "artist": "Nick Jonas",
+      "album": "Last Year Was Complicated",
+      "track": "Close",
+      "uri": "spotify:track:3lSDIJ2abCrOdDJ6pshUap"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Summer Magic - Summer Mini Album",
+      "track": "Power Up",
+      "uri": "spotify:track:381g0b6QZxC13SzA2HRMIc"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Clean",
+      "uri": "spotify:track:4bXCcoesMt8u99xMsbLr9U"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "FOREVER 1 - The 7th Album",
+      "track": "Paper Plane",
+      "uri": "spotify:track:4jNLpkzTsghN4RVUrra61P"
+    },
+    {
+      "artist": "LOOΠΔ / ODD EYE CIRCLE",
+      "album": "Mix & Match",
+      "track": "Chaotic",
+      "uri": "spotify:track:1s8ZMgjthh2IGvYKWdgO2B"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "track": "Vogue",
+      "uri": "spotify:track:3HLmPzxtbzjuKNLBzmCG3o"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Cover Up",
+      "uri": "spotify:track:5nyObfVLX7N6foqBlx063l"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Americano",
+      "uri": "spotify:track:4LrHrb9fZ39fQsMyUdrQXO"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "track": "A Change Of Heart",
+      "uri": "spotify:track:035QPHPAcqApSGMMcogT45"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Poker Face",
+      "uri": "spotify:track:6oKWxPooT31nfJuYoj8273"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 承 'Her'",
+      "track": "Best Of Me",
+      "uri": "spotify:track:2tdq0CeAGSfhI2l4Gwkvgx"
+    },
+    {
+      "artist": "I.O.I",
+      "album": "miss me?",
+      "track": "M-Maybe",
+      "uri": "spotify:track:66nJtJlyfggCL2qiq9nH3W"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Bad Kids",
+      "uri": "spotify:track:0zW1LzKUCJeHZBKMmkardw"
+    },
+    {
+      "artist": "Elvis Presley",
+      "album": "Lilo & Stitch",
+      "track": "Hound Dog",
+      "uri": "spotify:track:4EXJEsgibhw1SVv2oByPeU"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Only One (feat. Raz Simone)",
+      "uri": "spotify:track:33QrQGqeQaLCFQpk66Fmb7"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "track": "Touch It",
+      "uri": "spotify:track:7MGRcJy1saXKiphwqJBnRb"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "All I Wanna Do",
+      "uri": "spotify:track:0wXXPJ0HZT7pr1jAvljAIS"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red Summer - Summer Mini Album",
+      "track": "Hear The Sea",
+      "uri": "spotify:track:5rUWULaKgEK2HozI1wYvZ9"
+    },
+    {
+      "artist": "EXO",
+      "album": "THE WAR - The 4th Album",
+      "track": "Forever",
+      "uri": "spotify:track:3HbODbLPYqeHcRXApoWJDy"
+    },
+    {
+      "artist": "Elvis Presley",
+      "album": "Lilo & Stitch",
+      "track": "Suspicious Minds",
+      "uri": "spotify:track:6jG917XCcFmbr8MtHsBATS"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "The Queen",
+      "uri": "spotify:track:2WWOPf09hVAMk4Y5G3Qp4R"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "NCT#127 LIMITLESS - The 2nd Mini Album",
+      "track": "Good Thing",
+      "uri": "spotify:track:1DXmikiEzMaXnAFQA59tRI"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Rockin’",
+      "uri": "spotify:track:36YCdzT57us0LhDmCYtrNE"
+    },
+    {
+      "artist": "Fifth Harmony",
+      "album": "7/27",
+      "track": "Work from Home (feat. Ty Dolla $ign)",
+      "uri": "spotify:track:4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Out Of The Woods",
+      "uri": "spotify:track:6Nde5KuTXyB7jlPO4upaBo"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "HURT",
+      "uri": "spotify:track:5SWDvM33AWtBE2UylcEWTg"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Make Me Love You",
+      "uri": "spotify:track:0AUxbbqFtXJGE7Fn3jkGX5"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "My Dear Melancholy,",
+      "track": "I Was Never There",
+      "uri": "spotify:track:5rgnyXr2PXFWsAnPFew077"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "track": "FIRST LOVE",
+      "uri": "spotify:track:275qVrkt660uSR12sK21v7"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Summer Magic - Summer Mini Album",
+      "track": "Mr. E",
+      "uri": "spotify:track:4JvBfIuKj8ThydmnLtTmOr"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Boys Boys Boys",
+      "uri": "spotify:track:59C8rQGhU7VGLizJKR99Xk"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Eh, Eh (Nothing Else I Can Say)",
+      "uri": "spotify:track:0WfIxPOaRIDCtDWCmJushk"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "FOREVER 1 - The 7th Album",
+      "track": "Freedom",
+      "uri": "spotify:track:4ncRdOnJVY9uSFC74jFJOa"
+    },
+    {
+      "artist": "CLC",
+      "album": "FREE’SM",
+      "track": "Call My Name",
+      "uri": "spotify:track:6W8JQhaecXhPc6G9Xvy8xS"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Serious (feat. Matt Corby)",
+      "uri": "spotify:track:18YIDJGWXocUPFbAzTaq8g"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "track": "The fifth season (SSFWL) (Instrumental)",
+      "uri": "spotify:track:3CDEnI7ouDDmTV4nwWlgKj"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Ice Cream Cake",
+      "track": "Take It Slow",
+      "uri": "spotify:track:1wN7szkMqhoUdqDFggUrEl"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Kids in Love",
+      "track": "With You (feat. Wrabel)",
+      "uri": "spotify:track:0HrwmrUENhbD8UpEcNWH79"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "I Feel It Coming",
+      "uri": "spotify:track:3dhjNA0jGA8vHBQ1VdD6vV"
+    },
+    {
+      "artist": "Elvis Presley",
+      "album": "Lilo & Stitch",
+      "track": "Stuck on You",
+      "uri": "spotify:track:3up3WzVxOQP2gMAFAMfl3A"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Hurts",
+      "uri": "spotify:track:2N5AA16n90ZDksRqGID3kM"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "Lucky Girl",
+      "uri": "spotify:track:22v5j98MRwc6p5KgwHvpBZ"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Stargirl Interlude",
+      "uri": "spotify:track:4EDijkJdHBZZ0GwJ12iTAj"
+    },
+    {
+      "artist": "Frédéric Chopin",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "track": "Piano Concerto No. 2 in F Minor, Op. 21: II. Larghetto",
+      "uri": "spotify:track:4nQg4uDDbeKq5qPeVniACV"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Heaven",
+      "uri": "spotify:track:7wlPyCWaTMfkYyalMq5jU2"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "Honeymoon Avenue",
+      "uri": "spotify:track:2ofOe2OaXFpZF5ETbsc7Qu"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "I Blame On You",
+      "uri": "spotify:track:4jxWO5zC2SiW9aw7nMJHia"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Just Dance",
+      "uri": "spotify:track:6HkjpGIOHv4y0IBAxUbE5z"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "make up",
+      "uri": "spotify:track:27356GVuMPFWiJSZCragoM"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Rise",
+      "uri": "spotify:track:3IMXLQk09YmvNb2tdT4aWk"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Fashion Of His Love - Fernando Garibay Remix",
+      "uri": "spotify:track:5kSRZ8OFJHUURPqHUJXxbl"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "track": "Cash Me Out",
+      "uri": "spotify:track:7nbo1mUnDDmV32TcxNrOwy"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "track": "Overtime",
+      "uri": "spotify:track:2QrXxXfRGYvY88gBUOio3K"
+    },
+    {
+      "artist": "The Montgomery Gospel Trio, The Nashville Quartet, and Guy Carawan",
+      "album": "We Shall Overcome: Songs of the Freedom Riders and the Sit-Ins",
+      "track": "We Shall Overcome",
+      "uri": "spotify:track:4t25yyd0lHJCoaAg8hPD1Y"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Roulette",
+      "uri": "spotify:track:0TxCOU93aOOCO9a3ShSdjm"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "Red",
+      "uri": "spotify:track:1RvQQGwaPipiNgz8RXAKA8"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Kids in Love",
+      "track": "Stranger Things (feat. OneRepublic)",
+      "uri": "spotify:track:5gIRPQWULwrvIt0F6pY7ph"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "The Fame",
+      "uri": "spotify:track:7pMCNNB9wYprg892vwySYC"
+    },
+    {
+      "artist": "The Sugarhill Gang",
+      "album": "Rapper's Delight",
+      "track": "Rapper's Delight - Long Version",
+      "uri": "spotify:track:1qb27ZTsi0gVxHteAjPOyD"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "track": "Paparazzi",
+      "uri": "spotify:track:3l9gO3v451yMJxkfhQWBAD"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "I Just",
+      "uri": "spotify:track:4agr2R3yG1uZH1NcnETXRA"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "Some Love",
+      "uri": "spotify:track:5n8SuNZuDaElJQMt0ySzCf"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Not Alone (feat. RHODES)",
+      "uri": "spotify:track:5nQojVsRxImTExfSXQ9qU2"
+    },
+    {
+      "artist": "Peter, Paul and Mary",
+      "album": "In the Wind",
+      "track": "Blowin' in the Wind",
+      "uri": "spotify:track:62Yu8QL1g9pdbvN4XL9Rah"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Velvet - The 2nd Mini Album",
+      "track": "7월 7일 One Of These Nights - Joe Millionaire Version",
+      "uri": "spotify:track:7aZyW4XapeBHlLtF0Vpiqh"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "My Dear Melancholy,",
+      "track": "Privilege",
+      "uri": "spotify:track:26Fqtv4Aa7kyd1WWGHai6A"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "needy",
+      "uri": "spotify:track:1TEL6MlSSVLSdhOSddidlJ"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "track": "Sunny Afternoon",
+      "uri": "spotify:track:3G6iqKcRzEYwSu9zE2qAMW"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "bad idea",
+      "uri": "spotify:track:5Il6Oe7lr5XM7A0cWbVQtr"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "track": "걔 세 I'm Him",
+      "uri": "spotify:track:3e2blQpgdH9pIrrGFI6SZw"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "track": "Paparazzi",
+      "uri": "spotify:track:16Me2jlMlTX4xsps2j71mC"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red - The 1st Album",
+      "track": "Day 1",
+      "uri": "spotify:track:5aEfg8EqkoOnTuCBynU0s5"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Still Sane",
+      "uri": "spotify:track:0t1D6NQt3uhZnam0yg8Wv3"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "track": "X",
+      "uri": "spotify:track:3vnywbBW4kLYxhHhSSFYME"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "track": "Peek-A-Boo",
+      "uri": "spotify:track:3H2eAoHtn7YKRq4Qifp56g"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "track": "Marry The Night",
+      "uri": "spotify:track:4tB0UIYNWsUYsIR3r6a8zY"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Summer Magic - Summer Mini Album",
+      "track": "With You",
+      "uri": "spotify:track:5mtEzYr9nGgp57atg6JwX0"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "track": "Intro",
+      "uri": "spotify:track:6bqHegYlJ2ihL0rw3uW65e"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "You Are In Love",
+      "uri": "spotify:track:4A2LfnduSTsE8u0ecYROxE"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Rookie - The 4th Mini Album",
+      "track": "마지막 사랑 Last Love",
+      "uri": "spotify:track:5SIoQI6Ycp8I8sFFzFJhkX"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "New Year’s Day",
+      "uri": "spotify:track:7F5oktn5YOsR9eR5YsFtqb"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "Lucky One",
+      "uri": "spotify:track:4vnzhkrgM7PH6RwTW3afZw"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Rookie - The 4th Mini Album",
+      "track": "Body Talk",
+      "uri": "spotify:track:4TvxCTqMOYyymw2bxt7KkC"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Same Old Love",
+      "uri": "spotify:track:1BZG99C7Co1r6QUC3zaS59"
+    },
+    {
+      "artist": "Alan Silvestri",
+      "album": "Lilo & Stitch",
+      "track": "You Can Never Belong",
+      "uri": "spotify:track:3hxmdwLdmjSwV15ahceHY7"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Aura",
+      "uri": "spotify:track:0OQAx4sENszusruiPGfTeW"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "track": "유리어항 One and Only",
+      "uri": "spotify:track:1bEL9XbPBJcU3cFmetBkuN"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Tennis Court",
+      "uri": "spotify:track:4ivBdCI1s9f6yDWFUvBtZo"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Cover up",
+      "uri": "spotify:track:25JsYHDRiRvxIddliGESTT"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "track": "Curtain Call",
+      "uri": "spotify:track:4d7m7aCYxVdiUWsttYcMFV"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 承 'Her'",
+      "track": "dimple",
+      "uri": "spotify:track:3ryjLm3oupIjJFGc39naNi"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Body Heat",
+      "uri": "spotify:track:5VQ0SPGs7vdzQCIzsHTNUz"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "track": "The Way",
+      "uri": "spotify:track:06EL94D0TA27Ik0Ke5usbj"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "400 Lux",
+      "uri": "spotify:track:7ynvnjTj1XI8ByUq3F8MUw"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "G.U.Y.",
+      "uri": "spotify:track:5ve8saw5u0CbP9fcyNzmxN"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "곁에 있어주길 Stay with Me",
+      "uri": "spotify:track:1qQpXb6J8s4qDJINxlUDxl"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Attention",
+      "uri": "spotify:track:6pDVjCUA3B1vg9waKutAsv"
+    },
+    {
+      "artist": "EXO",
+      "album": "THE WAR - The 4th Album",
+      "track": "Going Crazy",
+      "uri": "spotify:track:64EJgeHPkqJThnr7RDppo3"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "track": "Mary Jane Holland",
+      "uri": "spotify:track:2UtaXZ4I56cQK8XmsLwc82"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Sober",
+      "uri": "spotify:track:3viZcRlE38APncWJ5VGM4q"
+    },
+    {
+      "artist": "The Halluci Nation",
+      "album": "A Tribe Called Red",
+      "track": "Electric Pow Wow Drum",
+      "uri": "spotify:track:5e8v4ibmsMHxHLALe5KaiZ"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Revival",
+      "uri": "spotify:track:7oIGPzZ1TGlFbdG4nDI3uo"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "track": "척 Love is a lie",
+      "uri": "spotify:track:2gpBXMv2yGwq1icZKpcu6f"
+    },
+    {
+      "artist": "Sara Paxton",
+      "album": "Disneymania 4",
+      "track": "Can You Feel the Love Tonight",
+      "uri": "spotify:track:6PgQmzTyoDvV0tRLfOEsSA"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red - The 1st Album",
+      "track": "Oh Boy",
+      "uri": "spotify:track:3rRe3gQHri7GwRg4zvxhc5"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "track": "Miss You More",
+      "uri": "spotify:track:6tLKI0pHLgM2XqqSVtBrLJ"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red Summer - Summer Mini Album",
+      "track": "Red Flavor",
+      "uri": "spotify:track:7nKQ5WAcjnG48knyLuo8gO"
+    },
+    {
+      "artist": "Wynonna",
+      "album": "Lilo & Stitch",
+      "track": "Burning Love",
+      "uri": "spotify:track:5yjYmuzbkZpDpR0loh6L8T"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "track": "Replay",
+      "uri": "spotify:track:0xTv69YWkYcmMdTFqvxcN2"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "track": "State Of Grace",
+      "uri": "spotify:track:5zyCYmiaVE5y26EZuwZbsw"
+    },
+    {
+      "artist": "WJSN",
+      "album": "UNNATURAL",
+      "track": "UNNATURAL",
+      "uri": "spotify:track:1eykKBqxHgasGHwjOQIvbt"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Taylor Swift",
+      "album": "Midnights",
+      "uri": "spotify:album:151w1FgRZfnKZA9FEcg9Z3"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Cloud Nine",
+      "uri": "spotify:album:0uMIzWh1uEpHEBell4rlF8"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "I GOT A BOY - The 4th Album",
+      "uri": "spotify:album:3uhihQCm9aSvdJmDXcVrvi"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red Summer - Summer Mini Album",
+      "uri": "spotify:album:6OXg149IkmbgW7zfzbwgS2"
+    },
+    {
+      "artist": "EXO",
+      "album": "THE WAR - The 4th Album",
+      "uri": "spotify:album:53pJcIJBdlm5rhVhjSnvHn"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "uri": "spotify:album:0rmhjUgoVa17LZuS8xWQ3v"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red - The 1st Album",
+      "uri": "spotify:album:6YL9J0E6PGtYzkhyMxnmXd"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "uri": "spotify:album:2FBA8NCSuQNi8jaR2Xjbal"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Dangerous Woman",
+      "uri": "spotify:album:3OZgEywV4krCZ814pTJWr7"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "uri": "spotify:album:7lDBDk8OQarV5dBMu3qrdz"
+    },
+    {
+      "artist": "BLACKPINK",
+      "album": "SQUARE UP",
+      "uri": "spotify:album:1HwIUaaEuRsxsIyssqtGLH"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "uri": "spotify:album:34OkZVpuzBa9y40DCy0LPR"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "uri": "spotify:album:2ODvWsOgouMbaA5xf0RkJe"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Disneymania 3",
+      "uri": "spotify:album:6vcn58GShet4wmqctZ8jVj"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "uri": "spotify:album:6DEjYFkNZh67HP7R9PSZvv"
+    },
+    {
+      "artist": "WINNER",
+      "album": "2014 S/S",
+      "uri": "spotify:album:0FTxF6n6K9y5P0liEUvB5S"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "Catch Me If You Can",
+      "uri": "spotify:album:4efZAcyaIaPMIeBQheHKOy"
+    },
+    {
+      "artist": "Calvin Harris",
+      "album": "Funk Wav Bounces Vol. 2",
+      "uri": "spotify:album:49DV9eFp2xTdtO7veew5xS"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "The Haunted Mansion",
+      "uri": "spotify:album:0D0ewaLXve7NBibkwrrdIA"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Perfect Velvet - The 2nd Album",
+      "uri": "spotify:album:0rvrbZvaDX5S9ZBhwOwFfH"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Midnights",
+      "uri": "spotify:album:3lS1y25WAhcqJDATJK70Mq"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "Mr. Mr. - The 4th Mini Album",
+      "uri": "spotify:album:1WyHAY8OWdfCFWTF0Ufwjj"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "uri": "spotify:album:5xSvNPstcxHtR4ap2vvN8A"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "Genie - The Second Mini Album",
+      "uri": "spotify:album:7dXtKHYGXhQZCE2mEg0l93"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "uri": "spotify:album:6EVYTRG1drKdO8OnIQBeEj"
+    },
+    {
+      "artist": "LANY",
+      "album": "LANY",
+      "uri": "spotify:album:0HiwsXForePsWdIZW6EEkK"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "uri": "spotify:album:7H4ZbSDmdzFNTrkNKDUXMC"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Kids in Love",
+      "uri": "spotify:album:5PwJQShNbsoWSKZ9VPEHTY"
+    },
+    {
+      "artist": "I.O.I",
+      "album": "miss me?",
+      "uri": "spotify:album:1AM6J4QIJRL8MEXV03tlc5"
+    },
+    {
+      "artist": "DEAN",
+      "album": "130 Mood : TRBL",
+      "uri": "spotify:album:1MW3txTS49ZGvyLi0fziLU"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "uri": "spotify:album:1NAmidJlEaVgA3MpcPFYGq"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Princess Disneymania",
+      "uri": "spotify:album:61rR26BXw5dLnZ8iQfNGkh"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "uri": "spotify:album:4oCGmYsAQOWt2ACWTpNUU6"
+    },
+    {
+      "artist": "Brave Girls",
+      "album": "THANK YOU",
+      "uri": "spotify:album:5RaqvFt71ro3Y8nngoucv6"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "...Ready For It?",
+      "uri": "spotify:album:45fMDoh9dhhQicddIZzhKM"
+    },
+    {
+      "artist": "DEAN",
+      "album": "love",
+      "uri": "spotify:album:1T31bmhGoWoSHmZUjKilzi"
+    },
+    {
+      "artist": "BTS",
+      "album": "Love Yourself 承 'Her'",
+      "uri": "spotify:album:2FTS6a6DLXMNp8flyA0HGO"
+    },
+    {
+      "artist": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "uri": "spotify:album:1JFmNyVPdBF1ECvv4fhpW4"
+    },
+    {
+      "artist": "Florida Georgia Line",
+      "album": "Florida Georgia Line",
+      "uri": "spotify:album:6V431Aaa3zSvu9OyxbqtNw"
+    },
+    {
+      "artist": "CLC",
+      "album": "To the sky",
+      "uri": "spotify:album:0z46X13mUaArCdLEhLtJBz"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Lilo & Stitch",
+      "uri": "spotify:album:0tNLpUZfJKyxMS0nKlnyXP"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Rookie - The 4th Mini Album",
+      "uri": "spotify:album:5Bg49LEfyoZzKpQsEwRCtI"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Born This Way",
+      "uri": "spotify:album:5maeycU97NHBgwRr2h2A4O"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Rookie - The 4th Mini Album",
+      "uri": "spotify:album:01n9lwCLSigXsuY0AdFS9O"
+    },
+    {
+      "artist": "JO YURI",
+      "album": "GLASSY",
+      "uri": "spotify:album:2WCMmZ8vXBnkVp97PzLeoA"
+    },
+    {
+      "artist": "EXO",
+      "album": "LOVE ME RIGHT - The 2nd Album Repackage",
+      "uri": "spotify:album:1LAtXrg1eSZ0sHbdzWoKAj"
+    },
+    {
+      "artist": "I.O.I",
+      "album": "Whatta Man",
+      "uri": "spotify:album:3b7G0qAXQjITly1Zxqszng"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "행복(Happiness)",
+      "uri": "spotify:album:6MMkaYzyM0aLZmDBce3nL6"
+    },
+    {
+      "artist": "SUNMI",
+      "album": "LALALAY 날라리",
+      "uri": "spotify:album:1hgIt7Jq6m1zVfT1TzUQzs"
+    },
+    {
+      "artist": "CLC",
+      "album": "FREE’SM",
+      "uri": "spotify:album:4UXgZzt4Zbc4Vg4Ll61ZXh"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "#Cookie Jar",
+      "uri": "spotify:album:4W6K0DP1YlZ48JlvdKCkZh"
+    },
+    {
+      "artist": "LOOΠΔ / ODD EYE CIRCLE",
+      "album": "Mix & Match",
+      "uri": "spotify:album:1a8lndLvlxQsRyiLdKPtze"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Purpose - The 2nd Album",
+      "uri": "spotify:album:0h6wCpdgpSOAbYDDYJVuwr"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "INVU - The 3rd Album",
+      "uri": "spotify:album:7i2YLTVQ0dyngRuUqtGmr9"
+    },
+    {
+      "artist": "SEULGI",
+      "album": "28 Reasons - The 1st Mini Album",
+      "uri": "spotify:album:1t5a29WYbJj83iy3RNICHw"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "uri": "spotify:album:6MNlcai3skKLKv5syzFwC3"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Ice Cream Cake - The 1st Mini Album",
+      "uri": "spotify:album:27cBQ5FDqv0xLgiJ7qNpZr"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Rebirth - SM STATION",
+      "uri": "spotify:album:3N2kQMt5yVXyGAVUDxzqup"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "The Boys",
+      "uri": "spotify:album:3RlHApvIdfDGHXNHgzMlCw"
+    },
+    {
+      "artist": "T-ARA",
+      "album": "Re:T-ARA",
+      "uri": "spotify:album:1GTkiHxMFTVC9K9Zf2aoxU"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Red - The 1st Album",
+      "uri": "spotify:album:56L226pRT1sHo2vgoJy5IB"
+    },
+    {
+      "artist": "BLACKPINK",
+      "album": "SQUARE ONE",
+      "uri": "spotify:album:0zlJOlDdsJ6Y14GnPoYGD8"
+    },
+    {
+      "artist": "Dalshabet",
+      "album": "FRI. SAT. SUN",
+      "uri": "spotify:album:68MTwr1dS8MNXJHIo3Orec"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "My Dear Melancholy,",
+      "uri": "spotify:album:3N88bRVAwQrtKqSV0UgU69"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The 1st Mini Album ‘Ice Cream Cake’",
+      "uri": "spotify:album:6eS6pnhJWgYL0A74Mp3RPc"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "LOVE&PEACE",
+      "uri": "spotify:album:6wEWyxbvJIQBvzSbZDAWet"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "Lion Heart - The 5th Album",
+      "uri": "spotify:album:4eKdn0skJCidO2wqIJyCgB"
+    },
+    {
+      "artist": "Chris Brown",
+      "album": "X (Expanded Edition)",
+      "uri": "spotify:album:3LByoNjO4gbuX5D0u26LDY"
+    },
+    {
+      "artist": "CLC",
+      "album": "CRYSTYLE",
+      "uri": "spotify:album:33jMaPi4Y6XdilvV8A5356"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "ARTPOP",
+      "uri": "spotify:album:705K6lFN9wm3bifelyuQS4"
+    },
+    {
+      "artist": "DEAN",
+      "album": "Limbo",
+      "uri": "spotify:album:48ScAfcD1Dy3gMPhjhTzek"
+    },
+    {
+      "artist": "EXO",
+      "album": "EX'ACT - The 3rd Album",
+      "uri": "spotify:album:5dB931yywXZg4VdZYeFRaD"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Perfect Red Velvet - The 2nd Album Repackage",
+      "uri": "spotify:album:0OkJThJls8FO1lutMzMDJ0"
+    },
+    {
+      "artist": "Charlie Puth",
+      "album": "CHARLIE",
+      "uri": "spotify:album:2LTqBgZUH4EkDcj8hdkNjK"
+    },
+    {
+      "artist": "Atomic Kitten",
+      "album": "Atomic Kitten",
+      "uri": "spotify:album:340y6ZpqGxp4xW0203bOPN"
+    },
+    {
+      "artist": "Girls Planet 999",
+      "album": "Girls Planet 999 - Creation Mission",
+      "uri": "spotify:album:1udXKryzOCDM3HfMrzacDb"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Velvet - The 2nd Mini Album",
+      "uri": "spotify:album:2qgl7dAgslqL1w2l2wQhMA"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "The Velvet - The 2nd Mini Album",
+      "uri": "spotify:album:3ZkPccW7mkSC7BCulcPFJs"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Hotel Del Luna OST Part.8",
+      "uri": "spotify:album:7uKdjhwcjb2WwHJ5AfzTJO"
+    },
+    {
+      "artist": "aespa",
+      "album": "Savage - The 1st Mini Album",
+      "uri": "spotify:album:3vyyDkvYWC36DwgZCYd3Wu"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "‘The ReVe Festival’ Day 1",
+      "uri": "spotify:album:2nLEiP268mSFZHW5dajM4R"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "Girls' Generation",
+      "uri": "spotify:album:2U1BPwhkzHt05OFugiSB3g"
+    },
+    {
+      "artist": "BLACKPINK",
+      "album": "THE ALBUM",
+      "uri": "spotify:album:71O60S5gIJSIAhdnrDIh3N"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "uri": "spotify:album:6DlCl3hBP1Gwhn0tgitGfN"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "SAPPY",
+      "uri": "spotify:album:4n2UdASUneo56k6Uk5ZRIb"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Disneymania 4",
+      "uri": "spotify:album:4ZqstYUQ4UO5pwYdl41vnz"
+    },
+    {
+      "artist": "OH MY GIRL",
+      "album": "THE FIFTH SEASON",
+      "uri": "spotify:album:30CtcU5ApB65Dl9uxHQHjw"
+    },
+    {
+      "artist": "Jay Park",
+      "album": "Everything You Wanted",
+      "uri": "spotify:album:1r35iKDhDpJTkVWBBCtFIB"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Russian Roulette - The 3rd Mini Album",
+      "uri": "spotify:album:2pBrB5hW9CjLWWZGqrET2g"
+    },
+    {
+      "artist": "JEON SOMI",
+      "album": "XOXO",
+      "uri": "spotify:album:63pvOn2B5pUUcUKUwIEg9m"
+    },
+    {
+      "artist": "CLC",
+      "album": "BLACK DRESS",
+      "uri": "spotify:album:3I3c4rkP6v5LtjMrgbD6d0"
+    },
+    {
+      "artist": "NCT 127",
+      "album": "NCT#127 LIMITLESS - The 2nd Mini Album",
+      "uri": "spotify:album:0S6GmG9lmbbgr61Hj4cadt"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Disneymania 5",
+      "uri": "spotify:album:4QUVJSHDCCMW1hxXvpMxMf"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Be Natural - The 2nd Single",
+      "uri": "spotify:album:4OeQ9nilS4Sy3efzt0hVFi"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "uri": "spotify:album:1KlU96Hw9nlvqpBPlSqcTV"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "uri": "spotify:album:2fYhqwDWXjbpjaIJPEfKFw"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Summer Magic - Summer Mini Album",
+      "uri": "spotify:album:5zWa1ZEUBctbKqvwXbFawo"
+    },
+    {
+      "artist": "LE SSERAFIM",
+      "album": "FEARLESS",
+      "uri": "spotify:album:4Mc7WwYH41hgUWeKX25Sot"
+    },
+    {
+      "artist": "Wonder Girls",
+      "album": "REBOOT",
+      "uri": "spotify:album:6uZUsBaw4hH7TPa60A1W3a"
+    },
+    {
+      "artist": "Ellie Goulding",
+      "album": "Close To Me",
+      "uri": "spotify:album:7dg5iqyFYqRQH7vtAG9VNf"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "세가지 소원 Wish Tree - WINTER GARDEN",
+      "uri": "spotify:album:69a7YNzhApHfLFwHvPkCso"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "‘The ReVe Festival’ Day 2",
+      "uri": "spotify:album:3DXz6ItR9DzIw9S0h3Cxfc"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "uri": "spotify:album:6rnzvZhe3PA57xKcKLRtJ6"
+    },
+    {
+      "artist": "f(x)",
+      "album": "4 Walls - The 4th Album",
+      "uri": "spotify:album:3eq8OpzVB5qDET5TBoqTPN"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Yours Truly",
+      "uri": "spotify:album:6czdbbMtGbAkZ6ud2OMTcg"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "Would U - SM STATION",
+      "uri": "spotify:album:55Pg6r2oJfQaVm3yzhgZsG"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "‘The ReVe Festival’ Finale",
+      "uri": "spotify:album:3rVtm00UfbuzWOewdm4iYM"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "Why - The 2nd Mini Album",
+      "uri": "spotify:album:2LgnQf7qzLjeRcY7JjRfy0"
+    },
+    {
+      "artist": "Brave Girls",
+      "album": "Summer Queen",
+      "uri": "spotify:album:2x10RN9oP665I7gyP1UNUi"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "Gee - The First Mini Album",
+      "uri": "spotify:album:4YroJ4NELkaJ34JjEZ6RyJ"
+    },
+    {
+      "artist": "Red Velvet",
+      "album": "RBB - The 5th Mini Album",
+      "uri": "spotify:album:7rNIvLwIpB2mwOzk20iqIl"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "GIRLS’ GENERATION",
+      "uri": "spotify:album:1xk5M7P8xdi5Ii0b7b7SzH"
+    },
+    {
+      "artist": "MOMOLAND",
+      "album": "GREAT!",
+      "uri": "spotify:album:5vt2sEP5J0VNbYXoA7h2k4"
+    },
+    {
+      "artist": "TAEYEON",
+      "album": "My Voice - The 1st Album",
+      "uri": "spotify:album:7MG0bxf0ZFsAyej9W3XzTO"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
+      "uri": "spotify:album:5whDhKLvjPuuPLZExFVw5R"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Witness",
+      "uri": "spotify:album:34bapzNG3Mtwvp6kajrmOT"
+    }
+  ],
+  "shows": [
+  ],
+  "episodes": [
+    {
+      "name": "Life in Italy: Things we take for granted",
+      "show": "A Midnight Chattering",
+      "uri": "spotify:episode:6m6Cv4CzMUP736g1ASVNLV"
+    }
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "Childish Gambino",
+      "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+    },
+    {
+      "name": "Franz Schubert",
+      "uri": "spotify:artist:2p0UyoPfYfI76PCStuXfOP"
+    },
+    {
+      "name": "Girls' Generation",
+      "uri": "spotify:artist:0Sadg1vgvaPqGTOjxu0N6c"
+    },
+    {
+      "name": "Girls' Generation-Oh!GG",
+      "uri": "spotify:artist:1foL9hLC9M6U94dINtOYfb"
+    },
+    {
+      "name": "Jay Park",
+      "uri": "spotify:artist:4XDi67ZENZcbfKnvMnTYsI"
+    },
+    {
+      "name": "Jeremih",
+      "uri": "spotify:artist:3KV3p5EY4AvKxOlhGHORLg"
+    },
+    {
+      "name": "Lenra",
+      "uri": "spotify:artist:5cvNxV2EKBRJZSrVTHb7Up"
+    },
+    {
+      "name": "Pigeons Playing Ping Pong",
+      "uri": "spotify:artist:52NOvMXEjgf8MQl0qop2dl"
+    },
+    {
+      "name": "Red Velvet",
+      "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
+    },
+    {
+      "name": "SZA",
+      "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+    },
+    {
+      "name": "Tamar Braxton",
+      "uri": "spotify:artist:1MT1Wz4G9Z9EVOg4L5zZMS"
+    },
+    {
+      "name": "The 1975",
+      "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    },
+    {
+      "name": "The Weeknd",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "name": "Tritonal",
+      "uri": "spotify:artist:521qvhdobR0GzhvU6TFw76"
+    },
+    {
+      "name": "Zedd",
+      "uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq"
+    },
+    {
+      "name": "aespa",
+      "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}

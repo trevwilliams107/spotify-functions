@@ -1,0 +1,4372 @@
+song, artist         num_plays
+Bad Boy, Red Velvet          3158
+FANCY, TWICE          2677
+LOVE BOMB, fromis_9          1631
+love4eva (feat. Grimes), LOONA/yyxy          1344
+ICY, ITZY          1233
+YES or YES, TWICE          1192
+I mean, UNI.T          1183
+러시안 룰렛 Russian Roulette, Red Velvet          1134
+RUN2U, STAYC          962
+Bon Bon Chocolat, EVERGLOW          895
+Zimzalabim, Red Velvet          894
+Umpah Umpah, Red Velvet          863
+Hi High, LOONA          856
+La Vie en Rose, IZ*ONE          845
+Feel My Rhythm, Red Velvet          809
+Boogie Up, WJSN          765
+BBoom BBoom, MOMOLAND          724
+Power Up, Red Velvet          689
+To Heart, fromis_9          673
+SO BAD, STAYC          657
+Girl Front, LOOΠΔ / ODD EYE CIRCLE          626
+%%(Eung Eung), Apink          622
+Black Mamba, aespa          618
+FINGERTIP, GFRIEND          600
+La La Love, WJSN          594
+Red Flavor, Red Velvet          591
+MAGO, GFRIEND          587
+Heart Attack, AOA          553
+INVU, TAEYEON          549
+Monster, Red Velvet - IRENE & SEULGI          544
+Adios, EVERGLOW          519
+Q&A, Cherry Bullet          517
+LOVE DIVE, IVE          514
+FUN!, fromis_9          513
+Very Very Very, I.O.I          507
+Next Level, aespa          505
+Rookie, Red Velvet          499
+Feel Special, TWICE          482
+Me & You, EXID          472
+숙녀 (淑女) Lady, Yubin          469
+Get It, PRISTIN V          460
+Psycho, Red Velvet          446
+WooWoo, DIA          446
+ASAP, STAYC          444
+BAAM, MOMOLAND          444
+I CAN'T STOP ME, TWICE          443
+Holiday, Girls' Generation          416
+Glass Shoes, fromis_9          414
+Queendom, Red Velvet          409
+Panorama, IZ*ONE          406
+Feel Good (SECRET CODE), fromis_9          403
+Up!, Kep1er          391
+All Night, Girls' Generation          391
+After LIKE, IVE          386
+Savage, aespa          380
+PITAPAT (DKDK), fromis_9          380
+The Boots, gugudan          377
+You Better Know, Red Velvet          374
+FOREVER 1, Girls' Generation          369
+Tiki-Taka(99%), Weki Meki          367
+WANNABE, ITZY          367
+Dumhdurum, Apink          363
+Pool Party (Feat. E-CHAN of DKB), Brave Girls          359
+STEREOTYPE, STAYC          358
+Peek-A-Boo, Red Velvet          350
+DDU-DU DDU-DU, BLACKPINK          345
+Really Really, Cherry Bullet          343
+WEE WOO, PRISTIN          343
+MORE & MORE, TWICE          342
+As If It's Your Last, BLACKPINK          340
+Love Options, BESTie          338
+I Love You, EXID          336
+DM, fromis_9          332
+Talk that Talk, TWICE          327
+SEE SEA, Hyolyn          322
+ELEVEN, IVE          321
+MIROH, Stray Kids          319
+Chi Mat Ba Ram, Brave Girls          314
+PICK ME, PRODUCE 48          304
+Blue Flame, LE SSERAFIM          303
+Roller Coaster, CHUNG HA          298
+ME, CLC          296
+Heroine, SUNMI          295
+We Ride, Brave Girls          291
+RBB (Really Bad Boy), Red Velvet          290
+Step Back, GOT the beat          287
+Lil’ Touch, Girls' Generation-Oh!GG          283
+The Great Mermaid, LE SSERAFIM          282
+Butterflies, Red Velvet          280
+First Love, After School          269
+After School, Weeekly          266
+Rollin', Brave Girls          264
+Blue Hour, TOMORROW X TOGETHER          263
+Hype Boy, NewJeans          261
+Hello, Sunset, Red Velvet          260
+FIESTA, IZ*ONE          260
+CHIQUITA, Rocket Punch          258
+This Hell, Rina Sawayama          256
+WE GO, fromis_9          256
+WA DA DA, Kep1er          254
+I'm so sick, Apink          250
+Ring Ring, Rocket Punch          248
+Mamma Mia, KARA          248
+Sour Grapes, LE SSERAFIM          247
+The fifth season (SSFWL), OH MY GIRL          245
+Closer (feat. H.E.R.), Saweetie          243
+Picky Picky, Weki Meki          243
+Naughty, Red Velvet - IRENE & SEULGI          240
+Rollin’, Brave Girls          239
+Dance The Night Away, TWICE          238
+Dreams Come True, aespa          237
+Secret Garden, OH MY GIRL          236
+Sunny Summer, GFRIEND          236
+Hold On, I.O.I          236
+UNNATURAL, WJSN          235
+YEPPI YEPPI, aespa          233
+Not That Type, gugudan          230
+Beg For Me, Red Velvet          230
+Dumb Dumb, Red Velvet          229
+Wow Thing, SEULGI          228
+I LOVE YOU, TREASURE          226
+FEARLESS, LE SSERAFIM          225
+SOLO, JENNIE          225
+ALIVE, LIGHTSUM          224
+What You Waiting For, JEON SOMI          224
+Remember Me, OH MY GIRL          222
+Secret, WJSN          220
+Nonstop, OH MY GIRL          219
+Crush, Weki Meki          218
+Automatic, Red Velvet          217
+Love So Sweet, Cherry Bullet          213
+View, SHINee          212
+Some Love, Red Velvet          212
+O.O, NMIXX          211
+LALALILALA, APRIL          211
+Look, Red Velvet          210
+Someone like U, Dalshabet          210
+Rainbow Halo, Red Velvet          208
+Thank U Soooo Much, Yubin          208
+Secret Story of the Swan, IZ*ONE          207
+Gotta Go, CHUNG HA          205
+Copycat, Apink CHOBOM          204
+LA DI DA, EVERGLOW          203
+Love Cherry Motion, LOONA          203
+Ice Cream Cake, Red Velvet          202
+Siren, SUNMI          202
+Lady, EXID          201
+Forever Young, BLACKPINK          200
+WoW!, Lovelyz          197
+Gitchee Gitchee Goo, Phineas and the Ferbtones          191
+BLACK DRESS, CLC          190
+PLAYING WITH FIRE, BLACKPINK          189
+FRI. SAT. SUN, Dalshabet          188
+Stay Tonight, CHUNG HA          187
+Something New, TAEYEON          187
+Weekend, TAEYEON          187
+In & Out, Red Velvet          186
+Tag Me (@Me), Weeekly          185
+BBIBBI, IU          184
+We Together - IZ*ONE Ver., IZ*ONE          183
+Why, TAEYEON          182
+Make you happy, NiziU          182
+CALL ME BABY, EXO          181
+Eyes Locked, Hands Locked, Red Velvet          181
+Twinkle, Lovelyz          181
+Eclipse (Prod. By Daniel Obi Klein), LOONA          180
+하이힐, Brave Girls          179
+Buttons, The Pussycat Dolls          179
+Dun Dun Dance, OH MY GIRL          178
+God's Plan, Drake          177
+BOOMBAYAH, BLACKPINK          176
+Egoist (Olivia Hye), LOONA          176
+Zoo, Red Velvet          176
+Ring My Bell, Girl's Day          176
+Got That Boom, SECRET NUMBER          176
+Glue, 9MUSES          176
+Oh! my mistake, APRIL          173
+Symphony (feat. Zara Larsson), Clean Bandit          173
+마지막 첫사랑 My First and Last, NCT DREAM          172
+Darling, Girl's Day          171
+Kiss Me More (feat. SZA), Doja Cat          170
+Levitating, Dua Lipa          170
+BUTTERFLY, WJSN          169
+So What, LOONA          169
+Hello, JOY          167
+Blue Lemonade, Red Velvet          167
+Hmph!, WJSN Chocome          166
+Mr.Mr., Girls' Generation          166
+To Reach You, Memory Fabricators          166
+Rough, GFRIEND          165
+DARARI, TREASURE          165
+God’s Menu, Stray Kids          165
+BEAUTIFUL MONSTER, STAYC          164
+Look, GOT7          164
+BOP BOP!, VIVIZ          163
+The Feels, TWICE          163
+Rollin' Rollin', Love Potion          163
+What is Love?, TWICE          162
+4 Walls, f(x)          161
+Last Sequence, WJSN          160
+Zig Zag, Weeekly          160
+IAM, 1AM          159
+행복 (Happiness), Red Velvet          158
+Zombie, PURPLE KISS          157
+Deepened, Brave Girls          157
+Sleepless Night, 9MUSES          156
+The Boys, Girls' Generation          154
+Not Shy, ITZY          154
+I'll Be Yours, Girl's Day          153
+Infinity, Mariah Carey          153
+In the morning, ITZY          152
+GingaMingaYo (the strange world), Billlie          151
+WHISTLE, BLACKPINK          151
+PARTY, Girls' Generation          151
+I GOT A BOY, Girls' Generation          151
+Bingle Bangle, AOA          150
+Pose, Red Velvet          150
+Coconuts, Kim Petras          149
+LOVE WHISPER, GFRIEND          147
+Star, LOONA          147
+Thank You, Brave Girls          146
+Sweet Crazy Love, LOOΠΔ / ODD EYE CIRCLE          145
+Cookie, NewJeans          145
+Rumor, H.I.N.P (Hot Issue of Ntl. Producers)          145
+Ladies Night, Red Velvet          145
+No, CLC          144
+Love Shhh!, JO YURI          143
+You Make Me Feel... (feat. Sabi), Cobra Starship          143
+BABE, HyunA          143
+Friday Night, SONAMOO          143
+ANTIFRAGILE, LE SSERAFIM          142
+Where Are You?, CLC          141
+You and I, Brave Girls          141
+I'm Your Girl ?, KHAN          141
+Damaged Lady, KARA          140
+Carpool, Red Velvet          139
+For you, Lovelyz          138
+DDD, EXID          138
+What 2 Do, DEAN          138
+달라달라 (DALLA DALLA), ITZY          138
+Talk & Talk, fromis_9          138
+Crying, Stellar          138
+내 이름은, T-ARA          138
+Wig, Todrick Hall          138
+good 4 u, Olivia Rodrigo          137
+Fool, Red Velvet          137
+Palette (feat. G-DRAGON), IU          137
+FIRST, EVERGLOW          136
+See You Again, The Promise          135
+Lucky Girl, Red Velvet          135
+Real Love, OH MY GIRL          134
+Dolls, 9MUSES          134
+Attention, NewJeans          133
+MVSK, Kep1er          132
+A Girl Like Me, gugudan          132
+Pink Venom, BLACKPINK          131
+When The Cherry Blossoms Fade, I.O.I          131
+SLOW DOWN, STAYC          130
+Lucky One, EXO          130
+NEON, YUKIKA          130
+Excuse Me, BESTie          129
+In My Dreams, Red Velvet          129
+Like a Cat, AOA          128
+No More, UNI.T          128
+Illusion, aespa          128
+Pirate, EVERGLOW          127
+After We Ride, Brave Girls          126
+Knock On Wood, Red Velvet          125
+1000%, SummerWish          125
+Singing in the Rain, LOONA          124
+Violeta, IZ*ONE          124
+CUPID, KARA          124
+Why Not?, LOONA          124
+BAMBOLEO, Red Velvet          124
+Rockabye (feat. Sean Paul & Anne-Marie), Clean Bandit          123
+Dream of You (with R3HAB), CHUNG HA          123
+MASCARA, XG          122
+As You Wish, WJSN          120
+UP NO MORE, TWICE          120
+Excuse Me, AOA          120
+new, LOONA          120
+Hands Up, Cherry Bullet          119
+Back Door, Stray Kids          119
+KILLING ME, iKON          119
+Whistle, Brave Girls          118
+7월 7일 One Of These Nights, Red Velvet          118
+Hoot, Girls' Generation          118
+Stay This Way, fromis_9          117
+Done, WJSN          117
+Pushin' N Pullin', Red Velvet          116
+Vibrato, Stellar          116
+Dilemma, Apink          116
+Sunny Afternoon, Red Velvet          115
+Don't fight the feeling, EXO          115
+Energetic, Wanna One          115
+Dessert - Remix, Dawin          114
+Kiss Me Thru The Phone, Soulja Boy          114
+Somethin Kinda Crazy, Red Velvet          114
+Filipinos Hip Hop Party Anthem, Lenra          114
+COOL, Weki Meki          114
+Alcohol-Free, TWICE          113
+FXXK IT, BIGBANG          113
+Break Free, Ariana Grande          113
+Better Be, Red Velvet          113
+SAY MY NAME, Hyolyn          113
+LOCO, ITZY          112
+처음인가요 First Time, Red Velvet          112
+HWAA, (G)I-DLE          112
+괜찮아 괜찮아 Fantasy, Fei          111
+Girls, aespa          111
+Lovesick Girls, BLACKPINK          111
+SMILEY(Feat. BIBI), YENA          111
+I Just, Red Velvet          111
+한 폭의 그림 Paradise, S.E.S.          111
+Oh My!, SEVENTEEN          111
+Now, We, Lovelyz          110
+Likey, TWICE          110
+Taste, Red Velvet          110
+FIVE, Apink          109
+NO PROBLEM (Feat. Felix of Stray Kids), NAYEON          109
+Forever (약속), aespa          109
+ELVIS, AOA          109
+With You, Red Velvet          109
+SCIENTIST, TWICE          109
+Future, Red Velvet          108
+Utopia, Unicorn          108
+DNA, BTS          108
+We Belong Together, Mariah Carey          108
+Express Moon, JO YURI          108
+My Copycat, Orange Caramel          107
+All Right, Red Velvet          107
+LOVEADE, VIVIZ          107
+Bad Dracula, Red Velvet          106
+My Dear, Red Velvet          106
+DRAMA, 9MUSES          106
+News, 9MUSES          106
+Wonderland, gugudan          105
+Red Light, f(x)          104
+Night Rather Than Day, EXID          104
+Sunny Side Up!, Red Velvet          103
+Go Big or Go Home, ENHYPEN          103
+Open Up, Knock          103
+Kingdom Come, Red Velvet          103
+0 Mile, NCT 127          103
+Favorite (Vampire), NCT 127          101
+Shut Down, BLACKPINK          101
+Narcissist (feat. The 1975), No Rome          101
+HULA HOOP, LOONA          100
+White Noise in the Sleep Cabin, Haworth in White          100
+Flip That, LOONA          100
+완전 미쳤네 - Korean Version, T-ARA          99
+Miniskirt, AOA          99
+첫 사랑니 (Rum Pum Pum Pum), f(x)          99
+Gimme That, Chris Brown          98
+Summer by myself, Brave Girls          97
+Dilemma, Nelly          96
+Sting, Stellar          95
+NINETEEN, NATTY          95
+Touch My Body, Mariah Carey          95
+REALLY REALLY, WINNER          95
+Genie, Girls' Generation          95
+Joker, Dalshabet          94
+TT, TWICE          94
+I Like That, SISTAR          92
+Whatta Man (Good man), I.O.I          92
+Heart Attack (츄), LOONA          92
+Sparkling, CHUNG HA          92
+Lion Heart, Girls' Generation          92
+28 Reasons, SEULGI          92
+SAPPY, Red Velvet          91
+YOUNG LUV, STAYC          91
+Little Little, Red Velvet          91
+TICKET, 9MUSES          91
+Catallena, Orange Caramel          91
+Pool Party(Rollin’ right now), Kep1er          91
+Me Gustas Tu, GFRIEND          90
+Tears (feat. Louisa Johnson), Clean Bandit          90
+Meow Meow, CLC          90
+CRY FOR ME, TWICE          89
+Hurt Locker, 9MUSES          89
+Snake, Medusa          89
+TWIT, Hwa Sa          89
+Ko Ko Bop, EXO          89
+Hobgoblin, CLC          89
+ZOO, TAEYONG          88
+POP!, NAYEON          88
+Perfect World, TWICE          88
+Yes I am, MAMAMOO          88
+Lotto, EXO          88
+Can’t Bring Me Down, EXO          87
+Swimming Pool, Red Velvet          87
+Obsessed, Mariah Carey          87
+CHEER UP, TWICE          87
+About Love, Red Velvet          87
+Mojito, Red Velvet          87
+LIAR LIAR, OH MY GIRL          86
+Oh!, Girls' Generation          86
+Impatient, Jeremih          86
+Honey, KARA          86
+How You Like That, BLACKPINK          85
+Who Dis?, SECRET NUMBER          84
+Lip 2 Lip, IMFACT          84
+Aloha Oe, Cherry Bullet          84
+HIT, SEVENTEEN          84
+You, Regard          84
+Ah Yeah, EXID          84
+JJan! Koong! Kwang!, MOMOLAND          83
+O.O.O (Over&Over&Over), Girls Planet 999          83
+Hear The Wind Sing, GFRIEND          83
+Expect, Girl's Day          83
+LILAC, IU          83
+Wing Wing, Kep1er          83
+SIGNAL, TWICE          83
+HIP, MAMAMOO          82
+Thumbs Up, MOMOLAND          82
+HANN (Alone), (G)I-DLE          82
+Super Far, LANY          82
+Bad Boy - English Version, Bonus Track, Red Velvet          82
+Cool World, Red Velvet          82
+Love Is The Way, Red Velvet          82
+My Second Date, Red Velvet          81
+Stickwitu, The Pussycat Dolls          81
+More More, I.O.I          81
+Wild, 9MUSES          81
+Ice Cream (with Selena Gomez), BLACKPINK          81
+LP, Red Velvet          81
+Shine, PENTAGON          81
+Candy, BAEKHYUN          81
+Gone, ROSÉ          81
+Holiday Party, Weeekly          81
+Don't Know What To Do, BLACKPINK          80
+WE LIKE, PRISTIN          80
+Killing Me, CHUNG HA          80
+WINDY DAY, OH MY GIRL          79
+Perfect 10, Red Velvet          79
+Time For Love, Chris Brown          79
+DUN DUN, EVERGLOW          79
+OOPSIE (My Bad), NATURE          79
+Chapstick, Todrick Hall          79
+LOVE COUNTDOWN (Feat. Wonstein), NAYEON          79
+Rather Be (feat. Jess Glynne), Clean Bandit          78
+If I Can't Have You, Shawn Mendes          78
+Milky Way, BoA          77
+LATATA, (G)I-DLE          77
+BOY, TREASURE          77
+Oh NaNa (Hidden. HUR YOUNG JI), KARD          76
+LALALAY 날라리, SUNMI          76
+I Like U, NIKI          76
+Chococo, gugudan          76
+Time To Love, Red Velvet          76
+I Feel It Coming, The Weeknd          76
+Apple, GFRIEND          75
+Your Teeth In My Neck, Kali Uchis          75
+Good Luck, AOA          74
+Cool Hot Sweet Love, Red Velvet          74
+Good day, IU          74
+So Good, Red Velvet          74
+Remember Forever, Red Velvet          73
+달라달라 DALLA DALLA, ITZY          73
+Don't Start Now, Dua Lipa          73
+I Hate This Part, The Pussycat Dolls          73
+Banana allergy monkey, OH MY GIRL BANHANA          73
+I Wish, WJSN          73
+FLASH, Rocket Punch          73
+Message In A Bottle (Taylor's Version) (From The Vault), Taylor Swift          73
+FEVER, Brave Girls          73
+Strip (feat. Sharaya J), Little Mix          72
+Every Summertime, NIKI          72
+GLASSY, JO YURI          72
+Patbingsu, Billlie          72
+The World Is My Oyster, LE SSERAFIM          72
+Liar, CLC          72
+Marionette, Stellar          72
+Electric Shock, f(x)          72
+Given-Taken, ENHYPEN          72
+Hot Pink, EXID          72
+Love in This Club (feat. Young Jeezy), Usher          71
+LIKEY, TWICE          71
+LOVE ME LOVE ME, WINNER          71
+Free Somebody, LUNA          71
+오늘부터 우리는 Me Gustas Tu, GFRIEND          71
+Vanilla, LIGHTSUM          71
+Light Me Up, Red Velvet          70
+Be Without You - Kendu Mix, Mary J. Blige          70
+Fall Apart, KRANE          70
+My Type, Saweetie          70
+SHAKE IT, SISTAR          70
+Pow Pow, ALICE          69
+Don't Forget About Us - Radio Edit, Mariah Carey          69
+Listen to my word(A-ing), OH MY GIRL          69
+GOTTA BE YOU, 2NE1          68
+Time for the moon night, GFRIEND          68
+Loving U, SISTAR          68
+RUMOR, KARD          68
+Emotions, Mariah Carey          67
+Catch Me If You Can - Korean Version, Girls' Generation          67
+Only one, Apink          67
+Signal, TWICE          67
+Motivation, Normani          67
+Something, Girl's Day          67
+favOriTe, LOONA          67
+Yeah! (feat. Lil Jon & Ludacris), Usher          66
+Power, EXO          66
+Twinkle Twinkle, Girl's Day          66
+Red Dress, Red Velvet          66
+Butterfly, LOONA          66
+Impurities, LE SSERAFIM          66
+Glamorous, Fergie          66
+Drunk-Dazed, ENHYPEN          65
+Obsession, EXO          65
+Starboy, The Weeknd          65
+pporappippam, SUNMI          65
+POPPY, STAYC          65
+Sticker, NCT 127          65
+Boy, THE BOYZ          65
+LAST DANCE, BIGBANG          65
+Butter, BTS          64
+Mr. Chu, Apink          64
+Come See Me, AOA          64
+CLOSER, OH MY GIRL          64
+Happy, TAEYEON          64
+lowkey, NIKI          64
+Say My Name, Destiny's Child          64
+FEMALE PRESIDENT, Girl's Day          64
+Swish Swish, Katy Perry          64
+I mean that, CLC          63
+Snapping, CHUNG HA          63
+Dead Man Runnin’, SEULGI          63
+All Night, f(x)          63
+Short Hair, AOA          63
+Time Slip, Red Velvet          63
+TOMBOY, (G)I-DLE          63
+Call On Me, Janet Jackson          63
+Anywhere But Home, SEULGI          63
+Diamond, Red Velvet - IRENE & SEULGI          63
+Yo (Excuse Me Miss), Chris Brown          63
+Bad Boy, Sad Girl, SEULGI          63
+Coloring Book, OH MY GIRL          63
+Run It! (feat. Juelz Santana), Chris Brown          62
+Milkshake, Red Velvet          62
+VIVACE, LIGHTSUM          62
+WOOWA, DIA          62
+Talk To Me, Red Velvet          62
+달리, Hyolyn          61
+TiK ToK, Kesha          61
+ALIEN, LEE SUHYUN          61
+Hear The Sea, Red Velvet          61
+Mistake, CLC          61
+Dolphin, OH MY GIRL          61
+Bad Girl, woo!ah!          61
+Remember, 9MUSES          61
+Archangels of the Sephiroth, Stellar          61
+U+Me=LOVE, 7 LOVE Minutes          60
+HAPPY, WJSN          60
+NoNoNo, Apink          60
+Boy With Luv (feat. Halsey), BTS          60
+A, RAINBOW          60
+I’m So Hot, MOMOLAND          60
+PING PONG, I.O.I          60
+Finesse - Remix; feat. Cardi B, Bruno Mars          60
+Figaro, 9MUSES          59
+Moonlight Melody, Red Velvet          59
+CUPID, OH MY GIRL          59
+Attaboy, Red Velvet          59
+Big Girls Don't Cry (Personal), Fergie          59
+PING PONG, HyunA&DAWN          59
+MILK, f(x)          59
+BIRTHDAY, JEON SOMI          59
+Love U, CHUNG HA          59
+Happily Ever After, Red Velvet          59
+Back 2 U (AM 01:27), NCT 127          59
+LIPSTICK, Orange Caramel          59
+Domino, Jessie J          58
+X, f(x)          58
+Crown, SEULGI          58
+Uh-Oh, (G)I-DLE          58
+Instruction (feat. Demi Lovato & Stefflon Don), Jax Jones          57
+See Tình, Hoang Thuy Linh          57
+Came Here for Love, Sigala          57
+Twenty-three, IU          57
+On The Ground, ROSÉ          57
+Wow., Post Malone          57
+Love Letter, LOONA          57
+365 FRESH, Triple H          56
+Cabin Sound, HI-FI CAMP          56
+Honest, Cotton Candy          56
+KNOCK KNOCK, OH MY GIRL          56
+We, First, ALICE          56
+All I Wanna Do (feat. Hoody & 로꼬 Loco) [Korean Version], Jay Park          56
+Sassy Me, Red Velvet          56
+Wonderful love, MOMOLAND          56
+High School in Jakarta, NIKI          56
+A Public Affair, Jessica Simpson          56
+Best Friend, Rex Orange County          56
+Last Friday Night (T.G.I.F.), Katy Perry          55
+All Mine, f(x)          55
+Oh Boy, Red Velvet          55
+Rude Love, f(x)          55
+The Eve, EXO          55
+WILDSIDE, Red Velvet          55
+Hit That Drum, Red Velvet          54
+장미꽃 향기는 바람에 날리고 Rose Scent Breeze, Red Velvet          54
+Dingga, MAMAMOO          54
+花요일 Blooming Day, EXO-CBX          54
+Senorita, (G)I-DLE          54
+One Last Time, Girls' Generation          54
+Los Angeles, SEULGI          54
+Easy Breezy, Kiana Ledé          54
+Basics, TWICE          53
+Delicate, Taylor Swift          53
+FEVER, ENHYPEN          53
+Fire Saturday, SECRET NUMBER          53
+Puzzle Moon, GWSN          53
+In the Same Place, GIRLS ON TOP          52
+Closer, Girls' Generation          52
+Heart Burn, SUNMI          52
+Feel Good (feat. Daya) - Crankdat Remix, Gryffin          52
+Starships, Nicki Minaj          52
+Jam Jam, IU          52
+Glitter, f(x)          52
+Roly-Poly, T-ARA          52
+Lady's Room, Red Velvet          52
+Papi, f(x)          52
+You Calling My Name, GOT7          52
+Greedy, Ariana Grande          52
+데리러 가 Good Evening, SHINee          52
+VERY NICE, SEVENTEEN          51
+Kill This Love, BLACKPINK          51
+Jumpin’, Red Velvet          51
+SMARTPHONE, YENA          51
+Whoo, RAINBOW          51
+M-Maybe, I.O.I          51
+Take It Slow, Red Velvet          50
+Day 1, Red Velvet          50
+Truth Hurts, Lizzo          50
+Solo (feat. Demi Lovato), Clean Bandit          50
+Depression, CLC          50
+OOPSY, Weki Meki          50
+Save Me, Save You, WJSN          50
+Dancing King, Yoo Jae Seok          50
+Campfire, Red Velvet          49
+Womanizer, Britney Spears          49
+Mood Lamp, Girls' Generation          49
+10 Seconds, AOA          49
+Shot Clock, Ella Mai          49
+XOXO, JEON SOMI          49
+All I Wanna Do, Jay Park          49
+DUMB DUMB, JEON SOMI          48
+NAVILLERA, GFRIEND          48
+It's Me (Pick Me), PRODUCE 101          48
+DANCE ON, ALICE          48
+Forever, Chris Brown          48
+COOL (Your rainbow), NMIXX          48
+STEP, KARA          48
+Diamond, f(x)          48
+#SELFIE, The Chainsmokers          48
+When I Grow Up, The Pussycat Dolls          48
+또또, myB 마이비          48
+DICE, NMIXX          48
+OOH-AHH하게 Like OOH-AHH, TWICE          48
+Mr. E, Red Velvet          48
+Superhuman, NCT 127          47
+Polaroid Love, ENHYPEN          47
+Cash Me Out, f(x)          47
+I (knew it), SONAMOO          47
+LOVE SCENARIO, iKON          47
+Don't Wanna Cry, SEVENTEEN          47
+Holler, Girls' Generation-TTS          47
+기대해, Girl's Day          47
+Keeping Tabs, NIKI          47
+I Feel The Love, Tritonal          47
+Married To The Music, SHINee          47
+Door, KWON EUN BI          47
+2 Baddies, NCT 127          47
+Niagara Falls, The Mindful          46
+All My Love (feat. Conor Maynard), Cash Cash          46
+Bing Bing, Red Velvet          46
+Me Like Yuh, Jay Park          46
+TING TING TING (with Oliver Heldens), ITZY          46
+Confused, AOA          46
+Taki Taki (feat. Selena Gomez, Ozuna & Cardi B), DJ Snake          46
+Better Days (NEIKED x Mae Muller x Polo G), NEIKED          46
+Body Talk, Red Velvet          46
+No Oh Oh, CLC          45
+Dream Candy, APRIL          45
+Devil, CLC          45
+Drive (feat. Gray), Jay Park          45
+Dream Girls, I.O.I          45
+Toxic, Britney Spears          45
+Babyface, WJSN          45
+Are You Hungry? [Jeonghwa & Hyelin Solo], EXID          45
+Vintage, NIKI          45
+Will you go out with me, DIA          44
+SAY YOU LOVE ME, TWICE          44
+COME BACK HOME, 2NE1          44
+Hotel Room Service, Pitbull          44
+Russian Roulette, Red Velvet          44
+Let Me Love You (Until You Learn To Love Yourself), Ne-Yo          44
+샴페인 Champagne - U-Know Solo, TVXQ!          44
+I Know You Know, Boys Under The Moon          43
+Time Lapse, NCT 127          43
+I'm Ill, HELLOVENUS          43
+Dynamite, VIXX          43
+Chi Mat Ba Ram (Eng Ver.), Brave Girls          43
+사탕 (Candy), Red Velvet          43
+Hellovenus 5th Single `위글위글`, HELLOVENUS          43
+Underwater, KWON EUN BI          42
+Chained To The Rhythm, Katy Perry          42
+C'Mon, Kesha          42
+Show Time, It's          42
+Glitch, KWON EUN BI          42
+Miracle, WJSN          42
+Bon appétit, Katy Perry          42
+Huff n Puff, Red Velvet          42
+Let Me In, LOONA          42
+They Don't Care About Us (feat. Maverick Sabre & Yebba), Rudimental          42
+Photo ID (with Dominic Fike), Remi Wolf          42
+Say Yes (Feat. Moon Byul of MAMAMOO), Punch          41
+Everybody, SHINee          41
+ONE SHOT, TWO SHOT, BoA          41
+Solo (feat. Hoody), Jay Park          41
+You can't sit with us, SUNMI          41
+High Heels, CLC          41
+Parade, Red Velvet          41
+다른 남자 말고 너 Only You, miss A          41
+When I’m Alone, f(x)          41
+Nxde, (G)I-DLE          40
+April Story, APRIL          40
+Crush, I.O.I          40
+아드레날린 (Adrenaline), Girls' Generation-TTS          40
+Into You, Ariana Grande          40
+Siesta, Weki Meki          40
+Pepe, CLC          40
+LO$ER=LO♡ER, TOMORROW X TOGETHER          40
+Umbrella, Rihanna          40
+Bola Rebola, Tropkillaz          40
+Mosquito, Red Velvet          40
+I LOVE YOU, 2NE1          40
+Let Me Love You, Mario          40
+SOME (You'll Be Mine), NATURE          40
+Say So, Doja Cat          40
+Birthday Sex, Jeremih          40
+Because Of You, Ne-Yo          39
+바캉스 (Vacance), f(x)          39
+All For You, Janet Jackson          39
+Up & Down, EXID          39
+So Sick, Ne-Yo          39
+1 of 1, SHINee          39
+I'm Good (Blue), David Guetta          39
+FingerTips, Pinkrush          39
+Lovey-Dovey, T-ARA          39
+Now Or Never - Bonus Track, Kendrick Lamar          39
+I don't Know, Apink          39
+GUN, 9MUSES          38
+Drip (feat. Migos), Cardi B          38
+Take Me Home (feat. Bebe Rexha), Cash Cash          38
+Step, f(x)          38
+traitor, Olivia Rodrigo          38
+LOVE ME RIGHT, EXO          38
+Beg For You (feat. Rina Sawayama), Charli XCX          37
+I'll be yours, Girl's Day          37
+Crazy, 4Minute          37
+Tamed-Dashed, ENHYPEN          37
+All Hands on Deck, Tinashe          37
+Ay Chico (Lengua Afuera), Pitbull          37
+Sugar Free - BigRoom Version, T-ARA          37
+Kill The Lights (with Nile Rodgers) - Audien Remix, Alex Newell          37
+Uncover (Sung by SEULGI) - Bonus Track, Red Velvet - IRENE & SEULGI          37
+No Celestial, LE SSERAFIM          37
+Maria, Hwa Sa          37
+Welcome to Chilis, Yung Gravy          37
+Break My Heart, Dua Lipa          37
+I Like You (A Happier Song) (with Doja Cat), Post Malone          37
+Boom Bang Boom, f(x)          37
+Honeymoon Avenue, Ariana Grande          37
+You’ll Never Know, Ariana Grande          37
+7월 7일 One Of These Nights - De-Capo Version, Red Velvet          36
+L.I.E, EXID          36
+If U Seek Amy, Britney Spears          36
+24K Magic, Bruno Mars          36
+내 친구의 남자친구, DIA          36
+Sexy Love, Ne-Yo          36
+Lucid Dream, aespa          36
+The Way I Are, Timbaland          36
+Dracula, f(x)          36
+MY OH MY 심장어택, myB 마이비          36
+Blessed-Cursed, ENHYPEN          36
+마지막 사랑 Last Love, Red Velvet          36
+Summer Lover, f(x)          36
+Always Be My Baby, Mariah Carey          36
+Miss Independent, Ne-Yo          35
+Move Your Feet, Junior Senior          35
+CANDYFLOSS, NAYEON          35
+Shake It Off, Mariah Carey          35
+Tattoo, Jordin Sparks          35
+With You, Chris Brown          35
+no tears left to cry, Ariana Grande          35
+변했어, Brave Girls          35
+Yum-Yum, 7 go up          35
+Designer, NCT 127          35
+Growl, EXO          34
+여자 대통령, Girl's Day          34
+MONEY, LISA          34
+Don't U Wait No More, Red Velvet          34
+Hola Hola, KARD          34
+Heart Shaker, TWICE          34
+Déjà Vu, f(x)          33
+Why So Lonely, Wonder Girls          33
+Feel Good, Red Velvet - IRENE & SEULGI          33
+Gold Dust, NCT 127          33
+Your Love Is My Drug, Kesha          33
+You’re Pitiful, FIESTAR          33
+I'll Make You Cry, aespa          33
+Don't Lie, Black Eyed Peas          33
+Brokenhearted, Karmin          33
+Rose, MIYEON          33
+Gee, Girls' Generation          33
+Like Ooh-Ahh, TWICE          33
+Noir 누아르, SUNMI          33
+Overdose, EXO-K          33
+Where Is The Love?, Black Eyed Peas          33
+Teenage Dream, Katy Perry          33
+Hurt, NewJeans          32
+Replay, Iyaz          32
+Good Parts (when the quality is bad but I am), LE SSERAFIM          32
+7월 7일 One Of These Nights - Piano Version, Red Velvet          32
+無限的我 무한적아; LIMITLESS, NCT 127          32
+I Miss You (feat. Julia Michaels), Clean Bandit          32
+7월 7일 One Of These Nights - Joe Millionaire Version, Red Velvet          32
+#Cookie Jar, Red Velvet          32
+유로파 Europa, Girls' Generation          32
+Closer, The Chainsmokers          32
+Good, Bad, Ugly, Red Velvet          31
+Going Crazy, TWICE          31
+Look What You Made Me Do, Taylor Swift          31
+Touch my body, SISTAR          31
+Around You, LOONA          31
+Sorry Not Sorry, Demi Lovato          31
+Stupid Cupid, Red Velvet          31
+Step By Step, OH MY GIRL          31
+Chaotic, LOOΠΔ / ODD EYE CIRCLE          31
+나비 (Butterfly), f(x)          31
+Quit (feat. Ariana Grande), Cashmere Cat          31
+그 길에서, DIA          31
+Jelly, Red Velvet - IRENE & SEULGI          31
+Knock You Down, Keri Hilson          31
+Do You Remember, Jay Sean          31
+Shangri-La, VIXX          31
+High heels, Brave Girls          30
+Labyrinth, Taylor Swift          30
+왠지 Somehow, DIA          30
+Hey Mama!, EXO-CBX          30
+What is Love, TWICE          30
+Anti-Hero, Taylor Swift          30
+...Baby One More Time, Britney Spears          30
+Take A Bow, Rihanna          30
+Survivor, Destiny's Child          30
+You Never Know, BLACKPINK          30
+Clarity, Zedd          30
+LOONATIC, LOOΠΔ / ODD EYE CIRCLE          29
+5th Season (SSFWL), OH MY GIRL          29
+24Hours, Make Some Noise          29
+Say You Love Me, Jessie Ware          29
+Girls Are Back, Girls' Generation          29
+SOS, Rihanna          29
+StickySticky, HELLOVENUS          29
+Maroon, Taylor Swift          29
+Spark, TAEYEON          29
+Die Young, Kesha          29
+Hot Summer, f(x)          29
+Come on over Baby (All I Want Is You) - Radio Version, Christina Aguilera          29
+We R Who We R, Kesha          29
+Jumpin', Red Velvet          29
+BOOMBOOM, SEVENTEEN          28
+Traveler (feat. (ZICO)), f(x)          28
+롤러코스터 Heartbreaker, NCT 127          28
+PRIMA DONNA, 9MUSES          28
+RBB (Really Bad Boy) - English Version, Red Velvet          28
+Too Little Too Late - 2018, JoJo          28
+Suki ni Nacchaudarou? - IZ*ONE Ver., IZ*ONE          28
+One & Only (Go Won), LOONA          28
+In the Name of Love, Martin Garrix          28
+I Don’t Wanna Live Forever (Fifty Shades Darker), ZAYN          28
+Sayonara, Red Velvet          28
+HELICOPTER, CLC          28
+Loveable, JO YURI          28
+Mad, Ne-Yo          28
+Good Thing, NCT 127          28
+The One That Got Away, Katy Perry          28
+Generation, tripleS          28
+Gravity, TAEYEON          28
+Really Don't Care, Demi Lovato          28
+Crazy In Love (feat. Jay-Z), Beyoncé          28
+Crash Landing, NCT 127          27
+Show, inLu          27
+FAN, Girls' Generation          27
+After a long time 디깅클럽서울 Version, george          27
+BUNGEE (Fall in Love), OH MY GIRL          27
+Snow On The Beach (feat. Lana Del Rey), Taylor Swift          27
+Down, Jay Sean          27
+Sweet Nothing, Taylor Swift          27
+LIAR LIAR (Korean Version), OH MY GIRL          27
+Goodbye, Girls' Generation          27
+Knock Knock, TWICE          27
+Lavender Haze, Taylor Swift          27
+NEVER, Sons of People          27
+SIGNAL - Japanese ver., TWICE          27
+Dangerous Woman, Ariana Grande          27
+One, Two Step (feat. Missy Elliott), Ciara          27
+Sugar (feat. Wynter), Flo Rida          27
+Black Clouds, NCT 127          27
+Slide (feat. Frank Ocean & Migos), Calvin Harris          26
+Best Of Me, BTS          26
+22, Taylor Swift          26
+Beautiful Now, Zedd          26
+Like OOH-AHH - Japanese ver., TWICE          26
+Lost N Found, Lovelyz          26
+No Air (feat. Chris Brown), Jordin Sparks          26
+Karma, Taylor Swift          26
+Somebody Else, The 1975          26
+DJ Got Us Fallin' In Love (feat. Pitbull), Usher          26
+Only One, Girls' Generation          26
+Question...?, Taylor Swift          26
+Like, CLC          26
+Better Than Gold, NCT DREAM          26
+Super Bass, Nicki Minaj          26
+Mastermind, Taylor Swift          26
+There's Nothing Holdin' Me Back, Shawn Mendes          26
+Baby Don’t Like It 나쁜 짓, NCT 127          26
+KNOCK KNOCK - Japanese ver., TWICE          26
+Tempo, EXO          25
+OMG (feat. will.i.am), Usher          25
+That's What I Like, Bruno Mars          25
+Just Hold On, Steve Aoki          25
+Its Going Down for Real, Djniqo          25
+Close To Me - Red Velvet Remix, Ellie Goulding          25
+TT - Japanese ver., TWICE          25
+aenergy, aespa          25
+Fine, TAEYEON          25
+Upside Down, A*Teens          25
+Freeze, MOMOLAND          25
+Glass Bead, GFRIEND          25
+11:11, TAEYEON          25
+Dreams Come True, WJSN          25
+Midnight Rain, Taylor Swift          25
+Closer, Ne-Yo          25
+옛생각, Brave Girls          25
+Get Low (with Liam Payne), Zedd          25
+Vigilante Shit, Taylor Swift          25
+Physical, Dua Lipa          25
+You're On Your Own, Kid, Taylor Swift          25
+Fine China, Chris Brown          25
+RING ma Bell (what a wonderful world), Billlie          25
+HUSH RUSH, LEE CHAE YEON          25
+Only Girl (In The World), Rihanna          24
+Untouched, The Veronicas          24
+You Think, Girls' Generation          24
+Levitating (feat. DaBaby), Dua Lipa          24
+여우 같은 내 친구 (No More), f(x)          24
+Kiss Later, LOONA          24
+Love Shot, EXO          24
+Jackie Chan, Tiësto          24
+American Boy, Estelle          24
+Raise Your Glass, P!nk          24
+Banana Allergy Monkey, OH MY GIRL BANHANA          24
+Crossroads, GFRIEND          24
+If I Ain't Got You, Alicia Keys          24
+Kiss and Make Up, Dua Lipa          24
+Angel, NCT 127          24
+Just Gang, P-Lo          24
+How Long, Charlie Puth          23
+Bejeweled, Taylor Swift          23
+Stay, Zedd          23
+Love Me Harder, Ariana Grande          23
+Boss Bitch, Doja Cat          23
+Rise As One - MAX Solo, TVXQ!          23
+Selfish, YooA          23
+Rebirth, Red Velvet          23
+Close, Nick Jonas          23
+THAT’S A NO NO, ITZY          23
+Replay, Zendaya          23
+Dally (feat. GRAY), Hyolyn          23
+On My Mind, Ellie Goulding          23
+Baby, Justin Bieber          23
+On Your Side, The Veronicas          23
+CHEER UP - Japanese ver., TWICE          23
+Whatcha Say, Jason Derulo          23
+We Together, IZ*ONE          23
+I Wanna Go, Britney Spears          22
+Love Is Bitter, Girls' Generation          22
+Chasing Pavements, Adele          22
+Pretty Girl Rock, Keri Hilson          22
+Pied Piper, BTS          22
+Sweet Talk, Girls' Generation          22
+Better Left Unsaid, Ariana Grande          22
+Light Up the Sky, Girls' Generation          22
+Ipnotizzato Dal Rumore Bianco, Passeggiate Al Chiaro          22
+There for You, Martin Garrix          22
+What Lovers Do (feat. SZA), Maroon 5          22
+Ugly Heart, G.R.L.          22
+No One, Alicia Keys          22
+Side Effects, Stray Kids          21
+Pretty Savage, BLACKPINK          21
+Hot Sauce, NCT DREAM          21
+Mr., KARA          21
+Mine, Taylor Swift          21
+오랜 소원 It's You, Girls' Generation          21
+Irreplaceable, Beyoncé          21
+LION, (G)I-DLE          21
+Be Natural, Red Velvet          21
+Sonatine, LOOΠΔ 1/3          21
+ICONIC, aespa          21
+The Sound, The 1975          21
+Meow, lvusm          21
+Eclipse, LOONA          21
+Ride Wit Me, Nelly          20
+Scream & Shout, will.i.am          20
+Why You Always Hatin?, YG          20
+Side To Side, Ariana Grande          20
+BBoom BBoom inst, MOMOLAND          20
+Learn To Let Go, Kesha          20
+Right Now (Na Na Na), Akon          20
+ALL OR NOTHING, NAYEON          20
+The Cure, Lady Gaga          20
+Born This Way, Lady Gaga          20
+Don't Recall, KARD          20
+What the Hell, Avril Lavigne          20
+Wait a Minute, Girls' Generation          20
+Super Yuppers!, WJSN Chocome          20
+Redbone, Childish Gambino          20
+Sriracha, Marteen          20
+Deja Vu, f(x)          20
+Another World, NCT 127          20
+Into You (feat. Fabolous), Tamia          20
+Heartbreaker (feat. Jay-Z), Mariah Carey          20
+Everyday I Love You (feat. HaSeul), LOONA          20
+Oops!...I Did It Again, Britney Spears          19
+Black Magic, Little Mix          19
+New Rules, Dua Lipa          19
+Aitai-tai, Red Velvet          19
+Baby I, Ariana Grande          19
+I’ll BE THERE, STAYC          19
+1 step forward, 3 steps back, Olivia Rodrigo          19
+deja vu, Olivia Rodrigo          19
+Lullaby, GOT7          19
+ViViD, LOONA          19
+I’m In Love, Secret          19
+The Great War, Taylor Swift          19
+Wake Up, NCT 127          19
+Firefly, Mura Masa          19
+Pieces Of Me, Ashlee Simpson          19
+Love Don't Cost a Thing, Jennifer Lopez          19
+Torn, Natalie Imbruglia          19
+The Tide Is High - Radio Mix, Atomic Kitten          19
+Would U, Red Velvet          19
+thank u, next, Ariana Grande          19
+Higher, Taio Cruz          18
+Starlight, LOOΠΔ / ODD EYE CIRCLE          18
+WE, PLEDIS GIRLZ          18
+Trust Nobody (feat. Selena Gomez & Tory Lanez), Cashmere Cat          18
+Go Go, BTS          18
+Oh Little Girl, Slate          18
+Running in the Night, FM-84          18
+drivers license, Olivia Rodrigo          18
+Traveler, f(x)          18
+One Last Time, Ariana Grande          18
+Ending Credits, TAEYEON          18
+백허그 Back Hug, Girls' Generation          18
+If I Die Young, The Band Perry          17
+Intro: Serendipity, BTS          17
+MIC Drop, BTS          17
+Family Affair, Mary J. Blige          17
+frozen, LOONA/yyxy          17
+Falling for U, Peachy!          17
+Promiscuous, Nelly Furtado          17
+White Flag, Dido          17
+Better in Time, Leona Lewis          17
+I Gotta Feeling, Black Eyed Peas          17
+행복했던 날들이었다 days gone by, DAY6          17
+Grudges, Paramore          17
+I’ll be There, LOONA          17
+Potential Breakup Song, Aly & AJ          17
+Time of Our Lives, Pitbull          17
+Sexy Chick (feat. Akon), David Guetta          17
+Love On Top, Beyoncé          17
+Power Up - Japanese Ver., Red Velvet          17
+Bet You Wanna (feat. Cardi B), BLACKPINK          17
+dimple, BTS          17
+Check It Out, will.i.am          16
+Paris, Taylor Swift          16
+Twilight (Prod. By Cha Cha Malone), LOONA          16
+Switch - Bonus Track, NCT 127          16
+MAYDAY, APRIL          16
+Wait, Maroon 5          16
+STEP BY STEP, OH MY GIRL          16
+Take Me on the Floor, The Veronicas          16
+Passionfruit, Drake          16
+All Night, The Vamps          16
+Impossible, Shontelle          16
+Glitch, Taylor Swift          16
+세가지 소원 Wish Tree, Red Velvet          16
+Check On It (feat. Bun B & Slim Thug), Beyoncé          16
+KNOCK KNOCK, TWICE          16
+Shout Out to My Ex, Little Mix          16
+ISLAND, WINNER          16
+Together Again, Janet Jackson          16
+Listen to My Word, OH MY GIRL          16
+LUV, Apink          16
+I Feel You, Wonder Girls          16
+One Step At a Time, Jordin Sparks          16
+Superstar, Jamelia          16
+Paradise, NCT 127          16
+Soul, Girls' Generation          16
+Homemade Dynamite - REMIX, Lorde          16
+Feel This Moment (feat. Christina Aguilera), Pitbull          15
+Unpredictable, Olly Murs          15
+A Year Without Rain, Selena Gomez & The Scene          15
+High Infidelity, Taylor Swift          15
+Skit: Billboard Music Awards Speech, BTS          15
+WTF (Where They From) [feat. Pharrell Williams], Missy Elliott          15
+Want U Back, Cher Lloyd          15
+Find Me, TAEYEON          15
+The Fear, Lily Allen          15
+Dear Reader, Taylor Swift          15
+Poker Face, Lady Gaga          15
+Never Gonna Give You Up, Rick Astley          15
+Classic, MKTO          15
+Like A G6, Far East Movement          15
+Love & Live, LOOΠΔ 1/3          15
+Would've, Could've, Should've, Taylor Swift          15
+Gashina, SUNMI          15
+I'm Jelly BABY, AOA CREAM          15
+Circus, Britney Spears          15
+Crazy Over You, BLACKPINK          15
+Bigger Than The Whole Sky, Taylor Swift          15
+22CENTURY GIRL, fromis_9          15
+Every night, EXID          15
+La Rouge - Special Track, Red Velvet          15
+Girl on Fire, Alicia Keys          15
+Once Again 여름 방학, NCT 127          14
+You and Me Together, LOOΠΔ 1/3          14
+The Sweet Escape, Gwen Stefani          14
+Outro: Her, BTS          14
+Lovin' It, Ariana Grande          14
+Rain, TAEYEON          14
+Rain, The Script          14
+Wiggle (feat. Snoop Dogg), Jason Derulo          14
+Do You Love Me?, TAEYEON          14
+Love City, 9MUSES          14
+At Last, Etta James          14
+Finesse, Bruno Mars          14
+Treat You Better, Shawn Mendes          14
+On The Floor - Radio Edit, Jennifer Lopez          14
+Coin, IU          14
+Me & My Girls, Selena Gomez          14
+Can't Help Myself (feat. LOCO), Eric Nam          14
+소방차 Fire Truck, NCT 127          14
+Good Time, Owl City          14
+GENIE, Girls' Generation          14
+See the stars, Red Velvet          14
+Stronger (What Doesn't Kill You), Kelly Clarkson          14
+Love To Hate Me, BLACKPINK          14
+Crank That (Soulja Boy), Soulja Boy          14
+Just Dance, Lady Gaga          14
+The Middle, Zedd          14
+The Carol, LOONA          14
+The Game of Love (feat. Michelle Branch) - Main / Radio Mix, Santana          14
+Tiki-Taka (99%), Weki Meki          14
+Girls' Generation, Girls' Generation          14
+Right There, Ariana Grande          14
+Battlefield, Jordin Sparks          14
+Freak The Freak Out (feat. Victoria Justice), Victorious Cast          13
+Club Can't Handle Me (feat. David Guetta), Flo Rida          13
+We Are Never Ever Getting Back Together, Taylor Swift          13
+D-1, LOONA          13
+Everytime We Touch, Cascada          13
+Sexy Bitch (feat. Akon), David Guetta          13
+Everywhere, Michelle Branch          13
+Middle, DJ Snake          13
+뱉어내 (Spit It Out), f(x)          13
+NOBODY LIKE YOU, ITZY          13
+Hate That I Love You, Rihanna          13
+Lights Down Low, MAX          13
+Cover up, TAEYEON          13
+SNEAKERS, ITZY          13
+dal segno, LOONA/yyxy          13
+eight(Prod.&Feat. SUGA of BTS), IU          13
+Timber (feat. Ke$ha), Pitbull          13
+Stay, Rihanna          13
+Say Goodbye, Chris Brown          13
+무지개 (Rainbow), f(x)          13
+How Do I Breathe, Mario          13
+4 Minutes (feat. Justin Timberlake and Timbaland), Madonna          13
+I Got Love, TAEYEON          13
+Indestructible, Robyn          13
+Ridin' Solo, Jason Derulo          12
+So Into You, Tamia          12
+Peek-A-Boo - Japanese Version, Red Velvet          12
+A Different Way (with Lauv), DJ Snake          12
+California Gurls, Katy Perry          12
+I Knew You Were Trouble., Taylor Swift          12
+Issues, Julia Michaels          12
+True Love (feat. Lily Allen), P!nk          12
+Meet Me Halfway, Black Eyed Peas          12
+RUMOR, 9MUSES          12
+Blind, Tamar Braxton          12
+What's Luv? (feat. Ja-Rule & Ashanti), Fat Joe          12
+Sun&Moon, NCT 127          12
+Like that, CLC          12
+So What, P!nk          12
+enough for you, Olivia Rodrigo          12
+Right Round, Flo Rida          12
+Up&Down, EXID          12
+Let Me Go (with Alesso, Florida Georgia Line & watt), Hailee Steinfeld          12
+The Carol 2.0 (ViVi, Choerry, Yves), LOONA          12
+DALLA DALLA, ITZY          12
+Sk8er Boi, Avril Lavigne          12
+Party In Your Bedroom, Cash Cash          12
+Lucky Like That, Girls' Generation          12
+IAM, 오전 1:00          12
+Don't Know Why, Norah Jones          12
+Attention, Charlie Puth          12
+Forget You, CeeLo Green          12
+미행 (그림자 : Shadow), f(x)          11
+Mirrors, Justin Timberlake          11
+Need You Now, Lady A          11
+LALALA, TWICE          11
+Good Girls Go Bad (feat. Leighton Meester), Cobra Starship          11
+ILYSB, LANY          11
+Beggin' On Your Knees (feat. Victoria Justice), Victorious Cast          11
+No Promises (feat. Demi Lovato), Cheat Codes          11
+Let Me Love You, DJ Snake          11
+Tonight Tonight, Hot Chelle Rae          11
+서두르지마, Brave Girls          11
+Don't Stop The Music, Rihanna          11
+Just Sing (Trolls World Tour), Justin Timberlake          11
+Triangle, Lovelyz          11
+My Friend, CHUNG HA          11
+HUMBLE., Kendrick Lamar          11
+ghostin, Ariana Grande          11
+Into the New World, Girls' Generation          11
+What Goes Around.../...Comes Around (Interlude), Justin Timberlake          11
+Love Sex Magic (feat. Justin Timberlake), Ciara          11
+One Kiss (with Dua Lipa), Calvin Harris          11
+Poison, Bell Biv DeVoe          11
+We Don't Talk Anymore (feat. Selena Gomez), Charlie Puth          11
+One Dance, Drake          11
+Cover Up, TAEYEON          11
+My Life Would Suck Without You, Kelly Clarkson          11
+Pretty Girl, f(x)          11
+Memory, Brave Girls          11
+으르렁 Growl, EXO          11
+Black Widow, PRISTIN          11
+Suga Suga, Baby Bash          11
+The Way, Ariana Grande          11
+Hold It Against Me, Britney Spears          11
+bugAboo, bugAboo          11
+I Just Wanna Dance, TIFFANY          11
+Maniac, Conan Gray          11
+Take It Off, Kesha          11
+CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS"), Justin Timberlake          11
+Diary, gugudan          10
+Bleeding Love, Leona Lewis          10
+(There's Gotta Be) More To Life, Stacie Orrico          10
+No Scrubs, TLC          10
+Green Light, Girls' Generation          10
+Beautiful Girls, Sean Kingston          10
+제 연인의 이름은 디깅클럽서울 Version, Sultan of the Disco          10
+Complicated, Avril Lavigne          10
+Tell Me You Love Me - Dave Audé Remix, Demi Lovato          10
+Pon de Replay, Rihanna          10
+Goodies (feat. Petey Pablo), Ciara          10
+Love Story, Taylor Swift          10
+Chewing Gum 泡泡糖 - Chinese Version, NCT DREAM          10
+Wannabe, Spice Girls          10
+Blatant Plagiarism, GHOST DATA          10
+Bulletproof, La Roux          10
+Oh Child, Robin Schulz          10
+Candy Shop, 50 Cent          10
+Bonnie & Clyde, DEAN          10
+To the sky, CLC          10
+Bad Romance, Lady Gaga          10
+Issues - Alan Walker Remix, Julia Michaels          10
+It's Like That, Mariah Carey          10
+好きになっちゃうだろう? - IZ*ONE Ver., IZ*ONE          10
+Hot In Herre, Nelly          10
+D (Half Moon), DEAN          10
+Because of You, Kelly Clarkson          10
+City Love, TAEYEON          10
+Our Song, Taylor Swift          10
+Ready or Not, Bridgit Mendler          10
+Lover, Taylor Swift          10
+Way to Go, Girls' Generation          10
+Call Me Maybe, Carly Rae Jepsen          10
+교정기 (Feels Like You), Risso          9
+Distance, CLC          9
+Blah Blah Blah (feat. 3OH!3), Kesha          9
+Running 2 U, NCT 127          9
+Blueming, IU          9
+Fake, Lauv          9
+Getaway, Tritonal          9
+Check, Girls' Generation          9
+Mad City, NCT 127          9
+Sexy Can I, Ray J          9
+TANK, NMIXX          9
+Just Can’t Get Enough, Black Eyed Peas          9
+Say It Right, Nelly Furtado          9
+Ribs, Lorde          9
+MR.TAXI, Girls' Generation          9
+Beautiful Soul, Jesse McCartney          9
+RAINBOW, TWICE          9
+종이 심장 (Paper Heart), f(x)          9
+I Wanna Know You, Hannah Montana          9
+Baby Maybe, Girls' Generation          9
+After a long time(Digging Club Seoul Ver.), george          9
+Toy, f(x)          9
+Some Nights, TAEYEON          9
+Can I Love You, Brave Girls          9
+Wake Me Up, Avicii          9
+Don't Phunk With My Heart, Black Eyed Peas          9
+Fire Burning, Sean Kingston          9
+Time Lapse, TAEYEON          9
+Whiplash, NCT 127          9
+Boom Boom Pow, Black Eyed Peas          9
+Party In The U.S.A., Miley Cyrus          9
+Really, BLACKPINK          9
+I'm Like A Bird, Nelly Furtado          9
+Love You Like Crazy, TAEYEON          9
+happier, Olivia Rodrigo          9
+Remind Me to Forget, Kygo          9
+Cause it's you, Red Velvet          9
+breathin, Ariana Grande          9
+HOOT, Girls' Generation          9
+Hey Ya!, Outkast          9
+Pump It, Black Eyed Peas          9
+Till the World Ends, Britney Spears          9
+Be Alright, Ariana Grande          9
+Telephone, Lady Gaga          9
+Breathe, Michelle Branch          9
+If We Ever Meet Again (Featuring Katy Perry), Timbaland          9
+Like Whoa, Aly & AJ          9
+Cold Heart - PNAU Remix, Elton John          9
+The Time (Dirty Bit), Black Eyed Peas          9
+A Little Too Not Over You, David Archuleta          9
+brutal, Olivia Rodrigo          9
+For You (Fifty Shades Freed) (& Rita Ora), Liam Payne          9
+pink skies, LANY          9
+Crush, David Archuleta          9
+Hurricane, Bridgit Mendler          9
+Disturbia, Rihanna          9
+Filthy, Justin Timberlake          9
+The Other Side, Jason Derulo          9
+Goodbye Summer (f(Amber+Luna+Krystal)), f(x)          9
+Unfaithful, Rihanna          8
+Lonely Night, TAEYEON          8
+LOL, TAEYEON          8
+Since U Been Gone, Kelly Clarkson          8
+My Love (feat. T.I.), Justin Timberlake          8
+Airplane, f(x)          8
+Fake Love, Drake          8
+Starlight, TAEYEON          8
+1985, Bowling For Soup          8
+Blow Me (One Last Kiss), P!nk          8
+Whatever, Brave Girls          8
+Toddler, TAEYEON          8
+My Boo, Usher          8
+It's Alright, It's OK, Ashley Tisdale          8
+Cream, EXID          8
+Almost Is Never Enough, Ariana Grande          8
+Love Options (inst), BESTie          8
+Rebirth - Instrumental, Red Velvet          8
+Better Babe, TAEYEON          8
+Instruction, Jax Jones          8
+Can't Get You out of My Head, Kylie Minogue          8
+Would U - Instrumental, Red Velvet          8
+Cherry Bomb, NCT 127          8
+FALLIN', Lovelyz          8
+Power Up - Japanese Version, Red Velvet          8
+Break Your Heart, Taio Cruz          8
+Rookie - Japanese Version, Red Velvet          8
+Summer Love, Justin Timberlake          8
+Fire Alarm, Girls' Generation          8
+Tik Tok, Kidz Bop Kids          8
+Evacuate The Dancefloor - Radio Edit, Cascada          8
+La La Land, Demi Lovato          8
+Firework, Katy Perry          8
+Yossism (Music from Telemonster), Red Velvet          8
+You Belong With Me, Taylor Swift          8
+Leave (Get Out) - 2018, JoJo          8
+Girlfriend, Avril Lavigne          8
+Perfect, Ed Sheeran          8
+Kissing You, Girls' Generation          8
+Love Never Felt So Good, Michael Jackson          8
+All Night, Icona Pop          8
+풀어, DEAN          8
+Bon Appétit, Katy Perry          8
+GALAXY SUPERNOVA, Girls' Generation          8
+GET LOUD, TWICE          7
+LOVE FOOLISH, TWICE          7
+Potion (with Dua Lipa & Young Thug), Calvin Harris          7
+Empire State of Mind (Part II) Broken Down, Alicia Keys          7
+It's Time, Imagine Dragons          7
+Piano Concerto No. 21 in C Major, K. 467 "Elvira Madigan": II. Andante, Wolfgang Amadeus Mozart          7
+Same Same, MOMOLAND          7
+Shark, OH MY GIRL          7
+Troublemaker (feat. Flo Rida), Olly Murs          7
+Kick, f(x)          7
+Rainbow, gugudan          7
+Yanghwa BRDG, Zion.T          7
+California King Bed, Rihanna          7
+See U Later, BLACKPINK          7
+Royals, Lorde          7
+Bom, BOL4          7
+Me Like Yuh (feat. Hoody) [Korean Version], Jay Park          7
+I Made It (Cash Money Heroes), Kevin Rudolf          7
+Still Sane, Lorde          7
+Tattooed Heart, Ariana Grande          7
+하루살이, DEAN          7
+Hush, EVERGLOW          7
+Cherry Bomb - Performance Version, NCT 127          7
+Never Call Me, Jhené Aiko          7
+All Too Well (10 Minute Version) (Taylor's Version) (From The Vault), Taylor Swift          7
+21, DEAN          7
+Tik Tok (Glee Cast Version), Glee Cast          7
+Feel So Fine, TAEYEON          7
+Rocketeer, Far East Movement          7
+Sweet Love, TAEYEON          7
+Dynamite, Taio Cruz          7
+He Could Be the One, Hannah Montana          7
+Flu, IU          7
+Long Way 2 Go, Cassie          7
+My Happy Ending, Avril Lavigne          7
+Flying, リアムMAZE1981          7
+Wonderful love (EDM Ver.) inst, MOMOLAND          7
+SoulMate (feat. IU), ZICO          7
+Fergalicious, Fergie          7
+Show Girls, Girls' Generation          7
+Glory And Gore, Lorde          7
+Clumsy, Fergie          7
+Mystery, HYOYEON          7
+Wine, TAEYEON          7
+When You Look At Me - Radio Edit, Christina Milian          7
+Me & U, Cassie          7
+Go On Girl, Ne-Yo          7
+Fly, MOMOLAND          7
+jealousy, jealousy, Olivia Rodrigo          7
+시그널 (Signal), f(x)          7
+Polaroid, Jonas Blue          7
+in my head, Ariana Grande          7
+Springtime, Whee In          7
+favorite crime, Olivia Rodrigo          7
+NASA, Ariana Grande          7
+A Thousand Miles, Vanessa Carlton          7
+Beautiful, Akon          7
+STAY (with Justin Bieber), The Kid LAROI          7
+Just A Dream, Nelly          7
+HandClap, Fitz and The Tantrums          7
+Eraser, TAEYEON          7
+TALK, TIFFANY          7
+Drive, MIYEON          7
+How You Love Me Now, Hey Monday          7
+We Can't Stop, Miley Cyrus          7
+Pandora, KARA          7
+S&M, Rihanna          7
+COMPLEX, STAYC          7
+I Like It, Enrique Iglesias          7
+All Night Long, TAEYEON          7
+Celebrity, IU          7
+I'm OK, TAEYEON          7
+Backburner, NIKI          6
+Fun Tonight, Macross 82-99          6
+Somebody That I Used To Know, Gotye          6
+The Story Of Us, Taylor Swift          6
+Watch Me, Bella Thorne          6
+I Want It That Way, Backstreet Boys          6
+Take You Home, BAEKHYUN          6
+어떤 별보다, Red Velvet          6
+Secret Garden, Lovelyz          6
+Feel So Close, Calvin Harris          6
+Piano, Ariana Grande          6
+Better Together, Us The Duo          6
+Neon Maze, Desired          6
+I, TAEYEON          6
+Until You Were Gone, The Chainsmokers          6
+Ordinary Love, Park Kyung          6
+How Why, EXID          6
+Good Thing, TAEYEON          6
+Sweet Dreams, Beyoncé          6
+Angel (Feat. Tae Yeon), Chancellor          6
+Heat Waves, Glass Animals          6
+The Truth Untold, BTS          6
+you-aholic, Girls' Generation          6
+Kissin U, Miranda Cosgrove          6
+It's Beautiful, Stella Jang          6
+Seventeen, Girls' Generation          6
+Run Devil Run, Girls' Generation          6
+Let It Rock, Kevin Rudolf          6
+Teardrops On My Guitar - Radio Single Remix, Taylor Swift          6
+Missing You, BTOB          6
+Aya, Lovelyz          6
+Bing Bing, AOA          6
+All You Wanted, Michelle Branch          6
+Shake It, Metro Station          6
+Summer Night, Girls' Generation          6
+A Dream Is a Wish Your Heart Makes, Disney Channel Stars          6
+Jackpot, Red Velvet          6
+Lovin' Me, FIFTY FIFTY          6
+My First Kiss (feat. Ke$ha), 3OH!3          6
+Dynamite, BTS          6
+LOVE&GIRLS, Girls' Generation          6
+See You Again (feat. Charlie Puth), Wiz Khalifa          6
+The Climb, Miley Cyrus          6
+Fantasmic! - From Fantasmic! (Disneyland), Bruce Healey          6
+I Swear, SISTAR          6
+Spotlight, Lovelyz          6
+YOUNG & WILD, TWICE          6
+Come Clean, Hilary Duff          6
+DANCING QUEEN, fromis_9          6
+We Know The Way, Opetaia Foa'i          6
+Through the Night, IU          6
+urs, NIKI          6
+Waterfalls, TLC          6
+예감 Bump It, Girls' Generation          6
+I Love It (feat. Charli XCX), Icona Pop          6
+Highway Don't Care, Tim McGraw          6
+Some (feat. Lil Boi), SOYOU          6
+I Don’T Like Your Girlfriend, Weki Meki          6
+Where are you?, CLC          6
+I Like It, CLC          6
+Cruel Summer, Taylor Swift          6
+Moonlight, Lilly Ahlberg          6
+Summer 127, NCT 127          6
+Love You Like A Love Song, Selena Gomez & The Scene          6
+WANT IT?, ITZY          6
+Low (feat. T-Pain), Flo Rida          6
+Blow, Kesha          6
+Tennis Court, Lorde          6
+TRICK IT, TWICE          6
+I Forgot That You Existed, Taylor Swift          6
+Naturally, Selena Gomez & The Scene          6
+#SELFIE - Caked Up Remix, The Chainsmokers          6
+Boy, EXID          6
+Old Notes, JOGON          5
+Higher, FIFTY FIFTY          5
+Team, Lorde          5
+When I Was Young, TAEYEON          5
+Determinate - From "Lemonade Mouth", Adam Hicks          5
+Don't Know You, HEIZE          5
+Here I Am, TAEYEON          5
+The Hydra, LE SSERAFIM          5
+HAPPY BIRTHDAY TO YOU, NAYEON          5
+Blueberry Eyes (feat. SUGA of BTS), MAX          5
+Pick Me, I.O.I          5
+cardigan, Taylor Swift          5
+MoMoMo, WJSN          5
+Ma boy (special Ver.), SISTAR          5
+pov, Ariana Grande          5
+Charging, MIYEON          5
+Girls (feat. Cardi B, Bebe Rexha & Charli XCX), Rita Ora          5
+Falling Like The Stars - Madism Remix, James Arthur          5
+I'm ill, HELLOVENUS          5
+Gives You Hell, The All-American Rejects          5
+Buzzcut Season, Lorde          5
+Snapshot, f(x)          5
+It's Beautiful Digging Club Seoul Version, Stella Jang          5
+A FEW GOOD MAN, 9MUSES          5
+AM To PM, Christina Milian          5
+dlwlrma, IU          5
+우리 둘 Runnin', Henry          5
+Plastic Love, Friday Night Plans          5
+Halo, Beyoncé          5
+Wonderland, Jessica          5
+Fire, TAEYEON          5
+I Love It, DEAN          5
+Good In Bed, Dua Lipa          5
+Paparazzi, Lady Gaga          5
+NEKKOYA (PICK ME), PRODUCE 48          5
+Wannabe, HYOYEON          5
+When I Was Your Man, Bruno Mars          5
+7th, CLC          5
+YOU MAKE ME, ITZY          5
+Curious, MOMOLAND          5
+Forgive Me (feat. Izzy Bizu), ODESZA          5
+hope ur ok, Olivia Rodrigo          5
+7 rings, Ariana Grande          5
+What Makes You Beautiful, One Direction          5
+LALALAY, SUNMI          5
+FOOL, WINNER          5
+Already Gone, Kelly Clarkson          5
+21:29, TWICE          5
+Good Feeling, Flo Rida          5
+A World Alone, Lorde          5
+Décalcomanie, MAMAMOO          5
+Girls In Line for the Bathroom, Carlie Hanson          5
+Zzang Christmas (inst), BESTie          5
+400 Lux, Lorde          5
+Heartbreak Hotel, TIFFANY          5
+Tattoos Together, Lauv          5
+Kick It, BLACKPINK          5
+Love in Color, TAEYEON          5
+Soarin' - From "Soarin' Over California", Jerry Goldsmith          5
+Fashion, TAEYEON          5
+Drama Queen (That Girl) - Original Version, Lindsay Lohan          5
+You're Welcome, Dwayne Johnson          5
+Could This be Love, gugudan          5
+Replay, SHINee          5
+말해봐 (Talk Talk), Girls' Generation          5
+bad idea, Ariana Grande          5
+BOUNCY, Rocket Punch          5
+Paradise, Girls' Generation          5
+Twinkle, Girls' Generation-TTS          5
+Dancing Queen, Girls' Generation          5
+Boyfriend, Big Time Rush          5
+PAPARAZZI, Girls' Generation          5
+Dazed & Confused, Ruel          5
+You Better Run, Girls' Generation          5
+Best Friend's Brother (feat. Victoria Justice), Victorious Cast          5
+Round & Round, Selena Gomez & The Scene          5
+Grim Grinning Ghosts - From "The Haunted Mansion", The Melomen          5
+Plastic Life, Desired          5
+Pretty U, SEVENTEEN          5
+Villain, Girls' Generation          5
+Somebody, The Chainsmokers          5
+abcdefu, GAYLE          5
+Black Swan, RAINBOW          5
+Bad Blood, Taylor Swift          5
+Miss Macross, Macross 82-99          5
+Hi spring Bye, IU          4
+Dying to Know, Tegan and Sara          4
+Muah!, APRIL          4
+어떤 오후 One Afternoon, Girls' Generation          4
+WINE (Feat.Changmo) (Prod. SUGA), SURAN          4
+멋지게 인사하는 법 (Hello Tutorial) (Feat. 슬기 (SEULGI) of Red Velvet), Zion.T          4
+넘어와 (Feat. 백예린), DEAN          4
+Softly, MIYEON          4
+Breakthrough, TWICE          4
+i hate u, i love u (feat. olivia o'brien), gnash          4
+Shake It Off - Radio Mix, Mariah Carey          4
+Chivalry Is Dead, Trevor Wesley          4
+Marionette, Red Velvet          4
+I WANT YOU BACK, TWICE          4
+Honey, Mariah Carey          4
+HONEY BEE (Prod. by Keun Tae Park), Luna, Hani, Solar          4
+Can't Control Myself, TAEYEON          4
+Unusual You, Britney Spears          4
+Better Now (feat. MARO), ODESZA          4
+My Eyes, 10cm          4
+Love Letter (feat. The Knocks), ODESZA          4
+Sriracha, Kill Them With Colour          4
+Ending Scene, IU          4
+My sea, IU          4
+Fireflies, Owl City          4
+Enemy (with JID) - from the series Arcane League of Legends, Imagine Dragons          4
+Some, BOL4          4
+덩크슛 Dunk Shot, NCT DREAM          4
+Ending Page, f(x)          4
+Light Switch, Charlie Puth          4
+Ruido Blanco Por La Mañana, Vizzionz          4
+TE AMO, MIYEON          4
+Married Life, Michael Giacchino          4
+love, DEAN          4
+Ghost, Justin Bieber          4
+Night, TAEYEON          4
+Strong, Sonna          4
+This Version Of You (feat. Julianna Barwick), ODESZA          4
+See the stars (Instrumental), Red Velvet          4
+Wide Awake (feat. Charlie Houston), ODESZA          4
+SCULLY Doesn't KNOW, HUMMING URBAN STEREO          4
+One Time, Justin Bieber          4
+DYNAMITE, VIXX          4
+Milky Way, Red Velvet          4
+GTFO, Mariah Carey          4
+Star, HEIZE          4
+More Than Words, SHAUN          4
+Never Ever, GOT7          4
+BORN TO BE A LADY, Girls' Generation          4
+First Time, Kygo          4
+A Whole New World, Lea Salonga          4
+A Dream Is a Wish Your Heart Makes, Lily James          4
+Ignition - Remix, R. Kelly          4
+HOT, SEVENTEEN          4
+Love Is Gone, Brave Girls          4
+The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano), Camille Saint-Saëns          4
+Here We Go Again, Demi Lovato          4
+Help Me, Brave Girls          4
+Love It If We Made It, The 1975          4
+Woman, Doja Cat          4
+Gasoline, Halsey          4
+Unfair, EXO          4
+The Night Is Still Young, Nicki Minaj          4
+Set Myself On Fire, TAEYEON          4
+It Ain’t Me (with Selena Gomez), Kygo          4
+Me Too, Meghan Trainor          4
+Chained Up, VIXX          4
+Gentlemen Don't, Gabe Bondoc          4
+Paper Plane, Girls' Generation          4
+willow, Taylor Swift          4
+fake smile, Ariana Grande          4
+Love Again, Dua Lipa          4
+Selene, NIKI          4
+The Man, Taylor Swift          4
+I want to be a pillow, J_ust          4
+Hips Don't Lie (feat. Wyclef Jean), Shakira          4
+Way Back Home, SHAUN          4
+A Moment Apart, ODESZA          4
+Another You, Eric Chou          4
+Touch The Sky - From "Brave"/Soundtrack, Julie Fowlis          4
+Tell Me, FIFTY FIFTY          4
+Little Dressmakers / The Work Song / Scavenger Hunt /A Dream Is A Wish Your Heart Makes / The Dress / My Beads / Escape To The Garden, Mice Chorus          4
+I've Got a Dream - From "Tangled"/Soundtrack Version, Mandy Moore          4
+Part of Your World, Jodi Benson          4
+SUNSET, NAYEON          4
+Age Gag, MAMAMOO          4
+Ride, Twenty One Pilots          4
+Baby, EXO          4
+Eclipse (Prod. by Daniel Obi Klein) (Kim Lip), LOONA          4
+Wrecking Ball, Miley Cyrus          4
+You always Digging Club Seoul Version, DAYBREAK          4
+Freedom, Girls' Generation          4
+Splash Mountain Medley, Robert MacGimsey          4
+Problem, Ariana Grande          4
+Popular Song, MIKA          4
+We Found Love, Rihanna          4
+My Humps, Black Eyed Peas          4
+Try Everything, Shakira          4
+Walking In The Rain, Chancellor          4
+THATS WHAT I WANT, Lil Nas X          4
+Rock That Body, Black Eyed Peas          4
+Be Our Guest - From "Beauty and the Beast"/Soundtrack, Angela Lansbury          4
+It Girl, Jason Derulo          4
+일곱 번째 감각 The 7th Sense (Sung by TAEYONG, MARK, JAEHYUN, DOYOUNG, TEN), NCT U          4
+Behind The Sun, ODESZA          4
+Rain, MIYEON          4
+Just, Lovelyz          4
+Logo Te Pate, Olivia Foa'i          4
+Lost In Japan, Shawn Mendes          4
+Um Oh Ah Yeh, MAMAMOO          4
+Vanilla Sundae, Emily Burns          4
+Feel Good (feat. Daya), Gryffin          4
+How Far I'll Go, Auli'i Cravalho          4
+Hope Not, BLACKPINK          4
+Thank You (Remix), Brave Girls          4
+Are You Happy Now?, Michelle Branch          4
+BREAKTHROUGH - Korean Ver., TWICE          4
+The Last Goodbye (feat. Bettye LaVette), ODESZA          4
+COLORING, fromis_9          4
+유리구슬 Glass Bead, GFRIEND          4
+SENTIMENTAL, WINNER          4
+척 Love is a lie, WINNER          4
+22 (Taylor's Version), Taylor Swift          4
+Best Thing I Never Had, Beyoncé          4
+Heather, Conan Gray          4
+make up, Ariana Grande          4
+Pretty Girl, KARA          4
+Mr. Saxobeat, Alexandra Stan          4
+I Want You To Know, Zedd          4
+Words Don't Come Easy, MAMAMOO          4
+The Show Goes On, Lupe Fiasco          4
+We Are Never Ever Getting Back Together (Taylor's Version), Taylor Swift          4
+Baram X 3, TAEYEON          4
+Health Food, Berhana          4
+AFTER MOON, TWICE          4
+Evacuate the Dancefloor - Radio Edit, Cascada          4
+Do You Think Of Me?, 10cm          4
+Arabian Nights, Bruce Adler          4
+Animal, Girls' Generation          4
+Toothbrush, DNCE          4
+Way Back Home (feat. Conor Maynard) - Sam Feldt Edit, SHAUN          4
+공허해 empty, WINNER          4
+Hands on Me, TAEYEON          4
+Poor Unfortunate Souls, Pat Carroll          4
+Sleepy Dreams, Lovelyz          4
+North Garden, ODESZA          4
+BAE BAE, BIGBANG          4
+All Too Well, Taylor Swift          4
+DONTTRUSTME, 3OH!3          4
+Dark Clouds, HEIZE          4
+Begin with the end, UNI.T          4
+Cry Me a River, Justin Timberlake          4
+bloodline, Ariana Grande          4
+Want You To Say, PLAYBACK          3
+Steady as the Beating Drum - From "Pocahontas"/Soundtrack Version, Chorus - Pocahontas          3
+Stranger Things (feat. OneRepublic), Kygo          3
+Catch My Breath, Kelly Clarkson          3
+The Apartment We Won't Share, NIKI          3
+Baby Boy (feat. Beyoncé ), Sean Paul          3
+Easy, Mac Ayres          3
+Loveholic, LIM JIMIN          3
+Swimming Fool, SEVENTEEN          3
+Hawaiian Roller Coaster Ride, Mark Keali'i Ho'omalu          3
+Do You Want to Build a Snowman? - From "Frozen"/Soundtrack Version, Kristen Bell          3
+Push It, Salt-N-Pepa          3
+Mansae, SEVENTEEN          3
+zombie pop, DPR IAN          3
+Gaston (Reprise) - From "Beauty and the Beast"/Soundtrack Version, Jesse Corti          3
+The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch, Kathryn Beaumont          3
+Love Like Woe, The Ready Set          3
+Not Spring, Love, or Cherry Blossoms, HIGH4          3
+I Swear, The Minions          3
+Some Day My Prince Will Come, Adriana Caselotti          3
+The Silly Song (The Dwarfs Yodel Song), The Dwarf Chorus          3
+The Gospel Truth I / Main Titles - Hercules, Cheryl Freeman          3
+Warpaint, 88rising          3
+i just wanna fucking cry, San Holo          3
+SAN FRANCISCO SIDEWALK, Tiffany Day          3
+Old Days, Eric Chou          3
+But I Love U, SISTAR          3
+Vitamin, NCT 127          3
+Once Upon a Dream - From "Sleeping Beauty" / Soundtrack Version, Mary Costa          3
+When I See An Elephant Fly - From "Dumbo"/Soundtrack Version, Jim Carmichael          3
+So This Is Love - From "Cinderella", Ilene Woods          3
+Stereo Love, Edward Maya          3
+Honor To Us All, Lea Salonga          3
+The Only (feat. IRENE of Red Velvet), Raiden          3
+SUNSET, TWICE          3
+Heigh-Ho, The Dwarf Chorus          3
+Million Dollar Bills, Lorde          3
+DINOSAUR, AKMU          3
+HIGHLIGHTS FROM MY NEIGHBOR TOTORO, Japan Ground Self Defense Force Central Band          3
+Just Around the Riverbend - From "Pocahontas" / Soundtrack Version, Judy Kuhn          3
+As It Was, Harry Styles          3
+KISS ME, WJSN          3
+Almost There - From "The Princess and the Frog" / Soundtrack Version, Anika Noni Rose          3
+INDUSTRY BABY (feat. Jack Harlow), Lil Nas X          3
+A Dream Is A Wish Your Heart Makes - Original Version, Nikki Blonsky          3
+I Miss You, Girl's Day          3
+컬러링 Color Ring, WINNER          3
+Shouldn't Be, Luke Chiang          3
+This Is Halloween, The Citizens of Halloween          3
+SOBER, BIGBANG          3
+Animal Friends/With A Smile And A Song, Adriana Caselotti          3
+Space Mountain - From "Space Mountain", Michael Giacchino          3
+Once In a While, Timeflies          3
+I'm Not Sorry, DEAN          3
+Yes I Am, MAMAMOO          3
+It's Not Living (If It's Not With You), The 1975          3
+Mahna Mahna, The Fray          3
+In My Head, Jason Derulo          3
+Daydreamin', Ariana Grande          3
+걔 세 I'm Him, WINNER          3
+Go the Distance, Roger Bart          3
+Siren, TAEYEON          3
+Swingin Party, Lorde          3
+Aria, Audra McDonald          3
+Awake (Feat. Sam Kim), Lee Jin Ah          3
+Outro (Rollin’), Brave Girls          3
+Sugar Free, T-ARA          3
+You, Clouds, Rain, HEIZE          3
+Zip-a-Dee-Doo-Dah (From "Song Of The South"), Keith Ferreira          3
+Darkwing Duck Theme - From "Darkwing Duck", The Disney Afternoon Studio Chorus          3
+Why Try, Ariana Grande          3
+Smile Again, WINNER          3
+Shoot!, POP! CORN          3
+Down in New Orleans (Finale) - From "The Princess and the Frog"/Soundtrack Version, Anika Noni Rose          3
+Gaston, Josh Gad          3
+Year 3000, Jonas Brothers          3
+the 1, Taylor Swift          3
+Little April Shower - From "Bambi"/Soundtrack Version, Chorus - Bambi          3
+Dream, Suzy          3
+kaleidoscope, mxmtoon          3
+One Jump Ahead (Reprise), Brad Kane          3
+I DON’T WANNA DANCE, ITZY          3
+I Kissed A Girl, Katy Perry          3
+When Will My Life Begin? - From "Tangled" / Soundtrack Version, Mandy Moore          3
+Wedding Dress, TAEYANG          3
+Chim Chim Cher-ee - From "Mary Poppins"/Soundtrack Version, Dick Van Dyke          3
+When Can I See You Again? - From "Wreck-It Ralph"/Soundtrack Version, Owl City          3
+I've Got No Strings - From "Pinocchio"/Soundtrack Version, Dickie Jones          3
+The Tiki, Tiki, TIki Room - From The Enchanted Tiki Room, The Mellomen          3
+Carnival of the Animals, R. 125: The Swan, Camille Saint-Saëns          3
+Where Are You Now, Lost Frequencies          3
+Coming Home, Diddy - Dirty Money          3
+Lava, Kuana Torres Kahele          3
+Crazy in Love, SEVENTEEN          3
+BAD GIRL, Girls' Generation          3
+There’s A First Time For Everything, Charlie Puth          3
+Timeless, TAEYEON          3
+We Know The Way - Finale, Lin-Manuel Miranda          3
+Chip 'N' Dale's Rescue Rangers Theme Song - From "Chip 'n' Dale's Rescue Rangers", The Disney Afternoon Studio Chorus          3
+FLOWER POWER, Girls' Generation          3
+AH, After School          3
+La Valse de L'Amour, Patrick Doyle          3
+올해 제일 잘한 일 The Best Thing I Ever Did, TWICE          3
+Peaches (feat. Daniel Caesar & Giveon), Justin Bieber          3
+JIKJIN, TREASURE          3
+Will Last Forever, AKMU          3
+needy, Ariana Grande          3
+ANTOJITOS (feat. MACROSS 82-99), Upper          3
+Break Your Heart Right Back, Ariana Grande          3
+X, CODE KUNST          3
+LONELY, SISTAR          3
+Hakuna Matata - From "The Lion King"/Soundtrack, Nathan Lane          3
+No Rush, Brave Girls          3
+Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version, Angela Lansbury          3
+Pretty Please, Dua Lipa          3
+Acapella, Karmin          3
+Finally, MAMAMOO          3
+A.I., ONEWE          3
+Reflection - From "Mulan" / Soundtrack Version, Lea Salonga          3
+Wishful Thoughts, John OFA Rhee          3
+White Teeth Teens, Lorde          3
+Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit, Daft Punk          3
+I Like U Too Much, SONAMOO          3
+Ooh La-La!, Girls' Generation          3
+Soarin' - From Soarin' Over California®, Jerry Goldsmith          3
+Super Duper, AOA          3
+Fantasmic! Exit Music - Disneyland Park, Bruce Healey          3
+I Just Can't Wait to Be King - From "The Lion King"/Soundtrack Version, Jason Weaver          3
+Duck Tales Theme - From "Duck Tales", The Disney Afternoon Studio Chorus          3
+BTBT, B.I          3
+Just A Picture, KYLE          3
+When Will My Life Begin (Reprise 2) - From "Tangled"/Soundtrack Version, Mandy Moore          3
+I'll Make a Man Out of You, Donny Osmond          3
+고백하는 거야 Confession, WINNER          3
+I Won't Say (I'm In Love), Susan Egan          3
+You Can Fly! You Can Fly! You Can Fly! - From "Peter Pan"/Soundtrack Version, Bobby Driscoll          3
+Irresistible, Jessica Simpson          3
+Dear. Mom, Girls' Generation          3
+A Dream Is a Wish Your Heart Makes - From "Cinderella" / Soundtrack Version, Ilene Woods          3
+Reflection, Girls' Generation          3
+Easy On Me, Adele          3
+Whistle While You Work, Adriana Caselotti          3
+You've Got a Friend in Me - From "Toy Story"/Soundtrack Version, Randy Newman          3
+In Summer - From "Frozen"/Soundtrack Version, Josh Gad          3
+Charlie Be Quiet!, Charlie Puth          3
+Supalonely, BENEE          3
+너에게 원한건, Red Velvet          3
+Shut Up And Drive, Rihanna          3
+Gonna Take You There - From "The Princess and the Frog"/Soundtrack Version, Jim Cummings          3
+Future Nostalgia, Dua Lipa          3
+rainin' with u, HEIZE          3
+Don't Let Me Down, The Chainsmokers          3
+Soon You’ll Get Better (feat. The Chicks), Taylor Swift          3
+Without Her, Eric Chou          3
+Loser, Charlie Puth          3
+Chocolate, The 1975          3
+My Nigga, YG          3
+I'm Wishing/One Song, Adriana Caselotti          3
+Party Monster, The Weeknd          3
+YOO-HOO, Brave Girls          3
+Queen of Hearts, TWICE          3
+About Damn Time, Lizzo          3
+Making Today a Perfect Day - From "Frozen Fever", Idina Menzel          3
+Shiny, Jemaine Clement          3
+I Don't Fuck With You, Big Sean          3
+Hallucinate, Dua Lipa          3
+Fathoms Below, Ship's Chorus          3
+Loading The Train / Casey Junior / Stork on a Cloud / Straight from Heaven / Mother and Baby / Arrival at Night - From "Dumbo"/Soundtrack Version, Chorus - Dumbo          3
+I See You Everywhere, Eric Chou          3
+Far Away, EASHA          3
+Star - Rain Version, HEIZE          3
+불청객, DEAN          3
+Beautiful Stranger, Girls' Generation          3
+You Better Not, TAEYEON          3
+It's a Small World - From "It's a Small World", The Disneyland Children's Chorus          3
+Je T'aime, JOY          3
+Paradise, Coldplay          3
+Space Mountain, Michael Giacchino          3
+Beauty and the Beast, Emma Thompson          3
+사랑하지마 But, WINNER          3
+Romance, CHEEZE          3
+Casual, Doja Cat          3
+Cameo, Lovelyz          3
+Petal, Apink          3
+VOODOO DOLL, VIXX          3
+It's a Small World Clock Parade - From "it's a small world", Richard M. Sherman          3
+Supercalifragilisticexpialidocious - From "Mary Poppins"/Soundtrack Version, Julie Andrews          3
+Splash Mountain Medley - From Splash Mountain (Disneyland), Robert MacGimsey          3
+The Girl You Lost To Cocaine, Sia          3
+Want to Want Me, Jason Derulo          3
+Different, WINNER          3
+Give Your Heart a Break, Demi Lovato          3
+Zero To Hero, Chorus - Hercules          3
+明明, Eric Chou          3
+Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault), Taylor Swift          3
+A Spoonful of Sugar - From "Mary Poppins" / Soundtrack Version, Julie Andrews          3
+La Cienega, 88rising          3
+First Love, Adele          3
+별빛이 피면 Star Blossom, DOYOUNG          3
+Courage and Kindness, Patrick Doyle          3
+DDU-DU DDU-DU - Remix, BLACKPINK          3
+Picture To Burn, Taylor Swift          3
+With You, Mariah Carey          3
+Destiny, Girls' Generation          3
+Misery Business, Paramore          3
+Lingo, aespa          3
+Oceans & Engines, NIKI          3
+One Last Hope, Danny DeVito          3
+When You Wish Upon a Star, Cliff Edwards          3
+Infinity, Jaymes Young          3
+Cave Me In, Gallant          3
+Noir, SUNMI          3
+어때, DEAN          3
+Knock Knock, Lovelyz          3
+I can't stop, KARD          3
+Round And Round, HEIZE          3
+Like Water, WENDY          3
+It's a Small World, Richard M. Sherman          3
+Hi-Diddle-Dee-Dee (An Actor's Life for Me), Walter Catlett          3
+HONEYMOON, B.A.P          3
+Thinking Bout You, Ariana Grande          3
+Transmission, Zedd          3
+I Think He Knows, Taylor Swift          3
+My Universe, Coldplay          3
+A Girl Worth Fighting For, Lea Salonga          3
+Need to Know, Doja Cat          3
+Take You There, Sean Kingston          3
+All Mine - Instrumental, f(x)          3
+양화대교 (Yanghwa Brdg), Zion.T          3
+Best Love Song (feat. Chris Brown), T-Pain          3
+SHINE FOREVER, Monsta X          3
+Babybaby, SURAN          3
+Wherever I Go, OneRepublic          3
+I Wan'na Be Like You (The Monkey Song), Louis Prima          3
+Be the Star, PRISTIN          3
+In My Blood, Shawn Mendes          3
+I'm Upset, Drake          3
+Mine, Mine, Mine - From "Pocahontas"/Soundtrack Version, David Ogden Stiers          3
+Rainbow Connection, The Muppets          3
+ICON, TWICE          3
+As Long as You Love Me, Backstreet Boys          3
+Summer Rain, GFRIEND          3
+break up with your girlfriend, i'm bored, Ariana Grande          3
+Step In Time - From "Mary Poppins"/Soundtrack Version, Dick Van Dyke          3
+Cold As Hell, TAEYEON          3
+CLASSY, CLASS:y          3
+imagine, Ariana Grande          3
+3, Britney Spears          3
+Les Poissons, Rene Auberjonois          3
+하이힐 - Remix Version, Brave Girls          3
+Obsessed (with Charlie Puth & Shenseea), Calvin Harris          3
+If I Didn't Have You, Billy Crystal          3
+Million Years Ago, Adele          3
+Stereo Hearts (feat. Adam Levine), Gym Class Heroes          3
+COWBOY, f(x)          3
+Rolling in the Deep, Adele          3
+God is a woman, Ariana Grande          3
+Starving, Hailee Steinfeld          3
+What Am I, Why Don't We          3
+Woman Of The Year (with Stefflon Don, Chlöe & Coi Leray), Calvin Harris          3
+Fermata, Girls' Generation-Oh!GG          3
+Plz Don’t Be Sad, Highlight          3
+I Don't Need A Man, The Pussycat Dolls          3
+DOWNPOUR, I.O.I          3
+Yo, Ho! (A Pirate's Life For Me) - From "Pirates of the Caribbean", Disney Studio Chorus          3
+Gaston - From "Beauty and the Beast" / Soundtrack Version, Richard White          3
+Stargazing, Kygo          3
+Love Is an Open Door - From "Frozen"/Soundtrack Version, Kristen Bell          3
+Autumn, NIKI          3
+One Jump Ahead, Brad Kane          3
+Sacrifice, The Weeknd          3
+Stay Young, Maisie Peters          3
+Fly (feat. Fabolous), Jessica          3
+He's a Pirate, Klaus Badelt          3
+Be Our Guest, Ewan McGregor          3
+Pumped Up Kicks, Foster The People          3
+Rollin' - Outro, Brave Girls          3
+La Valse Champagne, Patrick Doyle          3
+Bravado, Lorde          3
+Paris in the Rain, Lauv          3
+THE GREAT ESCAPE, Girls' Generation          3
+Left and Right (Feat. Jung Kook of BTS), Charlie Puth          3
+Wide Awake, Katy Perry          3
+Can You Feel the Love Tonight - From "The Lion King" / Soundtrack Version, Joseph Williams          3
+Baby Baby, Girls' Generation          3
+Chilly, NIKI          3
+Friends on the Other Side - From "The Princess and the Frog" / Soundtrack Version, Keith David          3
+Beauty and the Beast (Finale), Audra McDonald          3
+Mickey Mouse March - From "The Mickey Mouse Club", The Mouseketeers          3
+Anaheim, NIKI          3
+According To You, Orianthi          3
+BAE, CLC          3
+Good Girls, LANY          3
+One Right Now (with The Weeknd), Post Malone          3
+Without You (feat. Usher), David Guetta          3
+bury a friend, Billie Eilish          3
+Whenever, Wherever, Shakira          3
+LA・LA・LA LOVE SONG, ayaka          3
+Va Va Voom, Nicki Minaj          3
+Hello Bubble, Girl's Day          3
+nobody else, LANY          3
+Satellite, LOONA          3
+Hey, Soul Sister, Train          3
+For the First Time in Forever - From "Frozen"/Soundtrack Version, Kristen Bell          3
+Under the Sea, Samuel E. Wright          3
+Countdown, Beyoncé          3
+Before, NIKI          3
+The (Lee Mi-Joo & Ryu Su-Jeong & Jeong Ye-In), Lovelyz          3
+Four Seasons, TAEYEON          3
+Drunk in Love (feat. Jay-Z), Beyoncé          3
+Style, Taylor Swift          3
+I See the Light - From "Tangled" / Soundtrack Version, Mandy Moore          3
+Shivers, Ed Sheeran          3
+Love Somebody, Lauv          2
+Oh! My God, Girl's Day          2
+Indigo, 88rising          2
+Cupid - Acoustic Version, Girl's Day          2
+Secrets, The Weeknd          2
+Talk Talk, Girls' Generation          2
+The Fantasyland Darkride Suite - From Pinocchio’s Daring Journey, Peter Pan’s Flight, Mr. Toad’s Wild Ride, Alice In Wonderland, Ned Washington          2
+Be My Baby, Wonder Girls          2
+At My Worst, Pink Sweat$          2
+You're A Mean One, Mr. Grinch, Thurl Ravenscroft          2
+New Flame (feat. Usher & Rick Ross), Chris Brown          2
+La Vie En Rose, Gypsy Jazz Caravan          2
+Good-Bye, J_ust          2
+Can't Help Falling In Love, A*Teens          2
+L.O.V.E, TWICE          2
+365, Zedd          2
+Biting Down, Lorde          2
+exile (feat. Bon Iver), Taylor Swift          2
+mirrorball, Taylor Swift          2
+Everyday, Ariana Grande          2
+Galaxy, LADIES' CODE          2
+Who Do You Love, The Chainsmokers          2
+LAST SCENE, 9MUSES          2
+Let Me Love You, Ariana Grande          2
+Highest Building (feat. Oklou), Flume          2
+Make Me Love You, TAEYEON          2
+Blue, TAEYEON          2
+Mahou Shoujo, GHOST DATA          2
+TAKE ME HOME, COUNTRY ROADS from Whisper of the Heart, Japan Ground Self Defense Force Central Band          2
+Whistle, Girl's Day          2
+Love Light, Flume          2
+Heartless, Kanye West          2
+Too Little, Too Late, JoJo          2
+Weak, AJR          2
+I Miss You (feat. Roman), Macross 82-99          2
+All I Want for Christmas Is You, Mariah Carey          2
+My Little Lover (Yoo Ji-Ae & Seo Ji-Soo), Lovelyz          2
+Atlantis Princess, BoA          2
+Crazy, Gnarls Barkley          2
+34+35, Ariana Grande          2
+The Kraken, Hans Zimmer          2
+하루에 세번 THREE TIMES A DAY, TWICE          2
+Frosty the Snowman, The Ronettes          2
+Hurts So Good, Astrid S          2
+Unwritten, Natasha Bedingfield          2
+No one like you, Eric Chou          2
+Bohemian Rhapsody - Muppet version, Queen + The Muppets          2
+Five More Hours, Deorro          2
+Nobody But Me, Eric Chou          2
+The Flower, Tiffany Young          2
+This Is Love, SUPER JUNIOR          2
+The Love Club, Lorde          2
+Funiculi Funicula - From Luigi’s Flying Tires, Craig Copeland          2
+EYE EYE EYES, TWICE          2
+Plans (feat. Vory), 88rising          2
+It's Going Down For Real, Paul Simpson          2
+Love Is the Competition - 2021 Remaster, Hitomi Tohyama          2
+Santa Claus Is Coming To Town, The Jackson 5          2
+Equal (feat. Låpsley), ODESZA          2
+Fanfare, SF9          2
+Haven't Met You Yet, Michael Bublé          2
+Kiss the Girl, Samuel E. Wright          2
+Let's Talk About Love, Girls' Generation          2
+11 Minutes (with Halsey feat. Travis Barker), YUNGBLUD          2
+False God, Taylor Swift          2
+Journey To The West (Princess Mononoke), Eminence Symphony Orchestra          2
+Swan Song - From the Motion Picture "Alita: Battle Angel", Dua Lipa          2
+Sign, Girls' Generation          2
+It's a Small World - From "It's a Small World", Richard M. Sherman          2
+ALOHA, PRISTIN          2
+You Shall Go, Patrick Doyle          2
+Stereo Love - Original, Edward Maya          2
+With Me, Girl's Day          2
+I Don’t Really Care, Kalin and Myles          2
+MOLAE MOLAE, I.B.I          2
+Single Ladies (Put a Ring on It), Beyoncé          2
+i am thinking of you, San Holo          2
+Top Girl, Girl's Day          2
+Part Of Me, Katy Perry          2
+Boys Will Be Boys, Dua Lipa          2
+The Many Adventures of Winnie the Pooh - From The Many Adventures of Winnie the Pooh, Richard M. Sherman          2
+Playback, NCT 127          2
+Night and Day, Lovelyz          2
+Perhaps Love, Eric Nam          2
+Bam Bam (feat. Ed Sheeran), Camila Cabello          2
+Caffeine, Eyedi          2
+The Edge Of Glory, Lady Gaga          2
+Young, Wild & Free (feat. Bruno Mars), Snoop Dogg          2
+CRUSH, 2NE1          2
+Runaway (feat. Babyface), Tiffany Young          2
+Promise EXO 2014 - Chinese Version, EXO          2
+False Alarm, The Weeknd          2
+Any song, ZICO          2
+Like That (feat. Gucci Mane), Doja Cat          2
+All About That Bass, Meghan Trainor          2
+When You Fall (Feat. Chai), Sam Kim          2
+Yellow, Coldplay          2
+SOSO, HUMMING URBAN STEREO          2
+GHIBLI MEDLEY, Japan Ground Self Defense Force Central Band          2
+New To You (with Normani, Tinashe & Offset), Calvin Harris          2
+Let's Fall in Love for the Night, FINNEAS          2
+Meet Me At Our Spot, THE ANXIETY          2
+The Bear Band Serenade - From "Country Bear Jamboree Show", Pete Renoudet          2
+Streets, Doja Cat          2
+Put Your Records On, Corinne Bailey Rae          2
+유후 (우린 아직 여름), Brave Girls          2
+Like What, Tennyson          2
+꺼내 먹어요 (Eat), Zion.T          2
+끼부리지마 Don't flirt, WINNER          2
+Work Bitch, Britney Spears          2
+MOVIE, BTOB          2
+Fault Line, Tennyson          2
+WiggleWiggle, HELLOVENUS          2
+That's What Friends are For (The Vulture Song), Chad Stuart          2
+Death By A Thousand Cuts, Taylor Swift          2
+Life Goes On, Oliver Tree          2
+Summertime, Billy Taylor          2
+Flying (From "The Tale of Princess Kaguya"), L'Orchestra Cinematique          2
+Adore U, SEVENTEEN          2
+Love Story (Taylor’s Version), Taylor Swift          2
+Living Good (Special thanks to.), KARD          2
+A Town Where You Can See the Ocean (Originally from "Kiki's Delivery Service") - Instrumental, Anime Kei          2
+Dancing With A Stranger (with Normani), Sam Smith          2
+La Polka de Paris, Patrick Doyle          2
+Beauty And A Beat, Justin Bieber          2
+Straightjacket, Quinn XCII          2
+Hot N Cold, Katy Perry          2
+London Boy, Taylor Swift          2
+人生のメリーゴーランド - Jazz Ver., Orita Nobotta          2
+LOVE. FEAT. ZACARI., Kendrick Lamar          2
+Good Luck, Beast          2
+Oh My God, Adele          2
+Summer or Summer, Hyolyn          2
+Can't Leave You Alone (feat. Juice WRLD), Maroon 5          2
+Don’t meet, Brave Girls          2
+Rockin’, The Weeknd          2
+XO, Beyoncé          2
+The Motto, Tiësto          2
+HIGHLIGHTS FROM KIKI'S DELIVERY SERVICE, Japan Ground Self Defense Force Central Band          2
+Too Cool, Meaghan Martin          2
+Single Bed, BESTie          2
+High Hopes, Panic! At The Disco          2
+Childish, LambC          2
+I.F.L.Y., Bazzi          2
+Payphone, Maroon 5          2
+Keep Your Head Up, Andy Grammer          2
+Shake It Off, Taylor Swift          2
+SexyBack (feat. Timbaland), Justin Timberlake          2
+Belle, Paige O'Hara          2
+HELLOVENUS X DEVINE CHANNEL Pt.1 : Glow, HELLOVENUS          2
+어떤 별보다 - Instrumental, Red Velvet          2
+Animal, Neon Trees          2
+Hide and Seek, Lovelyz          2
+HOLD ME TIGHT, TWICE          2
+Mayday (Feat. Joy), Crush          2
+Say It (feat. Tove Lo), Flume          2
+Take a Bow, Leona Lewis          2
+Beauty and The Bees - From It’s Tough to be a Bug!, Bug Chorus          2
+HANGANG, Hoody          2
+my tears ricochet, Taylor Swift          2
+Rise, Selena Gomez          2
+seven, Taylor Swift          2
+I Knew You Were Trouble (Taylor's Version), Taylor Swift          2
+No Money, Galantis          2
+Hard to Love, BLACKPINK          2
+RETRO FUTURE, Triple H          2
+Madiba Riddim, Drake          2
+Almost (Sweet Music), Hozier          2
+Heart, TAEYEON          2
+Honesty, Pink Sweat$          2
+Wild Things, Alessia Cara          2
+BOSS, NCT          2
+Miss Americana & The Heartbreak Prince, Taylor Swift          2
+怎麼了, Eric Chou          2
+Adore You, Miley Cyrus          2
+Miracles From Molecules - From Adventures Thru Inner Space, Disney Studio Chorus          2
+Candyman, Zedd          2
+BDZ, TWICE          2
+Home, Phillip Phillips          2
+Talk, Khalid          2
+Let Me Down Slowly, Alec Benjamin          2
+Emotion, Lovelyz          2
+Drive By, Train          2
+Lips on Lips, Tiffany Young          2
+You Belong With Me (Taylor’s Version), Taylor Swift          2
+I Do Not Hook Up, Kelly Clarkson          2
+Live Your Life, T.I.          2
+HIGHLIGHTS FROM CASTLE IN THE SKY, Japan Ground Self Defense Force Central Band          2
+The Bare Necessities - From "The Jungle Book"/Soundtrack Version, Phil Harris          2
+Live While We're Young, One Direction          2
+Good Life, OneRepublic          2
+Joy To The World, Nat King Cole          2
+Let Me In, WJSN          2
+Great Moments with Mr. Lincoln - From Great Moments with Mr. Lincoln, Buddy Baker          2
+Sister Suffragette - From "Mary Poppins"/Soundtrack Version, Glynis Johns          2
+ラビリンス, Mondo Grosso          2
+Jingle Bells - Remastered 1999, Frank Sinatra          2
+champagne problems, Taylor Swift          2
+Hush, miss A          2
+One Day, TAEYEON          2
+Mike and Sulley to the Rescue - From Monsters Inc. Mike And Sulley to the Rescue, Jonathan Sacks          2
+RPM, SF9          2
+Hello, Karmin          2
+Who's Afraid of the Big Bad Wolf - From Carthay Circle, Bill Cantos          2
+New Money (with 21 Savage), Calvin Harris          2
+Being an Adult, Kim Na Young          2
+Oasis (feat. ZICO), Crush          2
+Light It Up (feat. Nyla & Fuse ODG) [Remix], Major Lazer          2
+new one, San Holo          2
+Sunday Morning, Hamzaa          2
+뻔한 멜로디 (feat. Crush), Zion.T          2
+This Is What You Came For, Calvin Harris          2
+L'oiseau qui danse, Tennyson          2
+BODY, Eric Nam          2
+If You Love Her, Forest Blakk          2
+Super Gremlin, Kodak Black          2
+Hold Your Hand, CLC          2
+Hunter, Galantis          2
+Nation on Wheels - From Peoplemover, George Bruns          2
+Monster, EXO          2
+Twinkle,twinkle, Girl's Day          2
+Lil’ Touch - Instrumental, Girls' Generation-Oh!GG          2
+至少我還記得 - 天堂的微笑插曲, Eric Chou          2
+36.5, SHAUN          2
+Nights Like This (feat. Ty Dolla $ign), Kehlani          2
+Bad Habits, Ed Sheeran          2
+odds, NIKI          2
+i'm so tired..., Lauv          2
+Intoxicated - Radio Edit, Martin Solveig          2
+Faster, NCT 127          2
+永不失聯的愛, Eric Chou          2
+XS, Rina Sawayama          2
+Let it go, Eric Chou          2
+TOOTIMETOOTIMETOOTIME, The 1975          2
+Never Go Back, Dennis Lloyd          2
+2002, Anne-Marie          2
+Belle Reprise - From "Beauty and the Beast"/Soundtrack Version, Paige O'Hara          2
+Oceans, Vallis Alps          2
+Sweetest Pie, Megan Thee Stallion          2
+LIGHTSABER, EXO          2
+Letter, Jukjae          2
+You always - Digging Club Seoul Ver., DAYBREAK          2
+Do It To It, ACRAZE          2
+NEWTON, Monsta X          2
+45.7cm, Yu Seung Woo          2
+ONLY 너 ONLY YOU, TWICE          2
+Walking On This Street, Solji          2
+Sexy Bitch (feat. Akon) - Extended, David Guetta          2
+Don't Call Me Up, Mabel          2
+To My Youth, BOL4          2
+Apologize, OneRepublic          2
+Show You, Girl's Day          2
+All The Right Moves, OneRepublic          2
+The Little Drummer Boy - Remastered 2006, Bing Crosby          2
+Ah-Choo, Lovelyz          2
+Inferiority complex (feat. Eunha), Park Kyung          2
+Paper Rings, Taylor Swift          2
+Bae City Rollaz, Yung Bae          2
+Beautiful World, Tennyson          2
+Up & Down, TAEYEON          2
+Timing, Girl's Day          2
+Hello Everybody - From The Golden Horseshoe Revue, Betty Taylor          2
+Please Me, Cardi B          2
+Ready Or Not, MOMOLAND          2
+MY BAG, (G)I-DLE          2
+Heart Stop, TAEMIN          2
+Wolves, Selena Gomez          2
+Changes, Lauv          2
+Terminal, SHAUN          2
+Horsey (feat. Sarah Bonito), Macross 82-99          2
+Black Out, IU          2
+Love, f(x)          2
+Deep Sleep Recovery Noise, Water Sound Natural White Noise          2
+black and white, San Holo          2
+Love Letter (For You), Desired          2
+ALL MY LOVE IS FOR YOU, Girls' Generation          2
+Sunrise, GFRIEND          2
+Acapulco, Jason Derulo          2
+Steamboat Willie - From Mickey’s Toontown, Lewis Bertram          2
+Timebomb - Extended, Kylie Minogue          2
+The 7th Sense, NCT          2
+A Star Is Born, Cheryl Freeman          2
+Ev'rybody Wants to Be a Cat, Scatman Crothers          2
+No More Drama, Charlie Puth          2
+The Bakery Theme - From The Boudin Bakery, Dan Foliart          2
+잊어버리지마 Don't Forget (feat. 태연 Taeyeon), Crush          2
+Tears On My Piano, Charlie Puth          2
+The Legend of Ashitaka - Ending (From "Princess Mononoke"), L'Orchestra Cinematique          2
+Star Tours, John Williams          2
+Dear Future Husband, Meghan Trainor          2
+Come Slowly, Girl's Day          2
+Smells Like Me, Charlie Puth          2
+Cherry On Top, 10시 45분          2
+Pepas, Farruko          2
+Habit, SEVENTEEN          2
+Baby, It's Cold Outside, Dean Martin          2
+Brave, TWICE          2
+It'll Be Okay, Shawn Mendes          2
+Better Days, Night Tempo          2
+If Only, JOY          2
+instagram, DEAN          2
+Fresh Eyes, Andy Grammer          2
+Written In The Stars, WENDY          2
+Together Forever - Lover's Leap Remix, Rick Astley          2
+You Don't Know Me, EVERGLOW          2
+SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy), Amaarae          2
+love nwantiti (ah ah ah), CKay          2
+Give Yourself A Try, The 1975          2
+The Only Exception, Paramore          2
+Mercy, Shawn Mendes          2
+Peru, Fireboy DML          2
+FOOL, TIFFANY          2
+BOOMERANG, Girls' Generation          2
+YESTERDAY, Block B          2
+the great clown Pagliacci, San Holo          2
+This is love, Eric Chou          2
+When This Rain Stops, WENDY          2
+Suki? Suki!, Night Tempo          2
+First Class, Jack Harlow          2
+Smokin Out The Window, Bruno Mars          2
+heal (↑%), San Holo          2
+Cherries Jubiles, YUKIKA          2
+Crazy Kids, Kesha          2
+Enchanted, Taylor Swift          2
+Deep Blue Eyes, Yeopso          2
+I AM WOMAN, Emmy Meli          2
+Marks On My Neck, Charlie Puth          2
+Please Save My Earth, GFRIEND          2
+Heathens, Twenty One Pilots          2
+Baby I'm a star, NiziU          2
+That's Hilarious, Charlie Puth          2
+She Was Mine (feat. Jesse Barrera), AJ Rafael          2
+LoveGame, Lady Gaga          2
+BDZ (Korean Ver.), TWICE          2
+Gold, Kiiara          2
+Tasty, NCT 127          2
+링마벨(Ring My Bell) (inst), Girl's Day          2
+It's the Most Wonderful Time of the Year, Andy Williams          2
+First Snow, Lovelyz          2
+Bubbly, Colbie Caillat          2
+I Love You So, The Walters          2
+Brown Eyes, Destiny's Child          2
+SOMEONE LIKE ME, TWICE          2
+Temperature, Sean Paul          2
+No Love Again, TAEYEON          2
+1+1=0 (Feat. DEAN), SURAN          2
+Story of My Life, One Direction          2
+You’re the Best, MAMAMOO          2
+This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016), David Guetta          2
+Happier Than Ever - Edit, Billie Eilish          2
+Kill Em With Kindness, Selena Gomez          2
+Rain On Me (with Ariana Grande), Lady Gaga          2
+You & Me, Marc E. Bassy          2
+the last great american dynasty, Taylor Swift          2
+Hollow (feat. Emma Louise), Flume          2
+One More Time, TWICE          2
+You Got Me Like, SHAED          2
+Matterhorn Yodelers - From Matterhorn Bobsleds, Matterhorn Yodelers          2
+Feels Like Tonight, Daughtry          2
+Hollaback Girl, Gwen Stefani          2
+Say it again, TWICE          2
+13, LANY          2
+I'm N Luv (Wit a Stripper) (feat. Mike Jones), T-Pain          2
+Sidewalks, The Weeknd          2
+나를 찾아줘, Jun Hyo Seong          2
+Please Come Home for Christmas - 2013 Remaster, Eagles          2
+Stargirl Interlude, The Weeknd          2
+Be as ONE, TWICE          2
+We Three Kings - Remastered 2006, Ella Fitzgerald          2
+24HRS, ITZY          2
+Someone Like You, Adele          2
+sweetener, Ariana Grande          2
+Macaron, Girl's Day          2
+I Need It, Johnny Balik          2
+Nothin' on You (feat. Bruno Mars), B.o.B          2
+lonely in LA, San Holo          2
+Bounce Back, LIONAIRE          2
+What If I Go?, Mura Masa          2
+Only Fans (feat. Virgen Maria), Flume          2
+OK!, NCT U          2
+LOL (Laugh-Out-Loud), NCT 127          2
+JUST DANCE, MIXNINE          2
+Seasons of the Vine Medley - From Pacific Wharf, Bruce Broughton          2
+PILLOWTALK, ZAYN          2
+Sweet Girl, B1A4          2
+This Town (feat. Sasha Alex Sloan), Kygo          2
+Look At Me, Girl's Day          2
+Hwi hwi, LABOUM          2
+Alone, SISTAR          2
+Born Again, Tiffany Young          2
+Burnin' Up, Jonas Brothers          2
+IT HURTS!, San Holo          2
+I Swear, All-4-One          2
+Radiator Springs Racers - From Radiator Spings Racers, Randy Newman          2
+All Of The Lights, Kanye West          2
+OHOO, Whee In          2
+Too Long, Tennyson          2
+Robbers, The 1975          2
+Swissapolka - From "Swiss Family Robinson Treehouse", Buddy Baker          2
+Lucky, EXO          2
+Space Mountain - From "Space Mountain", Dick Dale          2
+Circle, Lovelyz          2
+DNA., Kendrick Lamar          2
+The Lazy Song, Bruno Mars          2
+愛我的時候, Eric Chou          2
+The Archer, Taylor Swift          2
+Bad Boy, BIGBANG          2
+Likey (Kronos Remix), TWICE          2
+Trouble, TWICE          2
+Stay - Album Version (Edited), Rihanna          2
+I'm So Glad (My Neighbour Totoro), Eminence Symphony Orchestra          2
+Indiana Jones and the Temple of the Forbidden Eye - From Indiana Jones and the Temple of the Forbidden Eye, John Williams          2
+Snap Snap, Red Velvet          2
+Keep The Family Close, Drake          2
+Make Me Move, Culture Code          2
+Sincerity Is Scary, The 1975          2
+Home (feat.Yoonmirae), AILEE          2
+Love and War, Tamar Braxton          2
+Perfect Day, OH MY GIRL          2
+I Am The Best, 2NE1          2
+Cheap Thrills, Sia          2
+There's a Great Big Beautiful Tomorrow - From The Carousel of Progress, Rex Allen          2
+이 밤 Tonight, WINNER          2
+BANG BANG BANG, BIGBANG          2
+Summertime - Mono; Single Edit; 2017 Remaster, Nina Simone          2
+Sexy Can I feat. Yung Berg, Ray J          2
+Married Life - From Main Street, U.S.A., Michael Giacchino          2
+Think About You, Kygo          2
+Your Body Is a Wonderland, John Mayer          2
+Havana (feat. Young Thug), Camila Cabello          2
+Breathe (2 AM), Anna Nalick          2
+I Hate U, SZA          2
+Come Away With Me, Norah Jones          2
+Feel So Close - Radio Edit, Calvin Harris          2
+Moonlight, EXO-K          2
+Airplanes (feat. Hayley Williams of Paramore), B.o.B          2
+Facebook Friends, NIKI          2
+Applause, Lady Gaga          2
+SOUL LADY, YUKIKA          2
+Reminder, The Weeknd          2
+Dog Days Are Over, Florence + The Machine          2
+Wild Beach, Doja Cat          2
+Take a Walk, Passion Pit          2
+American Girl, Bonnie McKee          2
+Bibbidi-Bobbidi-Boo - From "Cinderella", Verna Felton          2
+Hot Baby, BESTie          2
+I Know, EXID          2
+Egotistic, MAMAMOO          2
+Say My Name (feat. Zyra), ODESZA          2
+Wildest Dreams, Taylor Swift          2
+Troll (Feat. DEAN), IU          2
+Pit Pat Remix, BESTie          2
+DNA, Little Mix          2
+Miss Independent, Kelly Clarkson          2
+Waiting On the World to Change, John Mayer          2
+Gone, TWICE          2
+如果雨之後, Eric Chou          2
+Wherever You Are, Kesha          2
+Don't Cha, The Pussycat Dolls          2
+Knew Better / Forever Boy, Ariana Grande          2
+체온 Between Us, LABOUM          2
+You're Not Sorry, Taylor Swift          2
+Pinocchio (Danger), f(x)          2
+Yo Ho (A Pirate's Life For Me) - From "Pirates of the Caribbean", Xavier Atencio          2
+The Cleaner - From Toy Story Midway Mania!, Randy Newman          2
+Day By Day, JOY          2
+Fingers Crossed, Lauren Spencer Smith          2
+Main Theme (From ''The Wind Rises''), Grissini Project          2
+Don't Be Shy, Primary          2
+Circus, TAEYEON          2
+La Polka Militaire, Patrick Doyle          2
+How Far I'll Go - Reprise, Auli'i Cravalho          2
+Mistletoe And Holly, Frank Sinatra          2
+Cool, Dua Lipa          2
+Honey I Shrunk the Audience Theme - From Honey, I Shrunk the Audience, Bruce Broughton          2
+When You’re Sad I’m Sad, Charlie Puth          2
+I Wouldn't Know Any Better Than You, Gentle Bones          2
+Down in New Orleans - From "The Princess and the Frog"/Soundtrack Version, Dr. John          2
+One More Night, Maroon 5          2
+Roger Rabbit's Car Toon Spin - From Roger Rabbit's Car Toon Spin, Franz Liszt          2
+Mon Amour - Remix, zzoilo          2
+Full Stop, IU          2
+Lady Sunshine, リアムMAZE1981          2
+This Feeling (feat. Kelsea Ballerini), The Chainsmokers          2
+Millionaire, Chris Stapleton          2
+Memories, Maroon 5          2
+Love on Me, Galantis          2
+I Like Me Better, Lauv          2
+Giant (with Rag'n'Bone Man), Calvin Harris          2
+True Colors, The Weeknd          2
+bb u ok?, San Holo          2
+Soak Up The Sun, Sheryl Crow          2
+Hello, Adele          2
+Mother (From "My Neighbor Totoro") [Instrumental], daigoro789          2
+I Heard You’re Married (feat. Lil Wayne), The Weeknd          2
+7:00 AM, Tennyson          2
+Paper Gangsta, Lady Gaga          2
+Deepthroat, cupcakKe          2
+'Cause it's you, Red Velvet          2
+Eenie Meenie, Justin Bieber          2
+Fallin', Alicia Keys          2
+1, 2, 7 (Time Stops), NCT 127          2
+쌍둥이자리 Gemini, TAEYEON          2
+Escape, Tritonal          2
+O Come All Ye Faithful, Nat King Cole          2
+Don’t Be Shy, Girl's Day          2
+Blue Night, OKDAL          2
+Running, PRISTIN          2
+I Need U, BTS          2
+Make Me Happy, Whee In          2
+She (feat. Beenzino), Zion.T          2
+MIDDLE OF THE NIGHT, Elley Duhé          2
+SummerThing!, Afrojack          2
+Treasure, Bruno Mars          2
+Power Over Me, Dermot Kennedy          2
+RED, The Rose          2
+Mr. Perfectly Fine (Taylor’s Version) (From The Vault), Taylor Swift          2
+Thinking of You, Kesha          2
+Friday (feat.Jang Yi-jeong), IU          2
+move!, NIKI          2
+Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault), Taylor Swift          2
+Yes Indeed He Do!, Bessie Smith          2
+California Screamin' - From "California Screamin'", Gary Hoey          2
+Peter Pan, EXO          2
+Have Yourself A Merry Little Christmas, Judy Garland          1
+NO F.U.N, SEVENTEEN          1
+Memories Remix (feat. Nipsey Hussle & YG), Maroon 5          1
+Howl's Moving Castle Theme, Kyle Landry          1
+Juice, Lizzo          1
+Ngã Tư Không Đèn, TRANG          1
+Happy Holiday / The Holiday Season, Andy Williams          1
+Fox Tracks - Day 3, Ludovico Einaudi          1
+Like I'm Gonna Lose You (feat. John Legend), Meghan Trainor          1
+Red Sun!, VIVIZ          1
+STAY BY MY SIDE, TWICE          1
+Amazing Grace - Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72, Aretha Franklin          1
+pushin P (feat. Young Thug), Gunna          1
+Solita, Kali Uchis          1
+Gasolina, Daddy Yankee          1
+Bottom Bitch, Doja Cat          1
+UN Village, BAEKHYUN          1
+Call Out My Name, The Weeknd          1
+Falling, Alesso          1
+Blur, Britney Spears          1
+You’re my boy, PRISTIN          1
+Princess Mononoke - Ashitaka and San, Joe Hisaishi          1
+The Ballad Of Me And My Brain, The 1975          1
+Lucifer - Live, SHINee          1
+Broken Record, GSoul          1
+Cider, YEZI          1
+離開你以後 - 電影《你的婚禮》插曲, Eric Chou          1
+无法忘记的美, SF9          1
+Puzzle, LOONA          1
+Can't Go Home (feat. Adam Lambert) - Radio Edit, Steve Aoki          1
+Beautiful Goodbye, f(x)          1
+Irene (Goodnight Irene), Lead Belly          1
+Saturday Nights, Khalid          1
+Bang My Head (feat. Sia & Fetty Wap), David Guetta          1
+tequila, ed leigh          1
+널 기다려 - 예빈 Version, DIA          1
+Lily's Cradle, Benette          1
+Over My Skin, Tiffany Young          1
+Green Light, Lorde          1
+Loco Contigo (feat. J. Balvin & Tyga), DJ Snake          1
+Spirited Away - Reprise, Joe Hisaishi          1
+Mean, Taylor Swift          1
+Kill The Lights (Mix Cut) - Audien Remix, Alex Newell          1
+Treacherous (Taylor's Version), Taylor Swift          1
+Credit, Meghan Trainor          1
+Gone with the wind, GFRIEND          1
+Better When You're Gone, David Guetta          1
+Give Him Up, Faber Drive          1
+Candy, Naoko Gushima          1
+HELLO, Shannon          1
+WooWoo - Instrumental, DIA          1
+Piano Man, MAMAMOO          1
+Bastards, Kesha          1
+A Holly Jolly Christmas, Burl Ives          1
+Afterglow, Taylor Swift          1
+Better With You, Austin Mahone          1
+Gangnam Style (강남스타일), PSY          1
+Santa Baby, Eartha Kitt          1
+One More Time, Daft Punk          1
+너란 우주 안에서, Wildberry          1
+I Would Like, Zara Larsson          1
+Begin Again, KIM JAE HWAN          1
+Scared to Be Lonely, Martin Garrix          1
+3005, Childish Gambino          1
+Stuck with U (with Justin Bieber), Ariana Grande          1
+1 of 1, Saweetie          1
+Savage, Bahari          1
+It’s Nice To Have A Friend, Taylor Swift          1
+Florets, Grace VanderWaal          1
+All Star, Smash Mouth          1
+AIRPLANE, iKON          1
+BeBe, WJSN          1
+wide eyed, JAWNY          1
+Lady Marmalade - From "Moulin Rouge" Soundtrack, Christina Aguilera          1
+Sad Forever, Lauv          1
+I’m a Diamond, Girls' Generation          1
+When We Were Kids, TWICE          1
+Call My Name, CLC          1
+スノッブな夜へ, Yurie Kokubu          1
+AURA, WJSN          1
+Happily Ever After - Full Version, Jordan Fisher          1
+Everybody - Japanese ver., SHINee          1
+Girls & Peace, Girls' Generation          1
+Down, Jessi          1
+XIBAL, Sik-K          1
+Drops of Jupiter (Tell Me), Train          1
+Firestone, Kygo          1
+Sonata for Violin or Flute and Continuo, No.1 in G Minor BWV 1020 - arr. Flute, Harp, and Cello: 1. (Allegro), Johann Sebastian Bach          1
+Road Not Taken, Stray Kids          1
+Hear Me Now, Alok          1
+Stay (feat. Maty Noyes), Kygo          1
+Push It On Me - From “What Now?”, Kevin Hart          1
+4:00A.M., Taeko Onuki          1
+River, North Naim          1
+If I Didn't Have You, Mitchel Musso          1
+We Young, NCT DREAM          1
+Cover Girl, RuPaul          1
+Bad Thing Twice, Carly Rae Jepsen          1
+Lieder ohne Worte, Book 2, Op. 30 (Excerpts): No. 6 in F-Sharp Minor, MWV U 110 "Venetianisches Gondellied", Felix Mendelssohn          1
+Neon' / Director's Cut, Zion.T          1
+Chewing Gum, NCT DREAM          1
+Stay, TAEYEON          1
+Beautiful Mint Life, Stella Jang          1
+RUN2U (TAK Remix), STAYC          1
+Redneck Woman, Gretchen Wilson          1
+Rockin' Around The Christmas Tree, Brenda Lee          1
+Handel / Orch. Hale: Keyboard Suite No. 4 in D Minor, HWV 437: III. Sarabande, George Frideric Handel          1
+Not Alone, Girls' Generation          1
+UGH!, The 1975          1
+Taped Up Heart (feat. Clara Mae), KREAM          1
+Wherever You Will Go, The Calling          1
+Bloom, Gain          1
+MONTERO (Call Me By Your Name), Lil Nas X          1
+Final Song, MØ          1
+チューリップ, indigo la End          1
+Once Upon a Dream - From King Arthur Carrousel, The Fantasyland Band Organ          1
+Waking Up In Vegas, Katy Perry          1
+Roses, The Chainsmokers          1
+The Weekend (with 347aidan) - Remix, 88rising          1
+Feliz Navidad, José Feliciano          1
+Sometimes, Ariana Grande          1
+Falling Back, Drake          1
+(Everybody's Waitin' For) The Man With The Bag, Kay Starr          1
+Noctis, Rosa Løvstrøm          1
+When You're Gone, Shawn Mendes          1
+Cpr, cupcakKe          1
+Farewell, Echo River          1
+Bygone Days (From "Porco Rosso"), L'Orchestra Cinematique          1
+I Know a Place, Chevy          1
+Bye Bye Bye, *NSYNC          1
+MOVE, TAEMIN          1
+You & Me (Feat. Junoflo), Yoon Mirae          1
+梦蝶 - Dream to be a butterfly, Yue Yan Jen          1
+Boyfriend, Justin Bieber          1
+Parents, LANY          1
+Younger, Ruel          1
+Eh, Eh (Nothing Else I Can Say), Lady Gaga          1
+On the Hanriver, Kim Yuna          1
+Keyboard Sonata in A Major, K. 212: Allegro molto, Domenico Scarlatti          1
+Feel Something, Apink CHOBOM          1
+열기, LOONA          1
+Laputa: Castle In the Sky Suite, Eminence Symphony Orchestra          1
+부르지마, UP10TION          1
+Say You Won't Let Go, James Arthur          1
+Drop the beat (feat.B2K), SISTAR          1
+Stay The Night - featuring Hayley Williams of Paramore, Zedd          1
+Around the World, Daft Punk          1
+Critical Beauty, PENTAGON          1
+千と千尋の神隠し組曲(III. 神さま達 ), Orita Nobotta          1
+Christmalo.win, Seotaiji          1
+On the Hotline - Amended Version, Pretty Ricky          1
+Animal I Have Become, Three Days Grace          1
+Pads of Redemption, Masala Roo          1
+하.니.뿐., 2PM          1
+Bad, Lennon Stella          1
+Free Diving, Yoga          1
+Happy Now - Acoustic, Zedd          1
+Just the Way You Are, Bruno Mars          1
+OH NO,OH YES! - 2012 Remaster, Akina Nakamori          1
+Gravity, OH MY GIRL          1
+All I Know, The Weeknd          1
+Cooped Up (with Roddy Ricch), Post Malone          1
+Adore, Cashmere Cat          1
+MANIAC, Stray Kids          1
+Nails, Hair, Hips, Heels - Remix, Todrick Hall          1
+Speak Low, Naomi Akimoto          1
+Platonic Love, SNUPER          1
+Crazy Like You (feat. BIBI), CHUNG HA          1
+WA DA DA (Japanese version), Kep1er          1
+Button (feat. Anuel AA & Tainy), Maroon 5          1
+The Great Outdoors - From "Country Bear Vacation Hoedown", George Wilkins          1
+Somebody To Love, Justin Bieber          1
+august, Taylor Swift          1
+Meow, Cyclops          1
+Are U Having Any Fun? (feat. Meghan Tonjes), Hoodie Allen          1
+I Feel Good, EXID          1
+In My Mind, Mura Masa          1
+Shining Diamond (Performance Team Ver.), SEVENTEEN          1
+Don Giovanni, K. 527: Overture, Wolfgang Amadeus Mozart          1
+Judas, Lady Gaga          1
+Eastside (with Halsey & Khalid), benny blanco          1
+What a Girl Wants, Christina Aguilera          1
+Thunder, Imagine Dragons          1
+I Love You, I Remember You, I.O.I          1
+Purple, SOHLHEE          1
+Summer of Farewells (Sayonara No Natsu): From Up on Poppy Hill, daigoro789          1
+BREATHE, LeeHi          1
+Dirrty (feat. Redman), Christina Aguilera          1
+Psycho - Bonus Track, BAEKHYUN          1
+HARD 2 LOVE, Dalshabet          1
+Ke Cap Gap Ba Gia (feat. BINZ), Hoang Thuy Linh          1
+Say Yes (feat. Moon Byul), Punch          1
+Sure Thing, Miguel          1
+Beat of Angel, BoA          1
+Mama Said, Lukas Graham          1
+ID; Peace B, BoA          1
+Older, Conor Matthews          1
+Yesterday, Leona Lewis          1
+Sangria Wine, Pharrell Williams          1
+Ride It, Regard          1
+Equally Lost (feat. Doja Cat), Tove Lo          1
+Let It Go - From "Frozen"/Papercha$er Club Remix, Idina Menzel          1
+旅立ち - スーパー・サウンド・コレクション Vol.2 魔女の宅急便組曲, Orita Nobotta          1
+La Ciudad, ODESZA          1
+A Long Dream 긴 꿈, SE SO NEON          1
+NO HAY LEY, Kali Uchis          1
+R.E.M, Ariana Grande          1
+CACTUS, A.C.E          1
+3 Nights, Dominic Fike          1
+Say Ahh, Foz Tee          1
+A Spoonful Of Sugar - From "Mary Poppins", Kacey Musgraves          1
+I Wanna Dance with Somebody (Who Loves Me), Whitney Houston          1
+Live Like We're Dying, Kris Allen          1
+Sexy And I Know It, LMFAO          1
+Hung Up, Madonna          1
+Silent Night, Carpenters          1
+Stay Girls, Girls' Generation          1
+MILLIONS, WINNER          1
+The Happiest Christmas Tree, Nat King Cole          1
+Bends, Carly Rae Jepsen          1
+Yes Indeed, Lil Baby          1
+Youth (feat. Khalid), Shawn Mendes          1
+Perfect Blue, Macross 82-99          1
+Me Like Yuh (K) (Feat. Hoody), Jay Park          1
+Body Heat, Selena Gomez          1
+Rain Sound, MIGYO          1
+Run, BTS          1
+Sittin' Up In My Room, Brandy          1
+DUMDi DUMDi, (G)I-DLE          1
+Makes Me Wonder, Maroon 5          1
+Up! (Japanese version), Kep1er          1
+WAKE ME UP, TAEYANG          1
+Piano Quintet No. 2 in A Major, B.155: I. Allegro ma non tanto, Antonín Dvořák          1
+Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975, Bruce Springsteen          1
+넘버나인, T-ARA          1
+Malibu, Miley Cyrus          1
+BEEP BEEP, Girls' Generation          1
+Rock Your Body, Justin Timberlake          1
+Lost in the Fire, Gesaffelstein          1
+Fantastic Baby, BIGBANG          1
+Our Time Is Here, Demi Lovato          1
+wish you were gay, Billie Eilish          1
+Magic Shop, BTS          1
+Newsflash!, NIKI          1
+연습생, DIA          1
+I don't need you, CARLA          1
+The Twilight Zone Tower of Terror Theme - From "The Twilight Zone Tower of Terror", Richard Bellis          1
+EL DORADO - Chinese Version, EXO          1
+The Great Legend (Laputa, The Castle In The Sky), Eminence Symphony Orchestra          1
+A Bug's Life Suite - From A Bug’s Land, Randy Newman          1
+What Do I Call You, TAEYEON          1
+APPLE PIE, FIESTAR          1
+EASY GO, Girl's Day          1
+I Like That, Houston          1
+U R, TAEYEON          1
+Lead me, SISTAR          1
+Heart Attack, Demi Lovato          1
+Sex on Fire, Kings of Leon          1
+Build a Bitch, Bella Poarch          1
+Versace on the Floor, Bruno Mars          1
+Invisible - from the Netflix Film Klaus, Zara Larsson          1
+This Is Me, Demi Lovato          1
+Beautiful Creatures (feat. MAX), ILLENIUM          1
+SUMMERIDE, Jay Park          1
+El sombrero de tres picos - Arr. Szigeti: The Miller's Dance, Manuel de Falla Matheu          1
+Scarborough Fair (Arr. Parkin), Traditional          1
+Anxiety (with Selena Gomez), Julia Michaels          1
+A Different Side Of Me, Allstar Weekend          1
+Love In This Club (feat. Young Jeezy), Usher          1
+Ignite - 2016 League Of Legends World Championship, Zedd          1
+The Christmas Song (Merry Christmas To You), Nat King Cole          1
+A Dream Is A Wish Your Heart Makes - From "Cinderella", Jessie Ware          1
+Can't Hold Us (feat. Ray Dalton), Macklemore & Ryan Lewis          1
+Circle of Life (From "The Lion King") - From "The Lion King"/ Soundtrack, Carmen Twillie          1
+Beg, Jack & Jack          1
+Out of My Head (feat. Tove Lo and ALMA), Charli XCX          1
+Save Your Tears (Remix) (with Ariana Grande) - Bonus Track, The Weeknd          1
+Mr. Saxobeat - Radio Edit, Alexandra Stan          1
+Friend of Mine, Lily Allen          1
+Dessert, Dawin          1
+거북이 TURTLE, TWICE          1
+TENSE, BRONSON          1
+Sunday Candy, Donnie Trumpet & The Social Experiment          1
+Don't Tell 'Em, Jeremih          1
+My Man, Tamar Braxton          1
+LA chA TA, f(x)          1
+The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version), Taylor Swift          1
+Obsession (feat. Jon Bellion), Vice          1
+Log in, FIFTY FIFTY          1
+How To Love, Lil Wayne          1
+Insomnia, Stellar          1
+プラスティック・ラブ - 12" Original Length ReMix, Mariya Takeuchi          1
+Barcelona, Ed Sheeran          1
+Faded Dreams, Aaron Lansing          1
+MY I, SEVENTEEN          1
+We Rock, Cast Of Camp Rock          1
+Rêvasseur, Charmaine D'Avis          1
+Porco Rosso - Madness, Joe Hisaishi          1
+Okie From Muskogee, Merle Haggard          1
+Guantanamera - Live, Pete Seeger          1
+GOKIGEN SAYONARA - Korean ver., IZ*ONE          1
+サマー・ナイト, Marlene          1
+On a Clear Day (From "Kiki's Delivery Service") [Instrumental], daigoro789          1
+History, One Direction          1
+Twelve Days Of Christmas, Bing Crosby          1
+The Makings Of You, Tamar Braxton          1
+Girls Like You (feat. Cardi B) - Cardi B Version, Maroon 5          1
+Make You Feel My Love, Adele          1
+Right Side (Feat. Doja Cat), L8LOOMER          1
+Dear John, Taylor Swift          1
+LA Girls, Charlie Puth          1
+Can I, Genevieve Stokes          1
+Saturday Drip, NCT DREAM          1
+Grow, Conan Gray          1
+Tidal Flow, Yonder Dale          1
+Jupiter Sunrise, Oliver Évilo          1
+Tippy Toes, XG          1
+Girls, NATURE          1
+My oh My, Girls' Generation          1
+How I Roll, Britney Spears          1
+'Zat You, Santa Claus? - Single Version, Louis Armstrong          1
+Say Nothing (feat. MAY-A), Flume          1
+A Glowing Heart, Deep Inside          1
+Fallin' For You, Colbie Caillat          1
+Mis Dos Patrias, Los Tigres Del Norte          1
+Jasper's Song, Flume          1
+Sucker for You, Matt Terry          1
+Don't Matter, Hualyeogangsan          1
+Jnny, MAZ.B          1
+So Sorry, Orange Caramel          1
+Bad Girl Good Girl, miss A          1
+Pray, INFINITE          1
+Harder, Better, Faster, Stronger, Daft Punk          1
+Latch, Disclosure          1
+SLOW DANCING IN THE DARK, Joji          1
+What The Hell Happened To Us, Quinn XCII          1
+Romance, YOASOBI          1
+IDOL, BTS          1
+Morning Star (Babysoul & Kei & JIN), Lovelyz          1
+Who Cares If You Can't, Jaejoo Boys          1
+We Can't Be, Krissy          1
+Celandine, Francesca Caroléo          1
+Same Page, Vincent          1
+Baby's on Fire, Die Antwoord          1
+Wanna know 알고싶어, Ager          1
+Intro: Singularity, BTS          1
+Your Peace, The Tides          1
+Ideal, Zion.T          1
+Tia Tamera (feat. Rico Nasty), Doja Cat          1
+Moonlight, Ariana Grande          1
+Contrail, GFRIEND          1
+Despacito - Remix, Luis Fonsi          1
+누난 너무 예뻐 (Replay) - Live, SHINee          1
+Destiny 나의 지구, Lovelyz          1
+Symphony No. 41 in C Major, K. 551 "Jupiter": I. Allegro vivace, Wolfgang Amadeus Mozart          1
+Wine Pon You (feat. Konshens), Doja Cat          1
+BOOM, LEE MINHYUK (HUTA)          1
+ONLY, LeeHi          1
+Playing with the Boys - From "Top Gun" Original Soundtrack, Kenny Loggins          1
+Flare Guns, Quinn XCII          1
+Lucky, Jason Mraz          1
+Paris, The 1975          1
+this is me trying, Taylor Swift          1
+Taste of the first love (feat. Minseo), Taste of love          1
+My World, Weki Meki          1
+POSE, LOONA          1
+Rules, Doja Cat          1
+Valse triste, Op. 44, Jean Sibelius          1
+Ride (feat. Gary Clark Jr.), ZZ Ward          1
+N95, Kendrick Lamar          1
+Game, Doja Cat          1
+Way Out, Michael Bruner          1
+Buona notte, Callisto Mazzi          1
+Shooting Love, LABOUM          1
+Something About You - ODESZA Remix, Hayden James          1
+Radio, Dayglow          1
+Scars To Your Beautiful, Alessia Cara          1
+Answerphone (feat. Yxng Bane), Banx & Ranx          1
+Ms. Jackson, Outkast          1
+Beautiful Now - Marshmello Remix, Zedd          1
+교정기 Feels Like You, Risso          1
+Kids in Love (feat. The Night Game), Kygo          1
+Freaky Deaky, Tyga          1
+believe it, ed leigh          1
+Tongue Tied, Grouplove          1
+Leave Me Lonely, Ariana Grande          1
+Boom, Boom, Boom, Boom!!, Vengaboys          1
+Northern Star, Joseph McGrahl          1
+Boyfriend, Dove Cameron          1
+Fourthy Six, LIONAIRE          1
+youknowbetter 니가 더 잘 알잖아, Hyolyn          1
+Birthday, Katy Perry          1
+JUST A GIRL, 9MUSES          1
+A Hero's Song, Op. 111, B. 199, Antonín Dvořák          1
+Angels (feat. Saba), Chance the Rapper          1
+Better Together [Remastered 2018] - Instrumental, EXID          1
+Disconnect, Clean Bandit          1
+All We Need (feat. Shy Girls), ODESZA          1
+A Drug From God, Chris Lake          1
+a meeting at an oak tree (with Ned Green), Mura Masa          1
+Time to Begin, BoA          1
+Lost At Sea, Zedd          1
+The Loneliest Time (feat. Rufus Wainwright), Carly Rae Jepsen          1
+Revenge (feat. Eminem), P!nk          1
+Fly, Marshmello          1
+Bounce Back, Big Sean          1
+Not In That Way, Sam Smith          1
+Never Let You Go (feat. John Newman), Kygo          1
+The Very First Night (Taylor's Version) (From The Vault), Taylor Swift          1
+Papercut, Zedd          1
+Strong Enough, Cher          1
+Lionhearted, Porter Robinson          1
+Meow In Dubstep Wave - Instrumental, NN-Art          1
+Beyond Barricades, Claes Nilsson          1
+Shut Up & Groove (feat. DEAN) [From And July], HEIZE          1
+Another Life, Afrojack          1
+Artificial Love, EXO          1
+OUT OUT (feat. Charli XCX & Saweetie), Joel Corry          1
+I'm Yours, Jason Mraz          1
+No Surprise, Daughtry          1
+Where you at, LOONA          1
+내가 네게 (Whisper), Girls' Generation-TTS          1
+BEAUTIFUL, EXO          1
+Either Way (feat. Joey Bada$$), Snakehips          1
+Jealous (I Ain't With It), Chromeo          1
+Tomorrow's Song, Ólafur Arnalds          1
+海の見える街 - スーパー・サウンド・コレクション Vol.2 魔女の宅急便組曲, Orita Nobotta          1
+Never Leave Us, Tony Igy          1
+Etheral Beauty, Degravitated          1
+My Only Wish (This Year), Britney Spears          1
+Trust Me (BM&Somin ver.), KARD          1
+Kok Kok, Apink          1
+In the End, Linkin Park          1
+Ghetto Boy, Tinashe          1
+Ah puh, IU          1
+Shelter, Porter Robinson          1
+Sweet Witches, f(x)          1
+Prologue - Score Demo, Mark Mancina          1
+Addicted To A Memory, Zedd          1
+Everyday, Troy          1
+Introducing Me - From "Camp Rock 2: The Final Jam", Nick Jonas          1
+Shhhh, TAEYEON          1
+In The Dark, ooi          1
+Kick Back, WayV          1
+Rude Boy, Rihanna          1
+Sayuri's Theme - From "Memoirs Of A Geisha", John Williams          1
+O2, SUHO          1
+No Love (with SZA), Summer Walker          1
+We Are Young (feat. Janelle Monáe), fun.          1
+water color, Whee In          1
+Be My Baby, Ariana Grande          1
+Santa Baby, Ariana Grande          1
+Stuck, Monsta X          1
+Trip, Ella Mai          1
+CARE FOR ME, Mill Nashy          1
+Finding It There, Goldmund          1
+For What It's Worth, Bahari          1
+Complete, Girls' Generation          1
+Hello, SHINee          1
+Wild Ones (feat. Sia), Flo Rida          1
+Rapper's Delight - Long Version, The Sugarhill Gang          1
+I Don't Care, Ariana Grande          1
+Meow Meow Lullaby, Nada Surf          1
+Rainy Season, MAMAMOO          1
+0X1=LOVESONG (I Know I Love You) feat. Seori, TOMORROW X TOGETHER          1
+Ruin My Life, Zara Larsson          1
+Take Me Home, Terror Squad          1
+Wonderful love (EDM Ver.), MOMOLAND          1
+This Christmas, Donny Hathaway          1
+Single, Ne-Yo          1
+GIRL GIRL GIRL, Triple H          1
+Daylight, Taylor Swift          1
+Dormiveglia, Benjamin Gustafsson          1
+Speechless (feat. Erika Sirola), Robin Schulz          1
+Blank Space, Taylor Swift          1
+i get lonely around people, too, San Holo          1
+君をのせて, Yoshihiro Koseki          1
+Endymion, Réka Ioescu          1
+Someone You Loved, Lewis Capaldi          1
+Best Mistake, Ariana Grande          1
+Stay With Me (feat. Jeremy Zucker), ayokay          1
+Go Hard (La.La.La), Kreayshawn          1
+MMM, TREASURE          1
+Something About Us, Daft Punk          1
+Kill Your Mama, Alicia Keys          1
+Strange Fruit, Billie Holiday          1
+The Breaker, Little Big Town          1
+Hallucination, Regard          1
+Lush Life, Zara Larsson          1
+Four Jews In A Room Bitching, Andrew Rannells          1
+Down for You, Cosmo's Midnight          1
+Best Friend (feat. Doja Cat), Saweetie          1
+Matches, Cash Cash          1
+Secrets, Regard          1
+딱 좋아(Just right), GOT7          1
+Do You Hear What I Hear? - Remastered 2006, Bing Crosby          1
+SHADE, YUKIKA          1
+Be Natural (feat. SR14B 'TAEYONG (태용)'), Red Velvet          1
+All Mixed Up, Pete Seeger          1
+ME! (feat. Brendon Urie of Panic! At The Disco), Taylor Swift          1
+CHILLAX, TWICE          1
+Nothing Without You, The Weeknd          1
+Feel So Good, B.A.P          1
+She Don't Really Care_1 Luv, Alicia Keys          1
+Whistle, Flo Rida          1
+Silver Bells, Bing Crosby          1
+Simon Says, NCT 127          1
+Love Song, NCT 127          1
+Last Nite, The Strokes          1
+Home, Daughtry          1
+Liability, Lorde          1
+LIPS, Girls' Generation          1
+我知道要微笑, Eric Chou          1
+Questions, Chris Brown          1
+Holiday, T-ARA          1
+The Way I Are (Dance with Somebody) - DallasK Remix, Bebe Rexha          1
+동그라미의 꿈, DALsooobin          1
+I'm with You, Avril Lavigne          1
+Dancing On The Moon, Jessica          1
+Summertime In Paris, Jaden          1
+Feeling, AOA          1
+When I am with thee, IGRAINE          1
+Just Give Me a Reason (feat. Nate Ruess), P!nk          1
+Waiting for Superman, Daughtry          1
+Rich Love (with Seeb), OneRepublic          1
+You Found Me, The Fray          1
+The Ocean (feat. Shy Martin), Mike Perry          1
+Candy, Doja Cat          1
+Serendipity (Full Length Edition), BTS          1
+Showdown, Britney Spears          1
+Gold (Stupid Love), Excision          1
+#SELFIE - Botnek Remix, The Chainsmokers          1
+Love To Lay, The Weeknd          1
+I Saw Mommy Kissing Santa Claus, The Jackson 5          1
+Beautiful, Wanna One          1
+Dark Matter, Matter and Energy          1
+Our dawn is hotter than day, SEVENTEEN          1
+Keep Away - Bonus Track, Carly Rae Jepsen          1
+The Nutcracker, Op. 71: Act II Tableau 3: Variation 2: Dance of the Sugar-Plum Fairy, Pyotr Ilyich Tchaikovsky          1
+Holy War, Alicia Keys          1
+Just The Same, Charlotte Lawrence          1
+21 Guns, Green Day          1
+Titanium (feat. Sia), David Guetta          1
+quit, LANY          1
+Interstellar (feat. Sara Skinner), ATLiens          1
+Call Me, Beep Me! (The Kim Possible Song), Christina Milian          1
+A Bed Of Clouds, Gemma Casimaty          1
+Gift, BoA          1
+Off Top (feat. 42 Dugg), Latto          1
+The Way I Are (Dance with Somebody) (feat. Lil Wayne) - Spotify Version, Bebe Rexha          1
+Illusion Of Bliss, Alicia Keys          1
+Just Look Up (From Don’t Look Up), Ariana Grande          1
+No Police, Doja Cat          1
+Teru's Song (Movie Tales from Earthsea From), Kiriko          1
+Babay (feat. Gaeko), Zion.T          1
+The Girl Who Fell From The Sky (From "Laputa: Castle In The Sky"), L'Orchestra Cinematique          1
+Idea of You, ARTY          1
+Painkiller, Ruel          1
+Action! (Feat. GRAY), DPR LIVE          1
+Rumors, R3HAB          1
+メドレー:さんぽ/風のとおり道/ねこバス/となりのトトロ - Jazz コレクション Vol.1 〜映画「となりのトトロ」より〜, Orita Nobotta          1
+The Christmas List, Peggy Lee          1
+Trampoline, SHAED          1
+Taxi, Sunny Girls          1
+Color, Jung Jin Woo          1
+Done With Love, Zedd          1
+High Heels (Remix), Brave Girls          1
+What A Time (feat. Niall Horan), Julia Michaels          1
+20, SEVENTEEN          1
+All flights are delayed, YUKIKA          1
+Up, IZ*ONE          1
+Ready For Love, BLACKPINK          1
+Thirsty, Girl's Day          1
+Do You Wanna Do Nothing with Me?, Lawrence          1
+Ring Off, Beyoncé          1
+Be My Luck, UP10TION          1
+Outrageous, Britney Spears          1
+Scream, Usher          1
+ESCAPE (feat. KUČKA), Flume          1
+PLAY (feat. Changmo), CHUNG HA          1
+Seasons, Maroon 5          1
+Chasing Cars, Snow Patrol          1
+abcdefu (chill), GAYLE          1
+That's Not My Name, The Ting Tings          1
+LEMONS (feat. kennedi), Shawn Wasabi          1
+Say My Name, ATEEZ          1
+LA FAMA (with The Weeknd), ROSALÍA          1
+Yeowooya, JOY          1
+アシタカせっ記, Yoshihiro Koseki          1
+Mmm Papi, Britney Spears          1
+Afterlife (Remix by Frank Pole), Frank Pole          1
+O Little Town Of Bethlehem, Nat King Cole          1
+I Wanna Be Yours, Pink Sweat$          1
+Use Somebody, Kings of Leon          1
+seoul (prod. HONNE), RM          1
+Phosphenes, Koby Laver          1
+Nemo Egg (Main Title), Thomas Newman          1
+Work On It, Alicia Keys          1
+Piano Sonata in F-Sharp Minor: III. Andante, Igor Stravinsky          1
+Dancing King - Instrumental, Yoo Jae Seok          1
+Ric Flair Drip (with Metro Boomin), Offset          1
+Words, Daya          1
+Windy Windy, GFRIEND          1
+Yes No Maybe, Suzy          1
+Ring (feat. Kehlani), Cardi B          1
+Blueberry Faygo, Lil Mosey          1
+Blood, DAY6          1
+Heartbreak Anthem (with David Guetta & Little Mix), Galantis          1
+Pinwheel, SEVENTEEN          1
+And You Don't Remember, Mariah Carey          1
+Heading West, Luna Meguise          1
+ENEMY, KARD          1
+Tout un monde lointain - Concerto for cello & orchestra: 1. Enigme, Henri Dutilleux          1
+Christmas Dream, Perry Como          1
+Carnival of the Animals, R. 125: Introduction and Royal March of the Lion, Camille Saint-Saëns          1
+please, Chelsea Cutler          1
+Fruity, chloe moriondo          1
+Mama Look at Me Now, Galantis          1
+WHISTLE (Acoustic Ver.), BLACKPINK          1
+Change Your Life, Little Mix          1
+Better Not (with Wafia), Louis The Child          1
+y don't u, ed leigh          1
+All I Want For Christmas (Is My Two Front Teeth), Nat King Cole Trio          1
+La La Lost You, 88rising          1
+Carry on Wayward Son, Kansas          1
+Wi Ing Wi Ing, HYUKOH          1
+Paradise, BTS          1
+Remedy (feat. Stevie Nicks), Maroon 5          1
+Americano, Lady Gaga          1
+Me and Your Mama, Childish Gambino          1
+Mele Kalikimaka - Single Version, Bing Crosby          1
+보름달, SUNMI          1
+Love Is Everything, Ariana Grande          1
+2021, Lauv          1
+Blame (feat. John Newman), Calvin Harris          1
+DRAMARAMA, Monsta X          1
+Girl Of My Dreams (with SUGA of BTS), Juice WRLD          1
+Glitch Mode, NCT DREAM          1
+Lights - Single Version, Ellie Goulding          1
+Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version, Gene Autry          1
+The Other Side (Alessia Cara Version), Alessia Cara          1
+Love Drunk, Boys Like Girls          1
+Runner, UP10TION          1
+String Quintet in E Major, Op. 11 No. 5, G. 275: III. Minuetto (Featured in "The Ladykillers"), Luigi Boccherini          1
+Nobody's Love, Maroon 5          1
+comethru, Jeremy Zucker          1
+Shooting Star, Carly Rae Jepsen          1
+Con Calma, Daddy Yankee          1
+Gangsta Boy, f(x)          1
+I Took A Pill In Ibiza - Seeb Remix, Mike Posner          1
+A Day For Love, YUKIKA          1
+Done for Me (feat. Kehlani), Charlie Puth          1
+All Falls Down (feat. Juliander), Alan Walker          1
+Lonely St., Stray Kids          1
+One Light (feat. Bantu), Maroon 5          1
+Meow Meow Meow Kitty Song!, Redheat          1
+Fix You, Coldplay          1
+Hands on me, PRODUCE 101          1
+Bootylicious, Destiny's Child          1
+Meow - Original Mix, Magma Kum          1
+Flowers On The Floor, LANY          1
+Fly, GOT7          1
+Still Now, MVS          1
+Stay Young, Mike Perry          1
+Shower, Becky G          1
+Where You Are, Christopher Jackson          1
+All My Friends (feat. Tinashe & Chance the Rapper), Snakehips          1
+Die Hard, Kendrick Lamar          1
+God Rest Ye Merry Gentlemen, Bing Crosby          1
+Hurts 2B Human (feat. Khalid), P!nk          1
+Technically Single, Tayler Buono          1
+Shampoo, After School          1
+Dumb Blonde (feat. Nicki Minaj), Avril Lavigne          1
+Try Me, The Weeknd          1
+Anyone of Us (Stupid Mistake), 葛瑞蓋斯          1
+Adventure of a Lifetime, Coldplay          1
+Bye Bye, Mariah Carey          1
+Hidden Beauty, Cap Kendricks          1
+love sick, MOMOLAND          1
+MOYA, AOA          1
+More Than Words, Niccolò Pagliani          1
+你,好不好? - TVBS連續劇【遺憾拼圖】片尾曲, Eric Chou          1
+Bourbon, Gallant          1
+Work It, Missy Elliott          1
+Can't You See Me?, TOMORROW X TOGETHER          1
+I don't need a man (남자 없이 잘 살아), miss A          1
+Something New - Instrumental, TAEYEON          1
+My House, Flo Rida          1
+Instant Crush (feat. Julian Casablancas), Daft Punk          1
+All My Heroes, Bleachers          1
+Lost, Maroon 5          1
+It Happens Every Time, Dream Street          1
+You Should Be Here, Kehlani          1
+Never Grow Up, Taylor Swift          1
+Loved By U, TOKiMONSTA          1
+Golden Butterflies - Day 5, Ludovico Einaudi          1
+I Wanna Die, ooi          1
+봄이라서 그래, Jessica          1
+Memory, IZ*ONE          1
+Angel, Chancellor          1
+Teneriffa, V.Raeter          1
+LALALA (feat. SURAN & Loco) - Deun Ji Mix, BUMKEY          1
+Love U Right, Tritonal          1
+Not Barbie, Tiffany Young          1
+Crazy Dog, BIGBANG          1
+9 (After Coachella) (feat. MØ & SOPHIE), Cashmere Cat          1
+Could You Be My Song 새벽☆, SBGB          1
+Sweet Love, Chris Brown          1
+Moment 4 Life, Nicki Minaj          1
+On & On, Erykah Badu          1
+OVERCOME, NU'EST          1
+Love Month, YUKIKA          1
+Hurt You, Connie Constance          1
+WANNA BE MYSELF, MAMAMOO          1
+Float On, Modest Mouse          1
+What Are You Doing New Year's Eve?, Ella Fitzgerald          1
+Morning, Marc E. Bassy          1
+Focus, Ariana Grande          1
+The Merry-go-round of Life (Movie Howl's Moving Castle From), Kiriko          1
+goodnight n go, Ariana Grande          1
+Tally, BLACKPINK          1
+어리지 않아, U-KISS          1
+The Story, Conan Gray          1
+What Do I Know?, Ed Sheeran          1
+Cold Shoulder (Basement Jaxx DUBB), Adele          1
+終於了解自由, Eric Chou          1
+Angel, BerryGood          1
+Be There For You, JOY          1
+React, The Pussycat Dolls          1
+I've Got My Love To Keep Me Warm, Ella Fitzgerald          1
+Valerie - Live At BBC Radio 1 Live Lounge, London / 2007, Amy Winehouse          1
+Hide & Seek, LOONA          1
+Laputa (excerpts) (arr. P. Breiner), Peter Breiner          1
+Playing With Fire, Chelsea Grin          1
+Your Side Of The Bed, Loote          1
+Go, Louis The Child          1
+Take It Off, Keys N Krates          1
+Beautiful Now - Big Gigantic Remix, Zedd          1
+ROYAL, IVE          1
+WITHOUT YOU (Sung by KUN, JAEHYUN, DOYOUNG, TAEIL) - Chinese Version, NCT U          1
+all the kids are depressed, Jeremy Zucker          1
+Dangerous, f(x)          1
+Push It (Glee Cast Version), Glee Cast          1
+Werkin' Girls, Angel Haze          1
+Squidward Nose, cupcakKe          1
+The Mack, Nevada          1
+The River on that Day (Movie Spirited Away From), Kiriko          1
+Between Moments, Rand Aldo          1
+Cool Yule, Louis Armstrong          1
+Takin' Over The World, The Pussycat Dolls          1
+Put Your Hearts Up, Ariana Grande          1
+Stone Cold, Demi Lovato          1
+유리아이 (Lost In Love), Girls' Generation          1
+Water Music Suite No. 1 in F Major, HWV 348: II. Adagio e staccato, George Frideric Handel          1
+Deep Blue Eyes, Girls Next Door          1
+Yeah Yeah Yeah, BLACKPINK          1
+D.A.N.C.E, Justice          1
+Secreto, Anuel AA          1
+Mayonaka no Door / Stay With Me, Miki Matsubara          1
+Big Girls Cry, Sia          1
+FEELS (BAEKHO SOLO), NU'EST W          1
+空から降ってきた少女, Yoshihiro Koseki          1
+No Guidance (feat. Drake), Chris Brown          1
+2 U (feat. Anthony Pavel), Pink Slip          1
+Girl Gang, H.U.B          1
+Songs Without Words, Book VI Opus 67: No. 2 in F-Sharp Minor, Felix Mendelssohn          1
+상상더하기, LABOUM          1
+Fine on the Outside (From "When Marnie Was There") [Instrumental Mix] - Retro Classic, Anime Kei          1
+Woman (feat. The Dap-Kings Horns), Kesha          1
+Love to Keep Me Warm, Laufey          1
+3 Pieces in Baroque Style: No. 1. Aria, Krzysztof Penderecki          1
+1ST, Moise          1
+Daisy, PENTAGON          1
+A Change Is Gonna Come, Sam Cooke          1
+Lily (Feat.Ro Woon of SF9), AOA          1
+Natural, GSoul          1
+Airplane mode, NOIR          1
+Blended Family (What You Do For Love), Alicia Keys          1
+Shed a Light, Robin Schulz          1
+CLAP, SEVENTEEN          1
+Crush Culture, Conan Gray          1
+Solêr, Otto A. Totland          1
+TIME'S UP, 9MUSES          1
+Satisfied (feat. MAX), Galantis          1
+La La La, Naughty Boy          1
+Rudolph The Red-Nosed Reindeer, Burl Ives          1
+Symphony No. 2 in G ‘A London Symphony’: I. Lento - Allegro resoluto, Ralph Vaughan Williams          1
+Rise Up, Imagine Dragons          1
+Ugly, 2NE1          1
+보라빛 향기, 강수지          1
+It's Not A Dream (From "When Marnie Was There") - Cover Version, L'Orchestra Cinematique          1
+Find You, Zedd          1
+Say Something, A Great Big World          1
+Rooftop, Zara Larsson          1
+Bad Decisions, Ariana Grande          1
+Cookie Jar, Doja Cat          1
+How's this, HyunA          1
+Slow It Down, Charlie Puth          1
+Can't Let Go, Mariah Carey          1
+Echo (feat. blackbear), Maroon 5          1
+heyahe, ONE          1
+Levanter, Stray Kids          1
+Slowly Relaxing, Johann Eder          1
+Bizzare Love Triangle, Pavi With Tropicalia          1
+quiero sentirme bien, Kali Uchis          1
+Government Hooker, Lady Gaga          1
+Baby Powder, Jenevieve          1
+Ava, Kasper Schill          1
+Beautiful, Christina Aguilera          1
+Make Me... (feat. G-Eazy) (feat. G-Eazy), Britney Spears          1
+Like the Movies, Laufey          1
+Orfeo ed Euridice, Wq. 30: Danse des champs-elysées "Mélodie" (Arr. I. Friedman for Piano), Christoph Willibald Gluck          1
+Make Me (Cry), Noah Cyrus          1
+Montero & Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": II. Largo, Gabriela Montero          1
+Nocturnes, Op. 9, Frédéric Chopin          1
+Christmas (Baby Please Come Home), Darlene Love          1
+Miss Right, TEEN TOP          1
+I'm In Love (Yoshizawa dynamite.jp Gimmick Edit), Aru Takamura          1
+Without Me, Halsey          1
+Joshua Tree, Carly Rae Jepsen          1
+Overtime, LANY          1
+アシタカとサン - Piano Solo Feature, Orita Nobotta          1
+Grandes études de Paganini, S.141: No. 3 in G-Sharp Minor "La campanella", Franz Liszt          1
+I'm In Love With You, The 1975          1
+feel like shit, Tate McRae          1
+Cause I'm God Girl (Feat. Il Hoon Jung Of BTOB), HyunA          1
+The Best of Both Worlds - From "Hannah Montana"/Soundtrack Version, Hannah Montana          1
+IF I, SEVENTEEN          1
+Dancing On My Own, Calum Scott          1
+I Can't Stand The Rain, SuperM          1
+Dreams Come True, ASTRO          1
+Howl's Moving Castle, Joe Hisaishi          1
+KNOCK, KNK          1
+Stand up!, f(x)          1
+The Eye, INFINITE          1
+Grave of the Fireflies Theme (From 'Grave of the Fireflies'), Anime Kei          1
+Diamonds, Catching Flies          1
+DDANG Remix (EASTLIGHT & KUSSIUS), SURAN          1
+Go The Distance, Lucas Grabeel          1
+My Style, f(x)          1
+So into U, f(x)          1
+Candy Jelly Love, Lovelyz          1
+Make It Happen, Mariah Carey          1
+Western Wind, Carly Rae Jepsen          1
+Look At Me, UP10TION          1
+Perfect (Remix) (feat. Doja Cat & BIA), Cousin Stizz          1
+Complex, Zion.T          1
+Playback, PLAYBACK          1
+Booty Me Down, Kstylis          1
+Mirror, FIESTAR          1
+Leo (feat. BAEKHYUN), BOL4          1
+The 1975 - Live From The O2, London. 16.12.16, The 1975          1
+Hero, Mariah Carey          1
+TIKI TAKA, T-ARA          1
+7 Years, Lukas Graham          1
+I Want To See You Again, SUNNYSIDEMJ          1
+GROWING UP IS _____, Ruel          1
+200%, AKMU          1
+Lovesick, Maroon 5          1
+Hot Pink - Remix, EXID          1
+Jingle Bell Rock, Bobby Helms          1
+Hang With Me, Robyn          1
+XOXO, EXO          1
+Blue Christmas, Elvis Presley          1
+Happy Birthday To You, JOY          1
+The Lights of Seoul - English Version, BoA          1
+보내줄게 Let You Go, Yubin          1
+어쩌다, Brown Eyed Girls          1
+완전 미쳤네 - Chinese Version, T-ARA          1
+Cock-Eyed Optimist, Susan Egan          1
+(I Got That) Boom Boom (feat. Ying Yang Twins), Britney Spears          1
+Steal My Show, TobyMac          1
+Loveliness, Jean Petri          1
+CELEBRATE, Highlight          1
+비밀 Secret, TAEYEON          1
+Constellation, Win and Woo          1
+Supernova, Ansel Elgort          1
+Ride (feat. Ludacris), Ciara          1
+…Is It OK?, f(x)          1
+Never Be Like You (feat. Kai), Flume          1
+Out of Time, The Weeknd          1
+A Marshmallow World, Darlene Love          1
+So Nice, Carly Rae Jepsen          1
+Drama, AJR          1
+같은 시간 같은 자리 Walk you home, NCT DREAM          1
+Runaway (U & I), Galantis          1
+Springirls, Sunwoojunga          1
+Cool Girl, Tove Lo          1
+Lovesick, APRIL          1
+Viva La Vida, Coldplay          1
+Why Haven't I Met You?, Cameron Dallas          1
+The Beginning (Interlude), Alicia Keys          1
+Can I Get It, Adele          1
+Mariposa, Peach Tree Rascals          1
+MY TREASURE, TREASURE          1
+Steady 1234 (feat. Jasmine Thompson & Skizzy Mars), Vice          1
+Hey Brother, Avicii          1
+No Thinking Over the Weekend - Bonus Track, Carly Rae Jepsen          1
+What's your name?, 4Minute          1
+White Christmas, Bing Crosby          1
+Free Bird, Lynyrd Skynyrd          1
+人生のメリーゴーランド, Yoshihiro Koseki          1
+Fermata - Instrumental, Girls' Generation-Oh!GG          1
+Mornig Star (Babysoul & Kei & JIN), Lovelyz          1
+Counting Stars, OneRepublic          1
+PLAY, CHUNG HA          1
+Stay Stay Stay (Taylor's Version), Taylor Swift          1
+Raimon de Miraval: Aissi cum es genser Pascors, Jordi Savall          1
+이별 영화, T-ARA          1
+Shallow - Radio Edit, Lady Gaga          1
+Far Away, Carly Rae Jepsen          1
+Light, San Holo          1
+Bungee, BAEKHYUN          1
+UGH! - Live From The O2, London. 16.12.16, The 1975          1
+Thinking of You, Streetlight Cadence          1
+Spell, NIKI          1
+Come as you are, UP10TION          1
+Look At Me, Girls' Generation          1
+Talk Dirty (feat. 2 Chainz), Jason Derulo          1
+One Thing, One Direction          1
+Hand in Hand, I.O.I          1
+La La Love, NCT DREAM          1
+Hello Future, NCT DREAM          1
+Autumn Leaves, JUNE          1
+Higher Ground (Reprise) (feat. Naomi Wild), ODESZA          1
+Big Energy, Latto          1
+Shower, OH MY GIRL          1
+Lot to Learn, Luke Christopher          1
+RUN, BTS          1
+Empty Cups, Charlie Puth          1
+TROUBLE, EXID          1
+Carol of the Bells, Mykola Dmytrovych Leontovych          1
+MOON MOVIE, Moon Byul          1
+Hung Up, Tritonal          1
+스트레스 Stress, TAEYEON          1
+Alive, Zeds Dead          1
+shut up, Greyson Chance          1
+Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (Arr. I. Friedman for Piano), Johann Sebastian Bach          1
+Crying out, D.O.          1
+My Favorite Part, Mac Miller          1
+Un rêve merveilleux, Octave Rivière          1
+Allow Me To Dream, Judithe Abelsen          1
+DRIVE (Feat. GRAY), Jay Park          1
+Heart Attack (MY OH MY) (심장어택 (MY OH MY)), myB (마이비)          1
+HIGHLIGHTS FROM PRINCESS MONONOKE, Japan Ground Self Defense Force Central Band          1
+Nature, John Ocean          1
+Reverie, LUCHS          1
+Everybody Talks, Neon Trees          1
+Feel Good Inc., Gorillaz          1
+Convince Me Otherwise (with H.E.R.), Maroon 5          1
+Beggin', Måneskin          1
+The Other, Lauv          1
+니가 하면 If You Do, GOT7          1
+Forever, Martin Garrix          1
+Hypotheticals, Lake Street Dive          1
+Your Love, Nicki Minaj          1
+Life's Too Short (English Version), aespa          1
+Fête des belles eaux, II/14: Oraison, Olivier Messiaen          1
+Know Who You Are, Auli'i Cravalho          1
+ナウシカ・レクイエム, Yoshihiro Koseki          1
+Pon Mi x Opera, IzzyIzTrash          1
+I Am Moana (Song of the Ancestors), Rachel House          1
+Doorways, Abhi The Nomad          1
+We Wish You A Merry Christmas, John Denver          1
+Somnolence, Zak Brady          1
+#thatPOWER, will.i.am          1
+Lonely, JONGHYUN          1
+The Rainbow Caverns - From Mine Train Through Nature’s Wonderland, George Bruns          1
+Faded, Alan Walker          1
+Try Sleeping with a Broken Heart, Alicia Keys          1
+Say, Ruel          1
+Spring Day, BTS          1
+The Middle, Jimmy Eat World          1
+I'm in Love, Tomoko Aran          1
+Lavender and Velvet, Alina Baraz          1
+Getting Dark, Josep Alba          1
+CRZY, Kehlani          1
+Bones (feat. OneRepublic), Galantis          1
+King of Anything, Sara Bareilles          1
+Meow Meow Meow, Redheat          1
+Hi~, Lovelyz          1
+Confession (고백), ASTRO          1
+Back To Sleep, Chris Brown          1
+Give it to me, SISTAR          1
+H.S.K.T. (feat. Wonstein), LeeHi          1
+everytime, Ariana Grande          1
+Gotta Make It (feat. Twista), Trey Songz          1
+No.1, BoA          1
+You In Me, KARD          1
+Crush U (N-POP) with yoonsang, EXO-CBX          1
+If the World Was Ending (feat. Julia Michaels), JP Saxe          1
+Stole the Show, Kygo          1
+Endless Dreams, Vilhelm Brandt          1
+Melting, Kali Uchis          1
+RING X RING, Billlie          1
+New Flame, Chris Brown          1
+Awoo, LIM KIM          1
+This Must Be My Dream, The 1975          1
+Busted, Candace          1
+Love Is Only You, AOA          1
+Women of Piccolo (From "Porco Ross") - Cover Version, L'Orchestra Cinematique          1
+This Is America, Childish Gambino          1
+Superwoman, MINZY          1
+HALA HALA (Hearts Awakened, Live Alive), ATEEZ          1
+Cherries Jubiles - Acoustic Version, YUKIKA          1
+Memories That You Call (feat. Monsoonsiren) - ODESZA & Golden Features VIP Remix, ODESZA          1
+Be as ONE (Korean Ver.), TWICE          1
+SWIPE, ITZY          1
+Came To Do (feat. Akon), Chris Brown          1
+Malibu Nights, LANY          1
+Plot Twist, NIKI          1
+For now, Leah Maur          1
+So Close, NOTD          1
+Find Me, Jun Hyo Seong          1
+Stay The Night - Featuring Hayley Williams Of Paramore, Zedd          1
+Midsummer Madness, 88rising          1
+Dreaming, NCT DREAM          1
+Focus, H.E.R.          1
+Under Caffeine, Stella Jang          1
+Needed Me, Rihanna          1
+What What, Quintino          1
+Yume wo Miteiru Aida - IZ*ONE Ver., IZ*ONE          1
+Big Plans, Why Don't We          1
+do re mi, blackbear          1
+EXODUS, EXO          1
+Hellevator, Stray Kids          1
+Suitcase and a Dream - From Buena Vista Street, Daniel Payson-Lewis          1
+I Can't Tell (feat. LAUREL), Flume          1
+Untitled, Jupiter Grains          1
+Time Bomb, The Chainsmokers          1
+7 Things - Single Version, Miley Cyrus          1
+Take Me Out, Franz Ferdinand          1
+Where Do We Begin Now, Alicia Keys          1
+東京エキストラ, I Don't Like Mondays.          1
+The Real One, Boys Republic          1
+4 Walls - inst, f(x)          1
+First Love, CLC          1
+Level 1000 (feat. Dok2), Jay Park          1
+Empire State Of Mind, JAY-Z          1
+Hug U, DIA          1
+Sober, P!nk          1
+So Fantasic, Boys Republic          1
+Because of you, After School          1
+Remember (with ZOHARA), Gryffin          1
+Caroling, Caroling, Nat King Cole          1
+Across The Room (feat. Leon Bridges), ODESZA          1
+Sonata for 2 Pianos in D Major, K. 448/375a: I. Allegro con spirito, Wolfgang Amadeus Mozart          1
+Let 'Em Talk (feat. Eagles of Death Metal), Kesha          1
+Rehab - Pharoahe Monch Remix, Amy Winehouse          1
+Going Crazy, EXO          1
+What's Happening?, B1A4          1
+Primadonna, MARINA          1
+Sweater Weather, The Neighbourhood          1
+Journey To The West (From "Princess Mononoke") - Cover Version, L'Orchestra Cinematique          1
+Hooked On A Feeling, Blue Swede          1
+Un-thinkable (I'm Ready), Alicia Keys          1
+Arriving, Hilder Sky          1
+You Right, Doja Cat          1
+Not Like The Movies, Katy Perry          1
+Buttons - Featuring Big Snoop Dogg, The Pussycat Dolls          1
+Mr-Ambiguous, MAMAMOO          1
+FLY BOY, Dalshabet          1
+A Change of Heart - Live From The O2, London. 16.12.16, The 1975          1
+Anxious - Bonus Track, Carly Rae Jepsen          1
+Savior (feat. B.I), LeeHi          1
+POP/STARS, K/DA          1
+ICU, aespa          1
+Stay With Me, CHANYEOL          1
+Roll With Us, Doja Cat          1
+Can I Have This Dance, High School Musical Cast          1
+What About Now, Daughtry          1
+six thirty, Ariana Grande          1
+Noonchi, Chimmi          1
+Merry Christmas Darling - Remix, Carpenters          1
+Today you, Brave Girls          1
+I Write Sins Not Tragedies, Panic! At The Disco          1
+The Climb, No Doubt          1
+YOUR SONG (with Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah), Sam Kim          1
+No Problem (feat. Lil Wayne & 2 Chainz), Chance the Rapper          1
+Roller Girl, BESTie          1
+Sunroof, Nicky Youre          1
+LET’S NOT FALL IN LOVE, BIGBANG          1
+Love Me, Elvis Presley          1
+She's American, The 1975          1
+Kings of Summer - Single Version, ayokay          1
+비 오는 밤이니까요, nokdu          1
+Love Me Now, John Legend          1
+circumspect, Lori Dulac          1
+Carnival of the Animals, R. 125: Tortoises, Camille Saint-Saëns          1
+Bubble Pop!, HyunA          1
+Let Me Hold You (Turn Me On), Cheat Codes          1
+Hourglass, Zedd          1
+LUCID, Rina Sawayama          1
+Out My Mind, Tritonal          1
+Advice, TAEMIN          1
+TinkerBell, APRIL          1
+BedRock, Young Money          1
+Get You (feat. Kali Uchis), Daniel Caesar          1
+Rock U, KARA          1
+Airplane pt.2, BTS          1
+Help Me, (G)I-DLE          1
+Piano Concerto No. 5 in E-Flat Major, Op. 73 "Emperor": 2. Adagio un poco mosso, Ludwig van Beethoven          1
+The 1975, The 1975          1
+Outro: Tear, BTS          1
+Sarah Smiles, Panic! At The Disco          1
+Mr. Know It All, Kelly Clarkson          1
+Karma Butterfly, Girls' Generation          1
+WANNABE - English Ver., ITZY          1
+아로아로, LABOUM          1
+Left to Right, Marteen          1
+Attention, The Weeknd          1
+Lose You Too, shy martin          1
+a lot, 21 Savage          1
+HEART ATTACK (feat. lau.ra), BRONSON          1
+No One - Acoustic, Alicia Keys          1
+LOVE ME RIGHT - Chinese Version, EXO          1
+Happier, Scott Bradlee's Postmodern Jukebox          1
+Fine on the Outside: When Marnie was There, daigoro789          1
+Let Me Hold You (feat. Omarion), Bow Wow          1
+(There's No Place Like) Home for the Holidays - 1959 Version, Perry Como          1
+HIGHLIGHTS FROM SPIRITED AWAY, Japan Ground Self Defense Force Central Band          1
+Snowman, APRIL          1
+Epos, Zedd          1
+Go, Jay Park          1
+童話, Michael Wong          1
+Dancing On My Own, Robyn          1
+Six Feet Under, The Weeknd          1
+Breakthrough, Adam Hicks          1
+This I Promise You, *NSYNC          1
+3.6.5, EXO          1
+Identity, 9MUSES          1
+Late Night Feelings (feat. Lykke Li), Mark Ronson          1
+Cornelia Street, Taylor Swift          1
+MIDNIGHT BLUE, AB6IX          1
+One and Only, RYEOWOOK          1
+Time Travel, Antologie          1
+La Lluvia, Relajar          1
+I Got U, Duke Dumont          1
+Chiudete Gli Occhi, Artemio Li Fonti          1
+tell me, lev          1
+Call to Rest, Dreamscaper          1
+WATERGIRL, Cashmere Cat          1
+Pass The ZigZags, RBL Posse          1
+Pretty Hurts, Beyoncé          1
+Don't Cha - Radio Edit, The Pussycat Dolls          1
+Six Feet Under, VIXX          1
+도도해, Zion.T          1
+Make a Move, BoA          1
+Keeping Your Head Up, Birdy          1
+Ready or Not, SHINee          1
+リンガ・フランカ, Girls' Generation          1
+Monster, Lady Gaga          1
+I Don’t Think That I Like Her, Charlie Puth          1
+So High, Doja Cat          1
+Ponyo on the Cliff (Movie Ponyo on the Cliff by the Sea From), Kiriko          1
+Kołysanka, Idzi Kowalczyk          1
+Drip or Drown, Gunna          1
+Just a Friend to You, Meghan Trainor          1
+Who Are You (Feat. SEULGI of Red Velvet), BamBam          1
+CLOVER, fromis_9          1
+Deal Wiv It (with slowthai), Mura Masa          1
+Jealous (I Ain't With It) - Dillon Francis Remix, Chromeo          1
+Quit You, Lost Kings          1
+Beautiful, Doja Cat          1
+Courage, Antoine Minot          1
+New Me, WJSN          1
+positions, Ariana Grande          1
+The Greatest, Sia          1
+Goodbye, 2NE1          1
+If You're Not The One, Daniel Bedingfield          1
+Look Back at It, A Boogie Wit da Hoodie          1
+Welcome to Radiator Springs - From Cars Land (Area Music), Larry The Cable Guy          1
+Dynamite (feat. Pretty Sister), Nause          1
+Comic Sans (feat. Jack Harlow), AUDREY NUNA          1
+Better Not - Acoustic, Louis The Child          1
+Meow., Dosbomb.          1
+Oscar, Apink CHOBOM          1
+Pawn It All, Alicia Keys          1
+Baby Don't Play, Wonder Girls          1
+CRUEL, TWICE          1
+Bottle Pop, The Pussycat Dolls          1
+Lift Yourself, Kanye West          1
+Leap forward (Intro), YUKIKA          1
+Run Rudolph Run, Chuck Berry          1
+If We Have Each Other, Alec Benjamin          1
+iffy (Prod. GroovyRoom), Sik-K          1
+WAKE ME UP, B.A.P          1
+Elevated, RKCB          1
+Loved, Wonder Girls          1
+Super Hot, PRODUCE 101          1
+Who Will I Be - From "Camp Rock"/Soundtrack Version, Demi Lovato          1
+What it Takes, Aaryn Doyle          1
+Mr. Simple, SUPER JUNIOR          1
+Christmas Time Is Here, Vince Guaraldi Trio          1
+Apologize, Timbaland          1
+Turn Me On, Norah Jones          1
+What I've Done, Linkin Park          1
+The Right Song, Tiësto          1
+Distraction, Kehlani          1
+no song without you, HONNE          1
+Let's Do This, Hannah Montana          1
+Summer Storm, Jessica          1
+Cinderella, CNBLUE          1
+Let's Get It Started - Spike Mix, Black Eyed Peas          1
+Hark! The Herald Angels Sing/It Came Upon A Midnight Clear - Medley / Remastered 2006, Bing Crosby          1
+Let's Dance at Disneyland - From "Plaza Gardens", The Elliott Brothers          1
+DJ Got Us Fallin' In Love, Usher          1
+Closing - From Main Street, U.S.A., Wayne Allwine          1
+I miss you, I’m sorry, Gracie Abrams          1
+Cold Shoulder, Adele          1
+黏黏, Eric Chou          1
+Goldberg Variations, BWV 988: Var. 13 a 2 Clav., Johann Sebastian Bach          1
+Crazy Blues, Mamie Smith          1
+Tears Dry On Their Own, Amy Winehouse          1
+Beautiful Now - Dirty South Remix, Zedd          1
+다녀가요, LOONA          1
+If I, Aguava          1
+Spirited Away - One Summer's Day, Joe Hisaishi          1
+You Like, Chris Brown          1
+Will you be there when I wake up, Gemma Casimaty          1
+Sirens (feat. Caroline Polachek), Flume          1
+Trust Nobody, Cashmere Cat          1
+Superman (It's Not Easy), Five For Fighting          1
+TWINKLR, TWINKLR, Girl's Day          1
+Club Can't Handle Me (feat. David Guetta) - From the Step Up 3D Soundtrack, Flo Rida          1
+4 Minutes (feat. Justin Timberlake & Timbaland), Madonna          1
+MIDDLE CHILD, J. Cole          1
+Fantasy, VIXX          1
+Sleigh Ride, The Ronettes          1
+Imposter Syndrome, Rick Clark          1
+Wildest Dreams (Taylor's Version), Taylor Swift          1
+Upside Down, Paloma Faith          1
+B-DAY, iKON          1
+What Kind Of Mother?, Cheryl Freeman          1
+Submarine Voyage - From Finding Nemo Submarine Voyage, Thomas Newman          1
+Inside Out, The Chainsmokers          1
+I Need A Friend, YUKIKA          1
+Finally In Peace, Ronald Sims          1
+우아해, Crush          1
+One Call Away, Charlie Puth          1
+The King, Conan Gray          1
+Go Away, 2NE1          1
+Jet Lag, NCT 127          1
+아끼지마 Don't Be Shy (feat. ChoA(AOA), IRON), Primary          1
+abcdefu (demo), GAYLE          1
+Color Me, Weki Meki          1
+Where U At, TAEYANG          1
+Budapest, George Ezra          1
+SUPERMODEL, Måneskin          1
+Ain't Shit, Doja Cat          1
+Drunk Texting (feat. Jhené Aiko), Chris Brown          1
+Loving Is Easy (feat. Benny Sings), Rex Orange County          1
+Beautiful Night, Beast          1
+The Way - Spanglish Version, Ariana Grande          1
+Aftergold (feat. Tove Styrke), Big Wild          1
+Guillaume Tell (William Tell): Overture (arr. F. Wrede for 2 pianos 8 hands): Andante -, Gioachino Rossini          1
+A Quiet Afternoon, Tsundere Labs Inc          1
+Maybe Tomorrow, gugudan          1
+Raincoat, Timeflies          1
+Wishing, TWICE          1
+True Colors, Zedd          1
+I FEEL LOVE, YUKIKA          1
+The Hook Up, Britney Spears          1
+Gotta Go My Own Way, Zac Efron          1
+Goldberg Variations, BWV 988: Aria, Johann Sebastian Bach          1
+Spirited Away - The Dragon Boy / The Bottomless Pit, Joe Hisaishi          1
+OH, NO, Girl's Day          1
+We Gonna Take U Back (Lude) / Don't Leave Me, Blackstreet          1
+Uncover, LOOΠΔ / ODD EYE CIRCLE          1
+DIFFERENT, WOODZ          1
+LET THE GRASS GROW, Ruel          1
+Girl Can't Be Herself, Alicia Keys          1
+Epilogue, IU          1
+Please Don't Go, Joel Adams          1
+Flower, SEVENTEEN          1
+Devil, SUPER JUNIOR          1
+Tundra, Ola Gjeilo          1
+STFU!, Rina Sawayama          1
+Bounce Back, Little Mix          1
+Bloom - Live, ODESZA          1
+Where are you, BoA          1
+千と千尋の神隠し組曲(IV. ふたたび), Orita Nobotta          1
+PET, DAVICHI          1
+モノクローム, Tomoko Aran          1
+Youngblood, 5 Seconds of Summer          1
+Die For You, The Weeknd          1
+Here We Come a-Caroling / We Wish You a Merry Christmas, Perry Como          1
+Barbie Girl, Aqua          1
+Electric Feel, MGMT          1
+Don't Hold Your Breath, Nicole Scherzinger          1
+Lover Boy 88, 88rising          1
+Beach House, Carly Rae Jepsen          1
+Girl's day world (Intro), Girl's Day          1
+I Belong to Me, Jessica Simpson          1
+KEEP MOVING, BRONSON          1
+ALL KILL, T-ARA          1
+There You'll Be - 2007 Remaster, Faith Hill          1
+Beautiful Mistakes (feat. Megan Thee Stallion), Maroon 5          1
+Ya Man Ain't Me, Chris Brown          1
+Start the Party, Jordan Francis          1
+Raw Youth Collage, Mura Masa          1
+Congratulations, Post Malone          1
+Wake Up Where You Are, State of Sound          1
+MY DARLING, AKMU          1
+Rainbow, Kacey Musgraves          1
+Thotiana, Blueface          1
+Setsuko & Saita (From "Grave of the Fireflies"), L'Orchestra Cinematique          1
+Metronome, Weki Meki          1
+TO FEEL ALIVE, Kali Uchis          1
+Diverse Path, Omotesando          1
+All Time Low, Jon Bellion          1
+Solo Dance, Martin Jensen          1
+快樂一次擁有, Eric Chou          1
+Little Saint Nick - 1991 Remix, The Beach Boys          1
+Get U, Flume          1
+I Found A Way, Drake Bell          1
+7/11, Beyoncé          1
+EVITA!, DeVita          1
+Crush, GFRIEND          1
+Whatcha Doin' Today, 4Minute          1
+Rhythm Of Love, Plain White T's          1
+Numb / Encore, JAY-Z          1
+MISSING U, TWICE          1
+Doop (feat. Verbal Jint), Zion.T          1
+The First Noël, Andy Williams          1
+notice me, ed leigh          1
+I'll Be Home For Christmas - Single Version, Bing Crosby          1
+3AM, Matchbox Twenty          1
+Promise, Girls' Generation          1
+Regular - Korean Version, NCT 127          1
+Intro to Anxiety, Hoodie Allen          1
+The Flow - Ambient Version, Toledo Rains          1
+WHITE DAY, Girl's Day          1
+Gimme More, Britney Spears          1
+What Child Is This/The Holly And The Ivy - Medley / Remastered 2006, Bing Crosby          1
+Insomnia, YUKIKA          1
+Last Hurrah, Bebe Rexha          1
+A Lonely Night, The Weeknd          1
+La, Nils Frahm          1
+Thong Song, Sisqo          1
+Symphony No. 3 in G Major, WoO 34, "Great National Symphony" (edited by P. Spada): IV. Finale: Vivace, Muzio Clementi          1
+my boy, Billie Eilish          1
+Butterflies, Fiji Blue          1
+Spectrum, Zedd          1
+What Planet Are You From?, CLC          1
+Watch Me Dance, Tom Misch          1
+FANTASTIC BABY - Japanese ver., BIGBANG          1
+Gone, Gone, Gone, Phillip Phillips          1
+Move On, Mike Posner          1
+Don't Want a Drive, EXID          1
+All Day and All of the Night, The Kinks          1
+Favor, Vindata          1
+만나지말걸, Brave Girls          1
+Give Me Everything (feat. Ne-Yo, Afrojack & Nayer), Pitbull          1
+BRAND NEW GIRL, TWICE          1
+Photograph, Jaden          1
+The Tiki, Tiki, Tiki Room - From "The Enchanted Tiki Room", Richard M. Sherman          1
+Universe (Let's Play Ball), NCT U          1
+Good Days, SZA          1
+Thousand Miles, The Kid LAROI          1
+THE GIRLS (Can’t turn me down), Kep1er          1
+CLOSE, AB6IX          1
+Tinker Bell, APRIL          1
+Don't Talk To Me - Acoustic Version, Gabriela Richardson          1
+Guillotine, Jon Bellion          1
+Oasis, Crush          1
+Perfect Strangers, Jonas Blue          1
+Tree, BoA          1
+Attention (Remix), Ben Woodward          1
+Good Night, Kep1er          1
+Nunchucks, Doja Cat          1
+Trndsttr (feat. M. Maggie) - Lucian Remix, Black Coast          1
+Baila Baila Baila, Ozuna          1
+Lupin, KARA          1
+Hurts, LANY          1
+WE LIKE 2 PARTY, BIGBANG          1
+In A World Of My Own/Very Good Advice - From "Alice In Wonderland", Jhené Aiko          1
+Nepenthe, Clyde Boudreaux          1
+End Game, Taylor Swift          1
+Sideways, Carly Rae Jepsen          1
+Distance, Sam Ock          1
+DO NOT BELIEVE HER, Girl's Day          1
+Still into You, Paramore          1
+ANL, NCT DREAM          1
+Breakeven, The Script          1
+Superhero, Lauv          1
+An Innocent Warrior, Vai Mahina          1
+她說, JJ Lin          1
+Symphony No. 78 in C Minor, Hob.I:78 - Edited H.C.Robbins Landon: 1. Vivace, Joseph Haydn          1
+Shave It Up, Zedd          1
+What If I Go? (feat. Bonzai), Mura Masa          1
+It Will Rain, Bruno Mars          1
+Let You Go - Radio Edit, The Chainsmokers          1
+Princess Mononoke - Theme Song, Joe Hisaishi          1
+want to go to sleep, J_ust          1
+Without a word, Brave Girls          1
+V, Jay Park          1
+Save Me, BTS          1
+Rain In The Spring Time, GFRIEND          1
+Tell Me (feat. Christina Aguilera), Diddy          1
+Little Do You Know, Campsite Dream          1
+The Gospel, Alicia Keys          1
+Say My Name, Dimitri Vegas & Like Mike          1
+For You, Brave Girls          1
+Fancy, Doja Cat          1
+NOT THE END, Highlight          1
+You Don't Know Me, Ariana Grande          1
+Moments Like This, The Afters          1
+Push The Button, Sugababes          1
+Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu, Joy of Man's Desiring (Arr. Myra Hess for Piano), Johann Sebastian Bach          1
+The Other Side, Conan Gray          1
+Be My Ocean, Gentle Bones          1
+This Love, Maroon 5          1
+The One That Got Away - Acoustic, Katy Perry          1
+Boo'd Up, Ella Mai          1
+About You Now, Miranda Cosgrove          1
+Falling Stars, Delle Alpi          1
+Maps, Maroon 5          1
+Jogging, LUCY          1
+Stand Tall, Childish Gambino          1
+You're the one for me, AOA          1
+Aftershock (feat. Jacquie), Cash Cash          1
+Let It Go, Mitchel Musso          1
+Pompeii, Bastille          1
+Finistère, xerLK          1
+Late Night Talking, Harry Styles          1
+Holiday, SEVENTEEN          1
+Dancing With The Devil, NIKI          1
+Put Me Back Together (feat. Kiiara), Cheat Codes          1
+Spirited Away - The Sixth Station, Joe Hisaishi          1
+Safe And Sound, Capital Cities          1
+P.Y.T. (Pretty Young Thing), Michael Jackson          1
+New, Chimmi          1
+I Miss You (feat. Bahari), Grey          1
+Shape of You, Ed Sheeran          1
+Play My Music, Jonas Brothers          1
+Pools, NIKI          1
+It's Gonna Be Me, *NSYNC          1
+talk is overrated, Jeremy Zucker          1
+Wedding Dress (Piano Version), An Coong          1
+Lookalike, Conan Gray          1
+Young, Vallis Alps          1
+How Deep Is Your Love, Calvin Harris          1
+Moves Like Jagger, Jager          1
+More Than We Know, Alicia Keys          1
+Suit & Tie (feat. JAY Z) (feat. Jay-Z) - [Radio Edit], Justin Timberlake          1
+Hibernation, Hushed          1
+Feel Again, OneRepublic          1
+Ex-Girlfriend, No Doubt          1
+Mozart: Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romance. Andante cantabile, Wolfgang Amadeus Mozart          1
+Europa Pools (feat. Kacy Hill), Cashmere Cat          1
+Talk (feat. Disclosure), Khalid          1
+Star Spangled Banner - Live at The Woodstock Music & Art Fair, August 18, 1969, Jimi Hendrix          1
+Peer Gynt Suite No. 1, Op. 46: Morning Mood - Arr. for Piano, Edvard Grieg          1
+There's No Way (feat. Julia Michaels), Lauv          1
+Happy Now, Kygo          1
+Ready Or Not (with Busta Rhymes), Calvin Harris          1
+きらきらキラー, Kyary Pamyu Pamyu          1
+Adventure, Momoko Kikuchi          1
+My Satisfaction, IVE          1
+NO LIE, EVERGLOW          1
+Love Song, Sara Bareilles          1
+Adeste Fideles, Bing Crosby          1
+I'm Not Cool, HyunA          1
+Somebody, Natalie La Rose          1
+Numb, Men I Trust          1
+O Holy Night, Etta James          1
+sleepless in standish, ed leigh          1
+Supple Bamboo (From "The Tale of Princess Kaguya") [Instrumental], daigoro789          1
+Bad At Love, Halsey          1
+Bad - INFINITE EFFECT ADVANCE LIVE Version, INFINITE          1
+Grip, Seeb          1
+Linus And Lucy, Vince Guaraldi Trio          1
+Did I Make You Up?, half•alive          1
+On My Mind, Cody Simpson          1
+Palaces (feat. Damon Albarn), Flume          1
+Whatcha Doin', YESUNG          1
+Lips Are Movin, Meghan Trainor          1
+Candle (feat. Paloalto), Wonder Girls          1
+Ordinary Life, The Weeknd          1
+I DON'T MIND, Girl's Day          1
+What Do You Mean?, Justin Bieber          1
+Echo, THE BOYZ          1
+As Long As You Love Me, Justin Bieber          1
+Some What, Dalshabet          1
+Trouble (Prod. By Yong Jun Hyung, Kim Tae Ju), Kriesha Chu          1
+Ribbon, Beast          1
+What Do I Do, TIFFANY          1
+Star, BOYFRIEND          1
+While My Baby Gently Sleeps, Good Night World          1
+晴れた日に... - スーパー・サウンド・コレクション Vol.2 魔女の宅急便組曲, Orita Nobotta          1
+易碎品, Eric Chou          1
+SAD SONG, SECHSKIES          1
+You, The 1975          1
+Running Up That Hill (A Deal With God) - 2018 Remaster, Kate Bush          1
+Before He Cheats, Carrie Underwood          1
+Ay Chico w tommy, Mr. Carmack          1
+Sleepwalker (Virtu Remix) (feat. Joni Fatora), ILLENIUM          1
+Hymn for the Weekend - Seeb Remix, Coldplay          1
+Indestructible - The Black Madonna Remix, Robyn          1
+하드캐리 Hard Carry, GOT7          1
+imagine if, gnash          1
+Friendship Before Love, Cellophane Roses          1
+Wake Me Up, TWICE          1
+my hair, Ariana Grande          1
+NEON 1989, YUKIKA          1
+Moves Like Jagger - Studio Recording From "The Voice" Performance, Maroon 5          1
+Water Under the Bridge, Adele          1
+Imma Be, Black Eyed Peas          1
+Don't Stop, ODESZA          1
+Boys and Girls (feat. Babylon), ZICO          1
+Bump, Bump, Bump (feat. P. Diddy), B2K          1
+Solo, Iyaz          1
+Rewind, Wonder Girls          1
+MY FAULT, San Holo          1
+Hot Stuff (I Want You Back), The Pussycat Dolls          1
+Numb, Linkin Park          1
+Rocket, Beyoncé          1
+Hush, Luna Meguise          1
+Freek'n You, Jodeci          1
+Can You Feel The Love Tonight/Nants' Ingonyama - From "The Lion King", Jason Derulo          1
+Pesadilla, KozyPop          1
+Renegades, X Ambassadors          1
+LALISA, LISA          1
+MOOO!, Doja Cat          1
+act up, BAYLI          1
+Oasis (feat. Foxes), Kygo          1
+Everything Has Changed, Taylor Swift          1
+Unlock it (Lock It) - feat. Kim Petras and Jay Park, Charli XCX          1
+We Shall Overcome, The Montgomery Gospel Trio, The Nashville Quartet, and Guy Carawan          1
+Go, Flume          1
+Meow Mix, DJ Edm          1
+Nothing Breaks Like a Heart (feat. Miley Cyrus), Mark Ronson          1
+Black Pearl, SUNMI          1
+Original, ONF          1
+Verge, Owl City          1
+YeY, Beast          1
+カタオモイ, Aimer          1
+Touch It, Ariana Grande          1
+Easy Love, SF9          1
+I Will Spend My Whole Life Loving You, Imaginary Future          1
+Just A Little Bit Of Your Heart, Ariana Grande          1
+Boy, ODESZA          1
+Strangers, Seven Lions          1
+Messy, Kiiara          1
+Crooked Smile (feat. TLC), J. Cole          1
+Hericane, LANY          1
+Sit Still, Look Pretty, Daya          1
+Winter Wonderland, Darlene Love          1
+Enough 돌아가자, KYUL          1
+Keeping Your Head Up - Don Diablo Remix; Radio Edit, Birdy          1
+That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault), Taylor Swift          1
+Vuggevise, Minik Knudsen          1
+STRONGER, NCT DREAM          1
+B.B.B Big Baby Baby, Dalshabet          1
+Suite Bergamasque, L. 75: III. Clair De Lune, Steve Anderson          1
+Neither Do I, Stwo          1
+thoughts and chemicals, San Holo          1
+반짝반짝, Girl's Day          1
+Leather in The Rain (feat. Kyndall), Tyga          1
+Burberry Headband, Lil Mosey          1
+Rock with you, SEVENTEEN          1
+EXPECT, Girl's Day          1
+abcdefu (angrier), GAYLE          1
+Bungee, NCT DREAM          1
+Body Say, Demi Lovato          1
+SHAKE THAT BRASS (feat. Taeyeon), AMBER          1
+Catch Me, WJSN          1
+Two of us, 9MUSES          1
+Artistic Groove, TAEMIN          1
+History, Olivia Holt          1
+Girl On Fire (feat. Nicki Minaj) - Inferno Version, Alicia Keys          1
+Say My Name, NIKI          1
+3’Sec, divin’          1
+Still Life, BIGBANG          1
+Woman Like Me (feat. Nicki Minaj), Little Mix          1
+Chariot, Gavin DeGraw          1
+Express 999, Girls' Generation          1
+Part Of Your World - From "The Little Mermaid", Jessie J          1
+Figaro (inst), 9MUSES          1
+Dancing on the Moon, Jessica          1
+Don’t Forget, Crush          1
+Walk Me Home, P!nk          1
+Hands On Me, Ariana Grande          1
+Lose Control (feat. Ciara & Fat Man Scoop), Missy Elliott          1
+Toxic, BoyWithUke          1
+You're It, Gabe Bondoc          1
+I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy), Lil Peep          1
+Comes and Goes 와리가리, HYUKOH          1
+O Sole Mio, SF9          1
+I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault), Taylor Swift          1
+Tell Me, Wonder Girls          1
+Hot Boy, Saweetie          1
+So What, BTS          1
+Vanilla Sky (Feat. sunwoojunga), THAMA          1
+Know Your Name - R&B Version, Jay Park          1
+Nobody's Perfect - From “Hannah Montana 2”, Hannah Montana          1
+How Far I'll Go - Alessia Cara Version, Alessia Cara          1
+Colors, LOONA          1
+When We're Human - From "The Princess and the Frog"/Soundtrack Version, Michael-Leon Wooley          1
+Late Night, ODESZA          1
+BOOM, Tiësto          1
+Sixth Sense, Brown Eyed Girls          1
+TIME TRAVEL, YUKIKA          1
+While You Sleep, Late Era          1
+We Find Love, Daniel Caesar          1
+Overdrive, Conan Gray          1
+Girlfriend - Mandarin Version - Explicit, Avril Lavigne          1
+Sign of the Times, Harry Styles          1
+Survivors, Selena Gomez          1
+Too Young (feat. Baker Grace), ayokay          1
+Hiraeth, Chieloka          1
+Glad You Came, The Wanted          1
+Talking to Yourself, Carly Rae Jepsen          1
+I Need a Girl, Trey Songz          1
+I Bet, Ciara          1
+Come Back...Be Here (Taylor's Version), Taylor Swift          1
+Lifestyle (Jason Derulo ft. Adam Levine), Jason Derulo          1
+So Far Away (feat. Jamie Scott & Romy Dya), Martin Garrix          1
+YOU.zip, APRIL          1
+Future Me, Echosmith          1
+Santa Tell Me, Ariana Grande          1
+O Christmas Tree, Tony Bennett          1
+FM, Crayon Pop          1
+vicarious living anthem, Mura Masa          1
+Kiss My Lips, BoA          1
+Piano Concerto No. 1 in C Major, Op. 15: Rondo. Allegro, Ludwig van Beethoven          1
+In Dreams, INO hidefumi          1
+When I'm with you, SOYOU          1
+Make a wish, gugudan          1
+Irreversible, BoA          1
+I Don’t Think I Can Do This Again (with Clairo), Mura Masa          1
+Down On Me, Jeremih          1
+Plot Twist, Marc E. Bassy          1
+Friends, NIKI          1
+O Tannenbaum, Vince Guaraldi Trio          1
+bad guy, Billie Eilish          1
+HUG ME ONCE, Girl's Day          1
+Don't Wanna Go Home, Jason Derulo          1
+Heart Out - Live From The O2, London. 16.12.16, The 1975          1
+Caroline, Aminé          1
+FAKE LOVE, BTS          1
+Curiosity, LOONA          1
+DHLC, Flume          1
+Singing in the Rain (JinSoul), LOONA          1
+Old Folks At Home (Swanee River), 2nd South Carolina String Band          1
+Overgrown, Aleksandir          1
+You Need To Calm Down, Taylor Swift          1
+la luna enamorada, Kali Uchis          1
+Best Part (feat. H.E.R.), Daniel Caesar          1
+Fighter, Christina Aguilera          1
+Dynasty, Rina Sawayama          1
+Look at me, Sam Kim          1
+Damn Good Friends, Elle Varner          1
+MISS AGENT, 9MUSES          1
+the lifeboat's empty!, Chelsea Cutler          1
+Anona, Otto A. Totland          1
+BEAUTIFUL, TREASURE          1
+The Christmas Waltz - Remastered 1999, Frank Sinatra          1
+Your memory, Kassy          1
+7 Minutes, Dean Lewis          1
+AVE MARIA, GFRIEND          1
+Lollipop, f(x)          1
+Where the sea sleeps, DAY6 (Even of Day)          1
+BByong, Saturday          1
+Break Down (The Feeling), Wandl          1
+먼저 말해줘 Farewell, TAEYEON          1
+Pain, Wilhelm          1
+Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet), Frank Sinatra          1
+Chief, THIEVES          1
+Stupid Love, Lady Gaga          1
+Waka Boom (My Way) (feat. Lee Young Ji), Hyolyn          1
+MOONLIGHT, TWICE          1
+Hard Sometimes, Ruel          1
+Don't Say No, SEOHYUN          1
+What Other People Say, Sam Fischer          1
+Memories of Life: The Tale of Princess Kaguya, daigoro789          1
+Setsuko & Seita Main Theme (From "Grave of the Fireflies") [Instrumental], daigoro789          1
+HIGHLIGHT, SEVENTEEN          1
+Les Noces. Première partie: Premier tableau: Chez la mariée, Igor Stravinsky          1
+Tired, Alan Walker          1
+Gone not around any longer, SISTAR19          1
+Cassette, ayokay          1
+CAMO, BoA          1
+ceilings, Lizzy McAlpine          1
+30, ed leigh          1
+No Hope Generation, Mura Masa          1
+エスケイプ, EPO          1
+Back To Black, Amy Winehouse          1
+Sitting Pretty: Act One, Finale, Paige O'Hara          1
+Airport Goodbyes (Prod. The Black Skirts), WENDY          1
+Keep On, Kehlani          1
+Sugar, We're Goin Down, Fall Out Boy          1
+Hey There Delilah, Plain White T's          1
+I'm a fool, WABLE          1
+Life's Too Short, aespa          1
+Lean On (feat. MØ & DJ Snake), Major Lazer          1
+Time, Free Nationals          1
+Merry & Happy, TWICE          1
+Ordinary People, John Legend          1
+damn Right, AUDREY NUNA          1
+YEBISU - Yung Bae Edit, Yung Bae          1
+Bang Bang, Jessie J          1
+Buy U a Drank (Shawty Snappin') (feat. Yung Joc), T-Pain          1
+Sun, Moon, Sea and Stars, Bob Chilcott          1
+Euphoria, Chymes          1
+Hate, 4Minute          1
+When You Think Of Me, Lillias White          1
+Cake By The Ocean, DNCE          1
+All I Ever Need, Austin Mahone          1
+Robbery, Juice WRLD          1
+It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra), Perry Como          1
+Oblivion, Grimes          1
+Meow - Mixed, Stolen Mech          1
+Sonata No. 1 in G Minor, BWV 1001: I. Adagio, Johann Sebastian Bach          1
+Blood Sweat & Tears, BTS          1
+POP, bugAboo          1
+Infinity, SuperM          1
+Go To Town, Doja Cat          1
+Wrapped Up (feat. Travie McCoy), Olly Murs          1
+Cello Concerto in C Major, G. 477: II. Largo, Luigi Boccherini          1
+K-TOWN, Jay Park          1
+Fuck You, CeeLo Green          1
+My Favourite Things, Tony Bennett          1
+Where We Are, Ryos          1
+Hush Hush, fromis_9          1
+Bad Things - With Camila Cabello, Machine Gun Kelly          1
+Ya Heart, Dalshabet          1
+Everyday I Love You, LOONA          1
+Ka-CHING!, EXO-CBX          1
+Coquette, ooi          1
+pit-a-pet, YUKIKA          1
+Orfeo et Eurydice: Mélodie for Piano Solo, Christoph Willibald Gluck          1
+Voyager, Beyond The Bubble          1
+Quiet Nights, The Only Star In The Sky          1
+Love Me - Live From The O2, London. 16.12.16, The 1975          1
+Forgive Me, BoA          1
+Miracle, fromis_9          1
+Night Night (feat. Kehlani), Cashmere Cat          1
+Know Now, NCT U          1
+ILYSB - STRIPPED, LANY          1
+Fantasy, Mariah Carey          1
+ING, MINZY          1
+Where The Love Goes (feat. Oskar Flood), Anjulie          1
+Juicy, Doja Cat          1
+Go Find Yourself or Whatever, Carly Rae Jepsen          1
+Candy Pop, TWICE          1
+When Marnie Was There - Fine on the Outside, Vitamin String Quartet          1
+Good Ones, Charli XCX          1
+girlfriend, Bea Miller          1
+Happy Now, Zedd          1
+So Cool, SISTAR          1
+Lite Weight (feat. The Free Nationals United Fellowship Choir), Anderson .Paak          1
+Typa Girl, BLACKPINK          1

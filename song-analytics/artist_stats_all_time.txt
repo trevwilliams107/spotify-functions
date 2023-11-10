@@ -1,0 +1,1326 @@
+artist         num_plays
+Red Velvet          19409
+TWICE          7622
+fromis_9          4885
+Girls' Generation          3025
+STAYC          2898
+LOONA          2855
+Brave Girls          2712
+WJSN          2689
+aespa          2442
+ITZY          2354
+GFRIEND          2236
+BLACKPINK          2173
+IZ*ONE          2090
+EVERGLOW          1969
+OH MY GIRL          1928
+Apink          1710
+TAEYEON          1589
+EXID          1581
+MOMOLAND          1524
+CLC          1477
+AOA          1469
+f(x)          1462
+LE SSERAFIM          1411
+LOONA/yyxy          1374
+UNI.T          1315
+Cherry Bullet          1276
+I.O.I          1253
+IVE          1223
+9MUSES          1164
+CHUNG HA          1121
+Weki Meki          1055
+EXO          1034
+Kep1er          955
+Red Velvet - IRENE & SEULGI          948
+gugudan          944
+Girl's Day          941
+NCT 127          901
+Taylor Swift          867
+LOOΠΔ / ODD EYE CIRCLE          850
+SUNMI          789
+Lovelyz          725
+Mariah Carey          703
+Weeekly          692
+KARA          680
+Yubin          678
+IU          670
+Ariana Grande          655
+DIA          653
+Stray Kids          629
+SEULGI          621
+Rocket Punch          584
+NewJeans          571
+Clean Bandit          547
+Hyolyn          523
+(G)I-DLE          511
+Dalshabet          497
+APRIL          494
+BESTie          487
+Stellar          483
+TREASURE          474
+PRISTIN V          460
+PRISTIN          442
+Chris Brown          434
+ENHYPEN          413
+NIKI          407
+BTS          406
+SHINee          401
+Dua Lipa          396
+The Pussycat Dolls          392
+JEON SOMI          380
+T-ARA          374
+LIGHTSUM          357
+SEVENTEEN          355
+JO YURI          351
+NAYEON          340
+NMIXX          316
+Saweetie          316
+SECRET NUMBER          313
+PRODUCE 48          309
+Katy Perry          306
+TOMORROW X TOGETHER          305
+Girls' Generation-Oh!GG          289
+GOT the beat          287
+SISTAR          284
+Olivia Rodrigo          280
+After School          274
+VIVIZ          271
+Doja Cat          267
+Rina Sawayama          261
+Orange Caramel          258
+Britney Spears          255
+MAMAMOO          255
+Ne-Yo          254
+Jay Park          252
+Billlie          249
+Kesha          249
+NCT DREAM          244
+GOT7          243
+JENNIE          225
+WINNER          222
+Drake          220
+Todrick Hall          218
+Rihanna          212
+KARD          206
+Apink CHOBOM          206
+DEAN          204
+Usher          199
+BIGBANG          195
+SONAMOO          193
+Phineas and the Ferbtones          191
+WJSN Chocome          186
+NiziU          184
+JOY          177
+The Weeknd          175
+ALICE          173
+iKON          168
+Memory Fabricators          166
+Love Potion          163
+YENA          162
+1AM          159
+2NE1          159
+PURPLE KISS          157
+Cobra Starship          154
+Black Eyed Peas          150
+Bruno Mars          149
+Kim Petras          149
+Zedd          147
+HyunA          147
+YUKIKA          146
+H.I.N.P (Hot Issue of Ntl. Producers)          145
+KHAN          141
+Fergie          139
+ROSÉ          138
+The Promise          135
+BoA          133
+Nelly          133
+KWON EUN BI          131
+Shawn Mendes          131
+Soulja Boy          128
+Jeremih          128
+Pitbull          127
+Hwa Sa          126
+SummerWish          125
+HELLOVENUS          124
+XG          123
+NATURE          120
+LANY          118
+Janet Jackson          118
+Wanna One          116
+RAINBOW          116
+Dawin          115
+Lenra          114
+Little Mix          112
+Fei          111
+S.E.S.          111
+Beyoncé          111
+Lady Gaga          110
+The Chainsmokers          109
+Unicorn          108
+Knock          103
+No Rome          101
+Haworth in White          100
+Post Malone          99
+Cash Cash          98
+OH MY GIRL BANHANA          97
+Destiny's Child          97
+NATTY          95
+Girls' Generation-TTS          93
+Jordin Sparks          91
+Lorde          90
+BAEKHYUN          90
+Demi Lovato          90
+Medusa          89
+TAEYONG          88
+Mary J. Blige          87
+VIXX          87
+Regard          87
+Nicki Minaj          87
+Alicia Keys          86
+EXO-CBX          86
+IMFACT          84
+myB 마이비          84
+Girls Planet 999          83
+PENTAGON          83
+DJ Snake          83
+Kali Uchis          81
+Charlie Puth          80
+David Guetta          79
+The 1975          78
+Justin Timberlake          77
+Jason Derulo          74
+LUNA          71
+KRANE          70
+Calvin Harris          69
+Flo Rida          67
+TVXQ!          67
+Normani          67
+THE BOYZ          66
+Jax Jones          65
+The Veronicas          63
+Maroon 5          62
+LEE SUHYUN          61
+Tritonal          61
+woo!ah!          61
+P!nk          61
+Jessie J          60
+7 LOVE Minutes          60
+Jessica Simpson          60
+Avril Lavigne          60
+Triple H          59
+HyunA&DAWN          59
+Hoang Thuy Linh          58
+Jay Sean          58
+Sigala          57
+Gryffin          57
+MIYEON          57
+Rex Orange County          57
+Wonder Girls          56
+HI-FI CAMP          56
+Cotton Candy          56
+Kelly Clarkson          56
+Kendrick Lamar          56
+Cashmere Cat          55
+Lizzo          54
+Kiana Ledé          54
+Keri Hilson          53
+Martin Garrix          53
+Mario          53
+GWSN          53
+GIRLS ON TOP          52
+Ella Mai          51
+Yoo Jae Seok          51
+PRODUCE 101          50
+LOOΠΔ 1/3          50
+ODESZA          50
+Ciara          50
+Ellie Goulding          49
+The Mindful          46
+Timbaland          46
+NEIKED          46
+Adele          45
+miss A          45
+Boys Under The Moon          43
+Punch          42
+It's          42
+Justin Bieber          42
+Rudimental          42
+Remi Wolf          42
+Cardi B          41
+Eric Chou          41
+Charli XCX          40
+4Minute          40
+Tropkillaz          40
+Pinkrush          39
+Karmin          38
+JoJo          38
+Tinashe          38
+Alex Newell          38
+will.i.am          37
+Yung Gravy          37
+george          36
+LISA          35
+FIESTAR          35
+Junior Senior          35
+Nelly Furtado          35
+EXO-K          35
+7 go up          35
+Kygo          34
+Christina Aguilera          34
+Iyaz          33
+Taio Cruz          33
+Jennifer Lopez          33
+Tamia          32
+Selena Gomez & The Scene          32
+Michelle Branch          32
+Lauv          30
+Jessie Ware          30
+Leona Lewis          30
+ZAYN          30
+Miley Cyrus          30
+Victorious Cast          29
+Make Some Noise          29
+Mura Masa          29
+Tiësto          28
+tripleS          28
+inLu          27
+Akon          27
+A*Teens          27
+Sons of People          27
+Steve Aoki          26
+Zion.T          26
+HEIZE          26
+Aly & AJ          26
+TIFFANY          26
+Djniqo          25
+Cascada          25
+Carly Rae Jepsen          25
+LEE CHAE YEON          25
+Nick Jonas          24
+Julia Michaels          24
+Childish Gambino          24
+Estelle          24
+P-Lo          24
+Olly Murs          23
+YG          23
+YooA          23
+San Holo          23
+Zendaya          23
+Paramore          23
+Sean Kingston          22
+Owl City          22
+Passeggiate Al Chiaro          22
+Selena Gomez          22
+Far East Movement          22
+G.R.L.          22
+Conan Gray          22
+Marteen          21
+lvusm          21
+Flume          20
+Secret          19
+Hannah Montana          19
+Ashlee Simpson          19
+Natalie Imbruglia          19
+Atomic Kitten          19
+Bridgit Mendler          19
+PLEDIS GIRLZ          18
+Slate          18
+MAX          18
+FM-84          18
+DAY6          18
+Eric Nam          18
+David Archuleta          18
+The Band Perry          17
+Peachy!          17
+Missy Elliott          17
+Dido          17
+Rick Astley          17
+Macross 82-99          16
+Gwen Stefani          16
+FIFTY FIFTY          16
+TLC          16
+Lily Allen          16
+The Vamps          16
+Shontelle          16
+Tamar Braxton          16
+SHAUN          16
+Jamelia          16
+Ed Sheeran          16
+Robyn          16
+The Script          15
+Etta James          15
+Cher Lloyd          15
+MKTO          15
+Patrick Doyle          15
+Hailee Steinfeld          15
+AOA CREAM          15
+Madonna          15
+Norah Jones          15
+88rising          14
+BOL4          14
+Cassie          14
+Santana          14
+Icona Pop          14
+Imagine Dragons          13
+Cheat Codes          13
+Japan Ground Self Defense Force Central Band          13
+Desired          13
+Kevin Rudolf          13
+Lea Salonga          13
+Stella Jang          13
+Christina Milian          13
+Mandy Moore          13
+CeeLo Green          13
+Meghan Trainor          12
+GHOST DATA          12
+Adriana Caselotti          12
+Michael Giacchino          12
+Fat Joe          12
+Robin Schulz          12
+Coldplay          12
+Tennyson          12
+Jessica          12
+오전 1:00          12
+HYOYEON          12
+bugAboo          12
+Whee In          12
+Bing Crosby          12
+OneRepublic          12
+Lady A          11
+Wolfgang Amadeus Mozart          11
+Hot Chelle Rae          11
+Ray J          11
+Chancellor          11
+Richard M. Sherman          11
+Ruel          11
+Bell Biv DeVoe          11
+Shakira          11
+Baby Bash          11
+Galantis          11
+One Direction          11
+Risso          10
+SURAN          10
+Stacie Orrico          10
+Tiffany Young          10
+Sultan of the Disco          10
+Avicii          10
+Spice Girls          10
+La Roux          10
+50 Cent          10
+Kylie Minogue          10
+L'Orchestra Cinematique          10
+ZICO          10
+Outkast          10
+3OH!3          10
+Backstreet Boys          9
+Kristen Bell          9
+Jesse McCartney          9
+リアムMAZE1981          9
+The Disney Afternoon Studio Chorus          9
+Orita Nobotta          9
+Camille Saint-Saëns          9
+Bruce Healey          9
+Elton John          9
+Crush          9
+Liam Payne          9
+NCT U          9
+Michael Jackson          9
+Joe Hisaishi          8
+Bowling For Soup          8
+10cm          8
+Park Kyung          8
+Daft Punk          8
+AKMU          8
+Jhené Aiko          8
+Lil Nas X          8
+Glee Cast          8
+Ashley Tisdale          8
+BTOB          8
+Kidz Bop Kids          8
+daigoro789          8
+Nat King Cole          8
+Billie Eilish          8
+Randy Newman          8
+Jonas Blue          8
+Jerry Goldsmith          8
+The Kid LAROI          8
+WENDY          8
+GAYLE          8
+J_ust          7
+SF9          7
+Miranda Cosgrove          7
+Angela Lansbury          7
+Vanessa Carlton          7
+Robert MacGimsey          7
+Fitz and The Tantrums          7
+SOYOU          7
+Hey Monday          7
+LABOUM          7
+Sia          7
+Monsta X          7
+Auli'i Cravalho          7
+Enrique Iglesias          7
+Gotye          6
+Bella Thorne          6
+Adam Hicks          6
+ed leigh          6
+Us The Duo          6
+The Dwarf Chorus          6
+Cheryl Freeman          6
+Ilene Woods          6
+Glass Animals          6
+Anika Noni Rose          6
+Train          6
+Johann Sebastian Bach          6
+Audra McDonald          6
+James Arthur          6
+HUMMING URBAN STEREO          6
+Eminence Symphony Orchestra          6
+Josh Gad          6
+Jonas Brothers          6
+Brad Kane          6
+Metro Station          6
+Disney Channel Stars          6
+Dick Van Dyke          6
+Halsey          6
+Wiz Khalifa          6
+Hilary Duff          6
+Opetaia Foa'i          6
+Twenty One Pilots          6
+DAYBREAK          6
+Frank Sinatra          6
+Tim McGraw          6
+Kehlani          6
+Daughtry          6
+Julie Andrews          6
+Lilly Ahlberg          6
+T-Pain          6
+JOGON          5
+Sean Paul          5
+Pink Sweat$          5
+gnash          5
+Kanye West          5
+Edward Maya          5
+Zara Larsson          5
+Harry Styles          5
+Samuel E. Wright          5
+Rita Ora          5
+The All-American Rejects          5
+TAEMIN          5
+UP10TION          5
+TAEYANG          5
+Henry          5
+Friday Night Plans          5
+Gabe Bondoc          5
+Beast          5
+Paige O'Hara          5
+Alexandra Stan          5
+Alessia Cara          5
+Disney Studio Chorus          5
+Carlie Hanson          5
+Lindsay Lohan          5
+Dwayne Johnson          5
+John Williams          5
+Yoshihiro Koseki          5
+B.A.P          5
+Big Time Rush          5
+The Melomen          5
+Highlight          5
+DNCE          5
+PLAYBACK          4
+Tegan and Sara          4
+Andy Williams          4
+Khalid          4
+Trevor Wesley          4
+Luna, Hani, Solar          4
+Kill Them With Colour          4
+SUPER JUNIOR          4
+Vizzionz          4
+Timeflies          4
+The Fray          4
+Sonna          4
+cupcakKe          4
+Suzy          4
+Lily James          4
+Camila Cabello          4
+R. Kelly          4
+Sam Kim          4
+LeeHi          4
+Idina Menzel          4
+Anime Kei          4
+Quinn XCII          4
+Panic! At The Disco          4
+Andy Grammer          4
+Julie Fowlis          4
+Mice Chorus          4
+Jodi Benson          4
+NCT          4
+Susan Egan          4
+MIKA          4
+Buddy Baker          4
+Big Sean          4
+Olivia Foa'i          4
+Emily Burns          4
+ayokay          4
+Gallant          4
+Kiriko          4
+Night Tempo          4
+Perry Como          4
+Lupe Fiasco          4
+Ella Fitzgerald          4
+Marc E. Bassy          4
+Berhana          4
+Amy Winehouse          4
+Bruce Adler          4
+Why Don't We          4
+B.o.B          4
+Pat Carroll          4
+Bruce Broughton          4
+John Mayer          4
+Chorus - Pocahontas          3
+Mac Ayres          3
+LIM JIMIN          3
+Mark Keali'i Ho'omalu          3
+Salt-N-Pepa          3
+DPR IAN          3
+Jesse Corti          3
+Kathryn Beaumont          3
+The Ready Set          3
+HIGH4          3
+The Minions          3
+AJR          3
+Tiffany Day          3
+Mary Costa          3
+Jim Carmichael          3
+The Ronettes          3
+Raiden          3
+Judy Kuhn          3
+Nikki Blonsky          3
+The Jackson 5          3
+Luke Chiang          3
+The Citizens of Halloween          3
+Roger Bart          3
+Lee Jin Ah          3
+Keith Ferreira          3
+*NSYNC          3
+POP! CORN          3
+Chorus - Bambi          3
+mxmtoon          3
+Dickie Jones          3
+The Mellomen          3
+Lost Frequencies          3
+Diddy - Dirty Money          3
+Kuana Torres Kahele          3
+Lin-Manuel Miranda          3
+Sam Smith          3
+Upper          3
+CODE KUNST          3
+Nathan Lane          3
+Neon Trees          3
+ONEWE          3
+John OFA Rhee          3
+BRONSON          3
+Jason Weaver          3
+B.I          3
+KYLE          3
+Donny Osmond          3
+Phillip Phillips          3
+Alec Benjamin          3
+Bobby Driscoll          3
+Colbie Caillat          3
+BENEE          3
+INFINITE          3
+Jim Cummings          3
+Jemaine Clement          3
+Major Lazer          3
+Ship's Chorus          3
+Chorus - Dumbo          3
+EASHA          3
+LIONAIRE          3
+George Bruns          3
+The Disneyland Children's Chorus          3
+Emma Thompson          3
+Afrojack          3
+CHEEZE          3
+Linkin Park          3
+Vallis Alps          3
+ooi          3
+Chorus - Hercules          3
+DOYOUNG          3
+Yung Bae          3
+Danny DeVito          3
+Cliff Edwards          3
+Jaymes Young          3
+Bebe Rexha          3
+Walter Catlett          3
+SHAED          3
+Louis Prima          3
+David Ogden Stiers          3
+Louis The Child          3
+The Muppets          3
+Jeremy Zucker          3
+Alan Walker          3
+CLASS:y          3
+Kiiara          3
+Rene Auberjonois          3
+Billy Crystal          3
+Gym Class Heroes          3
+Richard White          3
+Jun Hyo Seong          3
+Darlene Love          3
+Franz Liszt          3
+Maisie Peters          3
+B1A4          3
+Klaus Badelt          3
+Ewan McGregor          3
+Foster The People          3
+Joseph Williams          3
+SZA          3
+Keith David          3
+The Mouseketeers          3
+Orianthi          3
+Daniel Caesar          3
+ayaka          3
+Primary          3
+Vince Guaraldi Trio          3
+Gentle Bones          3
+Ludovico Einaudi          2
+Ned Washington          2
+Gunna          2
+Daddy Yankee          2
+Thurl Ravenscroft          2
+Gypsy Jazz Caravan          2
+LADIES' CODE          2
+GSoul          2
+Gnarls Barkley          2
+Hans Zimmer          2
+Astrid S          2
+Natasha Bedingfield          2
+Queen + The Muppets          2
+Burl Ives          2
+Austin Mahone          2
+Deorro          2
+Bahari          2
+Craig Copeland          2
+Paul Simpson          2
+Hitomi Tohyama          2
+Sik-K          2
+Mitchel Musso          2
+Michael Bublé          2
+Felix Mendelssohn          2
+George Frideric Handel          2
+YUNGBLUD          2
+Kalin and Myles          2
+I.B.I          2
+Eyedi          2
+Snoop Dogg          2
+Hoodie Allen          2
+FINNEAS          2
+THE ANXIETY          2
+Pete Renoudet          2
+Corinne Bailey Rae          2
+Lukas Graham          2
+Chad Stuart          2
+Oliver Tree          2
+Tove Lo          2
+Billy Taylor          2
+Kacey Musgraves          2
+Carpenters          2
+Meaghan Martin          2
+Antonín Dvořák          2
+LambC          2
+Bazzi          2
+Kings of Leon          2
+Bug Chorus          2
+Hoody          2
+ILLENIUM          2
+Hozier          2
+Vice          2
+Pete Seeger          2
+T.I.          2
+Louis Armstrong          2
+Phil Harris          2
+Glynis Johns          2
+Mondo Grosso          2
+Jonathan Sacks          2
+Bill Cantos          2
+Jason Mraz          2
+Kim Na Young          2
+Hamzaa          2
+Tyga          2
+Forest Blakk          2
+Kodak Black          2
+Chance the Rapper          2
+Martin Solveig          2
+Porter Robinson          2
+Snakehips          2
+Chromeo          2
+Dennis Lloyd          2
+Anne-Marie          2
+Megan Thee Stallion          2
+Jukjae          2
+ACRAZE          2
+Yu Seung Woo          2
+Solji          2
+Mabel          2
+Betty Taylor          2
+Water Sound Natural White Noise          2
+Jaden          2
+Mike Perry          2
+Lewis Bertram          2
+Scatman Crothers          2
+Dan Foliart          2
+Gemma Casimaty          2
+Latto          2
+10시 45분          2
+Farruko          2
+Dean Martin          2
+ATEEZ          2
+Amaarae          2
+Thomas Newman          2
+Igor Stravinsky          2
+Daya          2
+CKay          2
+Fireboy DML          2
+Lil Mosey          2
+Luna Meguise          2
+Chelsea Cutler          2
+Block B          2
+HYUKOH          2
+Jack Harlow          2
+Juice WRLD          2
+Luigi Boccherini          2
+Mike Posner          2
+Yeopso          2
+Redheat          2
+Emmy Meli          2
+AJ Rafael          2
+The Walters          2
+Laufey          2
+Matterhorn Yodelers          2
+Otto A. Totland          2
+Eagles          2
+Christoph Willibald Gluck          2
+SuperM          2
+ASTRO          2
+Johnny Balik          2
+Elvis Presley          2
+MIXNINE          2
+Brown Eyed Girls          2
+All-4-One          2
+Dick Dale          2
+Culture Code          2
+Måneskin          2
+AILEE          2
+Tomoko Aran          2
+Rex Allen          2
+Nina Simone          2
+Sara Bareilles          2
+Trey Songz          2
+Anna Nalick          2
+MINZY          2
+Boys Republic          2
+JAY-Z          2
+Florence + The Machine          2
+Passion Pit          2
+Bonnie McKee          2
+Verna Felton          2
+Chimmi          2
+No Doubt          2
+John Legend          2
+Ludwig van Beethoven          2
+Xavier Atencio          2
+Mark Ronson          2
+AB6IX          2
+Lauren Spencer Smith          2
+Grissini Project          2
+Birdy          2
+AUDREY NUNA          2
+Dr. John          2
+zzoilo          2
+J. Cole          2
+Chris Stapleton          2
+Jon Bellion          2
+Plain White T's          2
+Sheryl Crow          2
+OKDAL          2
+Elley Duhé          2
+Dermot Kennedy          2
+The Rose          2
+Tony Bennett          2
+Bessie Smith          2
+Gary Hoey          2
+Judy Garland          1
+Kyle Landry          1
+TRANG          1
+Aretha Franklin          1
+Alesso          1
+YEZI          1
+Lead Belly          1
+Benette          1
+Faber Drive          1
+Naoko Gushima          1
+Shannon          1
+PSY          1
+Eartha Kitt          1
+Wildberry          1
+KIM JAE HWAN          1
+Grace VanderWaal          1
+Smash Mouth          1
+JAWNY          1
+Yurie Kokubu          1
+Jordan Fisher          1
+Jessi          1
+Alok          1
+Kevin Hart          1
+Taeko Onuki          1
+North Naim          1
+RuPaul          1
+Gretchen Wilson          1
+Brenda Lee          1
+KREAM          1
+The Calling          1
+Gain          1
+MØ          1
+indigo la End          1
+The Fantasyland Band Organ          1
+José Feliciano          1
+Kay Starr          1
+Rosa Løvstrøm          1
+Echo River          1
+Chevy          1
+Yoon Mirae          1
+Yue Yan Jen          1
+Kim Yuna          1
+Domenico Scarlatti          1
+Seotaiji          1
+Pretty Ricky          1
+Three Days Grace          1
+Masala Roo          1
+2PM          1
+Lennon Stella          1
+Yoga          1
+Akina Nakamori          1
+Naomi Akimoto          1
+SNUPER          1
+George Wilkins          1
+Cyclops          1
+benny blanco          1
+SOHLHEE          1
+Miguel          1
+Conor Matthews          1
+Pharrell Williams          1
+SE SO NEON          1
+A.C.E          1
+Dominic Fike          1
+Foz Tee          1
+Whitney Houston          1
+Kris Allen          1
+LMFAO          1
+Lil Baby          1
+MIGYO          1
+Brandy          1
+Bruce Springsteen          1
+Gesaffelstein          1
+CARLA          1
+Richard Bellis          1
+Houston          1
+Bella Poarch          1
+Manuel de Falla Matheu          1
+Traditional          1
+Allstar Weekend          1
+Macklemore & Ryan Lewis          1
+Carmen Twillie          1
+Jack & Jack          1
+Donnie Trumpet & The Social Experiment          1
+Lil Wayne          1
+Mariya Takeuchi          1
+Aaron Lansing          1
+Cast Of Camp Rock          1
+Charmaine D'Avis          1
+Merle Haggard          1
+Marlene          1
+L8LOOMER          1
+Genevieve Stokes          1
+Yonder Dale          1
+Oliver Évilo          1
+Deep Inside          1
+Los Tigres Del Norte          1
+Matt Terry          1
+Hualyeogangsan          1
+MAZ.B          1
+Disclosure          1
+Joji          1
+YOASOBI          1
+Jaejoo Boys          1
+Krissy          1
+Francesca Caroléo          1
+Vincent          1
+Die Antwoord          1
+Ager          1
+The Tides          1
+Luis Fonsi          1
+LEE MINHYUK (HUTA)          1
+Kenny Loggins          1
+Taste of love          1
+Jean Sibelius          1
+ZZ Ward          1
+Michael Bruner          1
+Callisto Mazzi          1
+Hayden James          1
+Dayglow          1
+Banx & Ranx          1
+Grouplove          1
+Vengaboys          1
+Joseph McGrahl          1
+Dove Cameron          1
+Chris Lake          1
+Marshmello          1
+Cher          1
+NN-Art          1
+Claes Nilsson          1
+Joel Corry          1
+Ólafur Arnalds          1
+Tony Igy          1
+Degravitated          1
+Mark Mancina          1
+Troy          1
+WayV          1
+SUHO          1
+Summer Walker          1
+fun.          1
+Mill Nashy          1
+Goldmund          1
+The Sugarhill Gang          1
+Nada Surf          1
+Terror Squad          1
+Donny Hathaway          1
+Benjamin Gustafsson          1
+Réka Ioescu          1
+Lewis Capaldi          1
+Kreayshawn          1
+Billie Holiday          1
+Little Big Town          1
+Andrew Rannells          1
+Cosmo's Midnight          1
+The Strokes          1
+DALsooobin          1
+IGRAINE          1
+Excision          1
+Matter and Energy          1
+Pyotr Ilyich Tchaikovsky          1
+Charlotte Lawrence          1
+Green Day          1
+ATLiens          1
+ARTY          1
+DPR LIVE          1
+R3HAB          1
+Peggy Lee          1
+Sunny Girls          1
+Jung Jin Woo          1
+Lawrence          1
+Snow Patrol          1
+The Ting Tings          1
+Shawn Wasabi          1
+ROSALÍA          1
+Frank Pole          1
+RM          1
+Koby Laver          1
+Offset          1
+Henri Dutilleux          1
+chloe moriondo          1
+Nat King Cole Trio          1
+Kansas          1
+Gene Autry          1
+Boys Like Girls          1
+Magma Kum          1
+MVS          1
+Becky G          1
+Christopher Jackson          1
+Tayler Buono          1
+葛瑞蓋斯          1
+Cap Kendricks          1
+Niccolò Pagliani          1
+Bleachers          1
+Dream Street          1
+TOKiMONSTA          1
+V.Raeter          1
+BUMKEY          1
+SBGB          1
+Erykah Badu          1
+NU'EST          1
+Connie Constance          1
+Modest Mouse          1
+U-KISS          1
+BerryGood          1
+Peter Breiner          1
+Chelsea Grin          1
+Loote          1
+Keys N Krates          1
+Angel Haze          1
+Nevada          1
+Rand Aldo          1
+Girls Next Door          1
+Justice          1
+Anuel AA          1
+Miki Matsubara          1
+NU'EST W          1
+Pink Slip          1
+H.U.B          1
+Krzysztof Penderecki          1
+Moise          1
+Sam Cooke          1
+NOIR          1
+Naughty Boy          1
+Ralph Vaughan Williams          1
+강수지          1
+A Great Big World          1
+ONE          1
+Johann Eder          1
+Pavi With Tropicalia          1
+Jenevieve          1
+Kasper Schill          1
+Noah Cyrus          1
+Gabriela Montero          1
+Frédéric Chopin          1
+TEEN TOP          1
+Aru Takamura          1
+Tate McRae          1
+Calum Scott          1
+KNK          1
+Catching Flies          1
+Lucas Grabeel          1
+Cousin Stizz          1
+Kstylis          1
+SUNNYSIDEMJ          1
+Bobby Helms          1
+TobyMac          1
+Jean Petri          1
+Win and Woo          1
+Ansel Elgort          1
+Sunwoojunga          1
+Cameron Dallas          1
+Peach Tree Rascals          1
+Lynyrd Skynyrd          1
+Jordi Savall          1
+Streetlight Cadence          1
+JUNE          1
+Luke Christopher          1
+Mykola Dmytrovych Leontovych          1
+Moon Byul          1
+Zeds Dead          1
+Greyson Chance          1
+D.O.          1
+Mac Miller          1
+Octave Rivière          1
+Judithe Abelsen          1
+myB (마이비)          1
+John Ocean          1
+LUCHS          1
+Gorillaz          1
+Lake Street Dive          1
+Olivier Messiaen          1
+IzzyIzTrash          1
+Rachel House          1
+Abhi The Nomad          1
+John Denver          1
+Zak Brady          1
+JONGHYUN          1
+Jimmy Eat World          1
+Alina Baraz          1
+Josep Alba          1
+JP Saxe          1
+Vilhelm Brandt          1
+LIM KIM          1
+Candace          1
+Leah Maur          1
+NOTD          1
+H.E.R.          1
+Quintino          1
+blackbear          1
+Daniel Payson-Lewis          1
+Jupiter Grains          1
+Franz Ferdinand          1
+I Don't Like Mondays.          1
+MARINA          1
+The Neighbourhood          1
+Blue Swede          1
+Hilder Sky          1
+K/DA          1
+CHANYEOL          1
+High School Musical Cast          1
+Nicky Youre          1
+nokdu          1
+Lori Dulac          1
+Young Money          1
+shy martin          1
+21 Savage          1
+Scott Bradlee's Postmodern Jukebox          1
+Bow Wow          1
+Michael Wong          1
+RYEOWOOK          1
+Antologie          1
+Relajar          1
+Duke Dumont          1
+Artemio Li Fonti          1
+lev          1
+Dreamscaper          1
+RBL Posse          1
+Idzi Kowalczyk          1
+BamBam          1
+Lost Kings          1
+Antoine Minot          1
+Daniel Bedingfield          1
+A Boogie Wit da Hoodie          1
+Larry The Cable Guy          1
+Nause          1
+Dosbomb.          1
+Chuck Berry          1
+RKCB          1
+Aaryn Doyle          1
+HONNE          1
+CNBLUE          1
+The Elliott Brothers          1
+Wayne Allwine          1
+Gracie Abrams          1
+Mamie Smith          1
+Aguava          1
+Five For Fighting          1
+Rick Clark          1
+Paloma Faith          1
+Ronald Sims          1
+George Ezra          1
+Big Wild          1
+Gioachino Rossini          1
+Tsundere Labs Inc          1
+Zac Efron          1
+Blackstreet          1
+WOODZ          1
+Joel Adams          1
+Ola Gjeilo          1
+DAVICHI          1
+5 Seconds of Summer          1
+Aqua          1
+MGMT          1
+Nicole Scherzinger          1
+Faith Hill          1
+Jordan Francis          1
+State of Sound          1
+Blueface          1
+Omotesando          1
+Martin Jensen          1
+The Beach Boys          1
+Drake Bell          1
+DeVita          1
+Matchbox Twenty          1
+Toledo Rains          1
+Nils Frahm          1
+Sisqo          1
+Muzio Clementi          1
+Fiji Blue          1
+Tom Misch          1
+The Kinks          1
+Vindata          1
+Gabriela Richardson          1
+Ben Woodward          1
+Black Coast          1
+Ozuna          1
+Clyde Boudreaux          1
+Sam Ock          1
+Vai Mahina          1
+JJ Lin          1
+Joseph Haydn          1
+Diddy          1
+Campsite Dream          1
+Dimitri Vegas & Like Mike          1
+The Afters          1
+Sugababes          1
+Delle Alpi          1
+LUCY          1
+Bastille          1
+xerLK          1
+Capital Cities          1
+Grey          1
+An Coong          1
+Jager          1
+Hushed          1
+Jimi Hendrix          1
+Edvard Grieg          1
+Kyary Pamyu Pamyu          1
+Momoko Kikuchi          1
+Natalie La Rose          1
+Men I Trust          1
+Seeb          1
+half•alive          1
+Cody Simpson          1
+YESUNG          1
+Kriesha Chu          1
+BOYFRIEND          1
+Good Night World          1
+SECHSKIES          1
+Kate Bush          1
+Carrie Underwood          1
+Mr. Carmack          1
+Cellophane Roses          1
+B2K          1
+Jodeci          1
+KozyPop          1
+X Ambassadors          1
+BAYLI          1
+The Montgomery Gospel Trio, The Nashville Quartet, and Guy Carawan          1
+DJ Edm          1
+ONF          1
+Aimer          1
+Imaginary Future          1
+Seven Lions          1
+KYUL          1
+Minik Knudsen          1
+Steve Anderson          1
+Stwo          1
+AMBER          1
+Olivia Holt          1
+divin’          1
+Gavin DeGraw          1
+BoyWithUke          1
+Lil Peep          1
+THAMA          1
+Michael-Leon Wooley          1
+Late Era          1
+Chieloka          1
+The Wanted          1
+Echosmith          1
+Crayon Pop          1
+INO hidefumi          1
+Aminé          1
+2nd South Carolina String Band          1
+Aleksandir          1
+Elle Varner          1
+Kassy          1
+Dean Lewis          1
+DAY6 (Even of Day)          1
+Saturday          1
+Wandl          1
+Wilhelm          1
+THIEVES          1
+SEOHYUN          1
+Sam Fischer          1
+SISTAR19          1
+Lizzy McAlpine          1
+EPO          1
+Fall Out Boy          1
+WABLE          1
+Free Nationals          1
+Bob Chilcott          1
+Chymes          1
+Lillias White          1
+Grimes          1
+Stolen Mech          1
+Ryos          1
+Machine Gun Kelly          1
+Beyond The Bubble          1
+The Only Star In The Sky          1
+Anjulie          1
+Vitamin String Quartet          1
+Bea Miller          1
+Anderson .Paak          1
